@@ -1,0 +1,4596 @@
+[
+  
+  {
+    "id": "tai-mono-da",
+    "main_form": "〜たいものだ",
+    "variants": ["〜てほしいものだ"],
+    "search_keywords": [
+      "たいものだ",
+      "てほしいものだ",
+      "ものだ",
+      "愿望",
+      "希望"
+    ],
+    "meaning": "表达强烈的愿望或感叹，或对某事的强烈感受",
+    "semantic_function": "表达强烈的愿望、希望或感叹",
+    "usage_context": ["书面语", "口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "将来はこんな家に住みたいものだなあ。",
+        "zh": "将来真想住在这样的房子里啊。",
+        "en": "I really want to live in a house like this in the future.",
+        "notes": "表达个人的强烈愿望",
+        "context": "未来抱负"
+      },
+      {
+        "ja": "そんなにきれいな絵なら、ぜひ一度見てみたいものです。",
+        "zh": "如果是那么漂亮的画，真想看一次啊。",
+        "en": "If it's such a beautiful painting, I definitely want to see it once.",
+        "notes": "表达想要体验某事的强烈愿望",
+        "context": "想要看美丽的东西"
+      },
+      {
+        "ja": "今度こそ実験に成功してほしいものだ。",
+        "zh": "这次真希望实验能成功啊。",
+        "en": "I really hope the experiment succeeds this time.",
+        "notes": "表达对他人成功的强烈希望",
+        "context": "希望成功"
+      },
+      {
+        "ja": "国には税金の無駄遣いをしないでほしいものだ。",
+        "zh": "真希望国家不要浪费税金啊。",
+        "en": "I really want the country not to waste taxpayer money.",
+        "notes": "表达不希望某事发生的强烈愿望",
+        "context": "希望不要浪费公共资金"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "mono-da",
+    "main_form": "〜ものだ",
+    "variants": [],
+    "search_keywords": ["ものだ", "过去习惯", "感叹", "一般真理"],
+    "meaning": "A: 表达过去的习惯或经常发生的事情。B: 表达惊讶、赞赏或无可奈何等强烈感受",
+    "semantic_function": "回忆过去习惯，表达强烈情感、感叹或一般真理",
+    "usage_context": ["一般情况"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "子供のころは、夏になるとこの川で泳いだものです。",
+        "zh": "小时候，一到夏天就在这条河里游泳。",
+        "en": "When I was a child, I used to swim in this river every summer.",
+        "notes": "表达过去的经常性习惯，不用于单次过去事件",
+        "context": "回忆童年记忆"
+      },
+      {
+        "ja": "祖父が生きているころは、毎年お正月になると親戚が集まったものです。",
+        "zh": "祖父在世的时候，每年过年亲戚们都会聚集。",
+        "en": "When my grandfather was alive, relatives used to gather every New Year's.",
+        "notes": "描述过去的习惯性事件",
+        "context": "回忆家庭传统"
+      },
+      {
+        "ja": "若いときはよくコンサートに行ったものだが、最近は行かなくなった。",
+        "zh": "年轻的时候经常去音乐会，但最近不去了。",
+        "en": "When I was young, I used to go to concerts often, but I don't anymore recently.",
+        "notes": "表达不再继续的过去习惯",
+        "context": "比较过去和现在的习惯"
+      },
+      {
+        "ja": "卒業してからもう10年か。時間が過ぎるのは早いものだ。",
+        "zh": "毕业已经10年了吗？时间过得真快啊。",
+        "en": "It's already 10 years since graduation? Time really flies.",
+        "notes": "对时间流逝表达惊讶或无可奈何的强烈感受",
+        "context": "反思时间流逝"
+      },
+      {
+        "ja": "図書館に行かなくてもインターネットでいろんな情報が集められる。便利な世の中になったものだ。",
+        "zh": "不去图书馆也能通过网络收集各种信息。世界变得真方便啊。",
+        "en": "Even without going to the library, you can gather various information online. It has become such a convenient world.",
+        "notes": "对便利的变化表达赞赏或强烈感受",
+        "context": "评论社会变化"
+      },
+      {
+        "ja": "辞書の中のこんな小さな間違いをよく見つけられたものだ。",
+        "zh": "经常能发现字典里这样小的错误。",
+        "en": "I often found such small mistakes in the dictionary.",
+        "notes": "对观察表达强烈感受或惊讶，不用于说话者有意的行为",
+        "context": "观察细节"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "nai-mono-darou-ka",
+    "main_form": "〜ないもの（だろう）か",
+    "variants": [],
+    "search_keywords": [
+      "ないものだろうか",
+      "ないものか",
+      "愿望",
+      "希望",
+      "难以实现"
+    ],
+    "meaning": "表达强烈的愿望，即使难以实现，常带有'难道没有办法吗？'或'要是...就好了'的语感",
+    "semantic_function": "表达强烈的、往往难以实现的希望或愿望",
+    "usage_context": ["一般情况"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "どうにかして母の病気が治らないものか。",
+        "zh": "想办法让母亲的病不能治好吗？/真希望母亲的病能治好啊。",
+        "en": "I wish somehow my mother's illness would be cured.",
+        "notes": "表达希望困难情况改变的强烈愿望",
+        "context": "希望从疾病中康复"
+      },
+      {
+        "ja": "だれかこの仕事を引き受けてくれる人はいないものだろうか。",
+        "zh": "难道没有人能接受这个工作吗？",
+        "en": "Is there no one who could take on this job?",
+        "notes": "表达希望有人采取行动，常暗示难以找到这样的人",
+        "context": "为任务寻求帮助"
+      },
+      {
+        "ja": "この時計はちょっと高すぎる。どこかでもっと安く買えないものかな。",
+        "zh": "这块手表有点太贵了。在哪里能买到更便宜的吗？",
+        "en": "This watch is a bit too expensive. I wonder if there's somewhere I can buy it cheaper.",
+        "notes": "表达想要更便宜选择的愿望",
+        "context": "希望有更好的价格"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "mono-ga-aru",
+    "main_form": "〜ものがある",
+    "variants": [],
+    "search_keywords": ["ものがある", "感觉", "感受", "印象"],
+    "meaning": "表达对某事有某种感觉或印象",
+    "semantic_function": "表达感觉或印象",
+    "usage_context": ["一般情况", "表达说话者的感受"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "毎日2時間もかけて通勤するのは、かなりつらいものがある。",
+        "zh": "每天花2小时通勤，相当辛苦啊。",
+        "en": "Commuting for two hours every day is quite tough.",
+        "notes": "表达辛苦的感觉",
+        "context": "描述通勤的困难"
+      },
+      {
+        "ja": "ここまで完成しているのにあきらめなければならないなんて、残念なものがある。",
+        "zh": "已经完成到这里了却不得不放弃，真遗憾啊。",
+        "en": "To have to give up when it's almost complete like this, there's a feeling of regret.",
+        "notes": "表达遗憾或失望的感觉",
+        "context": "对放弃感到遗憾"
+      },
+      {
+        "ja": "一方的に仕事を辞めさせられた。どうしても納得できないものがある。",
+        "zh": "被单方面地辞退了工作。无论如何都无法接受啊。",
+        "en": "I was unilaterally forced to quit my job. There's something I absolutely cannot accept.",
+        "notes": "表达无法接受某事的感觉",
+        "context": "对被解雇感到无法接受"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "koto-da",
+    "main_form": "〜ことだ",
+    "variants": [],
+    "search_keywords": ["ことだ", "真的", "确实", "感叹", "惊讶", "情感"],
+    "meaning": "表达某事确实如此，常带有惊讶、情感或同情的语感",
+    "semantic_function": "表达强烈情感、惊讶、赞赏或同情",
+    "usage_context": ["一般情况"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "大きくなりすぎたからとペットを簡単に捨てる人がいる。なんとひどいことだ。",
+        "zh": "有人因为宠物长得太大就简单地抛弃。多么残忍啊。",
+        "en": "There are people who easily abandon their pets just because they grew too big. How terrible!",
+        "notes": "表达强烈的不赞成或同情",
+        "context": "评论抛弃动物的行为"
+      },
+      {
+        "ja": "困ったとき助けてくれる友達がいる。ありがたいことだ。",
+        "zh": "有在困难时帮助我的朋友。真是值得感激啊。",
+        "en": "I have friends who help me when I'm in trouble. That's something to be grateful for.",
+        "notes": "表达感激或欣赏",
+        "context": "对帮助表达感激"
+      },
+      {
+        "ja": "いくら電話しても出ない。全く困ったことだ。",
+        "zh": "怎么打电话都不接。真是麻烦啊。",
+        "en": "No matter how many times I call, they don't answer. It's really troublesome.",
+        "notes": "表达困扰的感觉，动词「困る」在这里像形容词一样使用",
+        "context": "对不回应感到困扰"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "koto-darou",
+    "main_form": "〜ことだろう",
+    "variants": ["〜ことか"],
+    "search_keywords": [
+      "ことだろう",
+      "ことか",
+      "多么",
+      "多少",
+      "感叹",
+      "书面语"
+    ],
+    "meaning": "用于表达某事物的非常强烈的程度（如'多么'、'多少'）或非常强烈的感受，常用于书面语",
+    "semantic_function": "表达强烈的程度、数量或情感，常为修辞性质",
+    "usage_context": ["书面语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "この城を完成させるのに、いったい何年かかったことだろう。",
+        "zh": "完成这座城堡到底花了多少年啊！",
+        "en": "I wonder how many years it took to complete this castle!",
+        "notes": "表达对所花费大量时间的强烈感受，常为修辞性质的问题",
+        "context": "反思大型建筑工程"
+      },
+      {
+        "ja": "「無駄遣いするな」と子供にもう何回注意したことか。",
+        "zh": "对孩子说了多少次'不要浪费钱'啊！",
+        "en": "How many times have I warned my child, 'Don't waste money'!",
+        "notes": "对给出的重复警告表达强烈感受",
+        "context": "对孩子习惯的父母式挫败感"
+      },
+      {
+        "ja": "離れて暮らしているあなたのことを、ご両親はどんなに心配していることか。",
+        "zh": "父母对远离生活的你是多么担心啊！",
+        "en": "How worried your parents must be about you, living far away!",
+        "notes": "对父母感受表达强烈的担忧或同理心",
+        "context": "对父母担心的同理心"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "you-de-wa-nai-ka",
+    "main_form": "〜(よ)うではないか",
+    "variants": ["〜(よ)うではないか", "〜(よ)うではありませんか"],
+    "search_keywords": [
+      "ようではないか",
+      "ではないか",
+      "ましょう",
+      "ませんか",
+      "proposal",
+      "suggestion",
+      "invitation"
+    ],
+    "meaning": "强烈建议或提议一起做某事，通常带有向群体呼吁的意味",
+    "semantic_function": "强烈建议或提议行动，向群体呼吁",
+    "usage_context": [
+      "正式演讲",
+      "政治演讲",
+      "面向广大听众",
+      "日常对话中不常用"
+    ],
+    "proficiency_level": "N1",
+    "examples": [
+      {
+        "ja": "環境を守るために何ができるか、考えてみようではないか。",
+        "zh": "为了保护环境，我们来思考能做些什么吧。",
+        "en": "Let's think about what we can do to protect the environment.",
+        "notes": "A suggestion to consider actions for environmental protection.",
+        "context": "Group discussion about environmental issues"
+      },
+      {
+        "ja": "みんなで協力して、このイベントを成功させようではないか。",
+        "zh": "大家一起合作，让这个活动成功吧。",
+        "en": "Let's all cooperate and make this event a success.",
+        "notes": "A strong call for collective effort to achieve success.",
+        "context": "Rallying people for an event"
+      },
+      {
+        "ja": "問題の解決を目指し、話し合おうではありませんか。",
+        "zh": "为了解决问题，我们来讨论一下吧。",
+        "en": "Let's discuss with the aim of solving the problem.",
+        "notes": "A formal suggestion to hold a discussion to resolve an issue.",
+        "context": "Formal meeting to address a problem"
+      }
+    ],
+    "related_grammar": ["〜ましょう", "〜ませんか"]
+  },
+  {
+    "id": "koto-da",
+    "main_form": "〜ことだ",
+    "variants": [],
+    "search_keywords": [
+      "ことだ",
+      "べきだ",
+      "するのが大切だ",
+      "したほうがいい",
+      "advice",
+      "recommendation",
+      "rule"
+    ],
+    "meaning": "表示某事很重要、必要，或者是建议/推荐",
+    "semantic_function": "给出建议、推荐，或陈述作为一般规则/必要性",
+    "usage_context": ["给出建议", "陈述一般规则", "不用于对上级"],
+    "proficiency_level": "N3",
+    "examples": [
+      {
+        "ja": "いいアイデアを見つけるためには、普段から何でも思いついたことをメモしておくことだ。",
+        "zh": "为了找到好点子，平时就应该把任何想到的事情都记下来。",
+        "en": "To find good ideas, you should always jot down anything that comes to mind.",
+        "notes": "Advice on how to find good ideas.",
+        "context": "Giving advice for brainstorming"
+      },
+      {
+        "ja": "太りたくなければ、夜遅く食べないことです。",
+        "zh": "如果不想变胖，就不要在晚上很晚的时候吃东西。",
+        "en": "If you don't want to get fat, you shouldn't eat late at night.",
+        "notes": "Advice for preventing weight gain.",
+        "context": "Giving health advice"
+      },
+      {
+        "ja": "大切な決定をしなければならないときは、いろいろな人の意見を聞いてみることです。",
+        "zh": "在必须做出重要决定时，应该听取各种人的意见。",
+        "en": "When you have to make an important decision, you should try listening to various people's opinions.",
+        "notes": "Advice for making important decisions.",
+        "context": "Guidance for decision-making"
+      }
+    ],
+    "related_grammar": ["〜べきだ", "〜したほうがいい"]
+  },
+  {
+    "id": "mono-da-mono-de-wa-nai",
+    "main_form": "〜ものだ / 〜ものではない",
+    "variants": [],
+    "search_keywords": [
+      "ものだ",
+      "ものではない",
+      "すべきだ",
+      "するべきではない",
+      "general truth",
+      "common sense",
+      "rule",
+      "prohibition"
+    ],
+    "meaning": "表达一般真理、常识、自然倾向，或强烈的禁止/告诫",
+    "semantic_function": "陈述一般真理、常识，或强烈的禁止/告诫",
+    "usage_context": [
+      "表达一般真理",
+      "陈述常识",
+      "禁止",
+      "不用于特定主体或人物",
+      "不用于对上级"
+    ],
+    "proficiency_level": "N3",
+    "examples": [
+      {
+        "ja": "人との出会いは大切にするものだ。",
+        "zh": "与人相遇是应该珍惜的。",
+        "en": "Encounters with people are to be cherished.",
+        "notes": "Expressing a general truth about human relationships.",
+        "context": "Reflecting on human connections"
+      },
+      {
+        "ja": "日本では、お見舞いの時は鉢植えの花はあげないものです。",
+        "zh": "在日本，探病时通常不送盆栽。",
+        "en": "In Japan, it's customary not to give potted plants when visiting someone ill.",
+        "notes": "Explaining a cultural custom/common sense.",
+        "context": "Explaining Japanese customs"
+      },
+      {
+        "ja": "気軽に人にお金を貸すものではない。",
+        "zh": "不应该随便借钱给别人。",
+        "en": "You shouldn't carelessly lend money to people.",
+        "notes": "A strong admonition against lending money carelessly.",
+        "context": "Giving advice about money"
+      },
+      {
+        "ja": "植木の枝を切ろうとして腰を痛めてしまった。やはり慣れないことはするものではないね。",
+        "zh": "想修剪树枝却弄伤了腰。果然不习惯的事情不应该做啊。",
+        "en": "I hurt my back trying to prune the tree. It's true, you shouldn't do things you're not used to.",
+        "notes": "A reflection on the consequence of doing something unfamiliar.",
+        "context": "Reflecting on a personal mistake"
+      }
+    ],
+    "related_grammar": [
+      "〜たほうがいい",
+      "〜なければならない",
+      "〜てはいけない"
+    ]
+  },
+  {
+    "id": "koto-wa-nai",
+    "main_form": "〜ことはない",
+    "variants": [],
+    "search_keywords": [
+      "ことはない",
+      "必要はない",
+      "する必要はない",
+      "no need",
+      "unnecessary"
+    ],
+    "meaning": "表示没有必要或义务做某事",
+    "semantic_function": "陈述某事不必要或不被要求",
+    "usage_context": [
+      "说话者的判断",
+      "不常用于说话者自己的行为",
+      "不用于当某事被预先确定为不必要时"
+    ],
+    "proficiency_level": "N3",
+    "examples": [
+      {
+        "ja": "用事は電話で済みますから、なにもわざわざ行くことはありません。",
+        "zh": "事情通过电话就能解决，所以没必要特意去一趟。",
+        "en": "Since the matter can be handled by phone, there's no need to go out of your way to visit.",
+        "notes": "Stating that a physical visit is unnecessary.",
+        "context": "Advising someone against an unnecessary trip"
+      },
+      {
+        "ja": "彼の言葉など気にするにはないよ。いつもきつい言い方をする人だから。",
+        "zh": "没必要在意他的话。他总是说话很冲。",
+        "en": "You don't need to worry about his words. He always speaks harshly.",
+        "notes": "Advising someone not to be bothered by another person's words.",
+        "context": "Comforting someone upset by harsh words"
+      },
+      {
+        "ja": "ホームステイは初めてだったが、みんなが親切にしてくれたので、そんなに心配することはなかった。",
+        "zh": "虽然是第一次寄宿家庭，但大家都对我很好，所以没什么可担心的。",
+        "en": "It was my first homestay, but everyone was kind to me, so there was no need to worry so much.",
+        "notes": "Reflecting on a situation where initial worry proved unnecessary.",
+        "context": "Recounting a positive homestay experience"
+      }
+    ],
+    "related_grammar": ["〜必要はない"]
+  },
+  {
+    "id": "mai-you-ka-mai-ka",
+    "main_form": "〜まい / 〜(よ)うか〜まいか",
+    "variants": ["〜まい", "〜まいか", "〜(よ)うか〜まいか"],
+    "search_keywords": [
+      "まい",
+      "まいか",
+      "ようかまいか",
+      "するつもりはない",
+      "しないでおこう",
+      "intention",
+      "hesitation",
+      "negative volition"
+    ],
+    "meaning": "表达否定意志（不打算做某事）或在两个行动之间的犹豫/不确定",
+    "semantic_function": "表达否定意图、决心不做某事，或犹豫不决",
+    "usage_context": [
+      "表达自己强烈的否定意图",
+      "表达犹豫不决",
+      "当指代他人意图时，需要'〜と考えているようだ'或'〜としている'"
+    ],
+    "proficiency_level": "N1",
+    "examples": [
+      {
+        "ja": "こんなばかな失敗は二度とするまい。気をつけよう。",
+        "zh": "这样的愚蠢失败我绝不会再犯第二次。要小心。",
+        "en": "I will never make such a foolish mistake again. I must be careful.",
+        "notes": "A strong determination not to repeat a mistake.",
+        "context": "After making a significant mistake"
+      },
+      {
+        "ja": "父は子供が選んだ道には口を出すまいと思っているようだ。",
+        "zh": "父亲似乎认为不应该干涉孩子选择的道路。",
+        "en": "It seems my father intends not to interfere with the path his child has chosen.",
+        "notes": "Expressing someone else's negative intention (requires 'と思っているようだ').",
+        "context": "Discussing a parent's approach to their child's choices"
+      },
+      {
+        "ja": "夫は家族に心配をかけまいとして、会社を辞めたことを話してくれなかった。",
+        "zh": "丈夫为了不让家人担心，没有告诉我他辞职的事情。",
+        "en": "My husband didn't tell me he quit his job, trying not to worry his family.",
+        "notes": "Explaining someone's action motivated by a negative intention.",
+        "context": "Explaining a spouse's secretive behavior"
+      },
+      {
+        "ja": "掃除ロボットを買おうか買うまいか決心がつきかない。",
+        "zh": "我拿不定主意是买还是不买扫地机器人。",
+        "en": "I can't make up my mind whether to buy the robot vacuum cleaner or not.",
+        "notes": "Expressing indecision about a purchase.",
+        "context": "Considering buying a new gadget"
+      },
+      {
+        "ja": "難しそうな仕事なので、引き受けようか引き受けまいか迷ったが、思い切ってやってみることにした。",
+        "zh": "因为是看起来很难的工作，我犹豫了是否接受，但最终决定大胆尝试一下。",
+        "en": "It looked like a difficult job, so I hesitated whether to accept it or not, but I decided to take the plunge and try it.",
+        "notes": "Describing a process of indecision leading to a decision.",
+        "context": "Deciding on a challenging work offer"
+      }
+    ],
+    "related_grammar": ["〜するつもりはない", "〜しないでおこう"]
+  },
+  {
+    "id": "mono-ka",
+    "main_form": "〜ものか",
+    "variants": ["〜もんか"],
+    "search_keywords": [
+      "ものか",
+      "もんか",
+      "絶対〜するつもりはない",
+      "negative intention",
+      "strong denial",
+      "exclamation"
+    ],
+    "meaning": "表达强烈的否定意志或否认，通常带有情感色彩。'〜もんか'是更随意的版本",
+    "semantic_function": "强烈否认或拒绝行动，带有情感地表达否定意志",
+    "usage_context": ["强烈的情感否认", "表达坚定的否定意图", "'もんか'更随意"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "あんな無責任な人とはもう一緒に仕事をするものか。",
+        "zh": "我绝不会再和那种不负责任的人一起工作。",
+        "en": "I will absolutely never work with such an irresponsible person again.",
+        "notes": "Strong emotional refusal to work with someone irresponsible.",
+        "context": "After a negative experience with a colleague"
+      },
+      {
+        "ja": "この計画は絶対実行したい。他人に何を言われてもあきらめるものか。",
+        "zh": "这个计划我绝对要执行。不管别人说什么，我绝不会放弃。",
+        "en": "I absolutely want to execute this plan. No matter what others say, I will not give up.",
+        "notes": "Strong determination not to give up despite others' opinions.",
+        "context": "Expressing resolve for a project"
+      },
+      {
+        "ja": "今日こそは遅刻するものかと思毎日思うけれど、やっぱり何分か遅刻してしまう。",
+        "zh": "我每天都想今天绝不能迟到，但还是会迟到几分钟。",
+        "en": "I tell myself every day that I won't be late today, but I still end up being a few minutes late.",
+        "notes": "An ironic or self-deprecating statement about failing a repeated intention.",
+        "context": "Reflecting on a recurring habit of being late"
+      }
+    ],
+    "related_grammar": ["〜絶対〜するつもりはない"]
+  },
+  {
+    "id": "to-mieru",
+    "main_form": "〜とみえる",
+    "variants": [],
+    "search_keywords": [
+      "とみえる",
+      "〜らしい",
+      "〜ようだ",
+      "見える",
+      "seem",
+      "appear"
+    ],
+    "meaning": "基于某些证据，似乎/看起来...",
+    "semantic_function": "基于观察表达推断或推测",
+    "usage_context": ["General"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "朝からパチンコに行くなんて、ずいぶん暇だとみえる。",
+        "zh": "一大早就去打柏青哥，看来是相当闲啊。",
+        "en": "Going to pachinko from the morning, it seems they're quite free.",
+        "notes": "基于行为的推断",
+        "context": "观察某人的行为"
+      },
+      {
+        "ja": "あまり食べないところを見ると、うちの猫はこのえさは好きではないとみえる。",
+        "zh": "看它不怎么吃，我家的猫好像不喜欢这个食物。",
+        "en": "Seeing that it doesn't eat much, it seems our cat doesn't like this food.",
+        "notes": "基于状态观察的推断",
+        "context": "观察宠物的行为"
+      },
+      {
+        "ja": "欲しい物はなかったとみえて、客は何も買わずにすぐ店を出てしまった。",
+        "zh": "看来是没有想要的东西，客人什么都没买就离开了店。",
+        "en": "It seemed there was nothing they wanted, so the customer left the store without buying anything.",
+        "notes": "基于缺乏行为的推断",
+        "context": "观察顾客的行为"
+      }
+    ],
+    "related_grammar": ["〜らしい", "〜ようだ"]
+  },
+  {
+    "id": "kanenai",
+    "main_form": "〜かねない",
+    "variants": [],
+    "search_keywords": [
+      "かねない",
+      "兼ねない",
+      "可能性",
+      "风险",
+      "危险",
+      "可能"
+    ],
+    "meaning": "有可能出现不良结果/负面结果。",
+    "semantic_function": "表达对潜在负面结果的担忧或警告",
+    "usage_context": ["General"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "大事なことはみんなに相談しないと、後で文句を言われかねませんよ。",
+        "zh": "重要的事情不和大家商量的话，之后可能会被抱怨哦。",
+        "en": "If you don't consult everyone about important matters, you might be complained about later.",
+        "notes": "关于潜在责备的警告",
+        "context": "建议谨慎"
+      },
+      {
+        "ja": "インターネット上では特に個人情報に注意していないと、悪用されかねない。",
+        "zh": "在互联网上不特别注意个人信息的话，可能会被滥用。",
+        "en": "If you're not particularly careful with personal information online, it could be misused.",
+        "notes": "关于潜在滥用的警告",
+        "context": "讨论网络安全"
+      },
+      {
+        "ja": "うわさはどんどん変な方向へ発展していきかねない。",
+        "zh": "谣言可能会朝着奇怪的方向发展。",
+        "en": "Rumors can develop in increasingly strange directions.",
+        "notes": "关于谣言失控传播的警告",
+        "context": "讨论谣言"
+      }
+    ],
+    "related_grammar": ["〜おそれがある"]
+  },
+  {
+    "id": "osore-ga-aru",
+    "main_form": "〜おそれがある",
+    "variants": [],
+    "search_keywords": [
+      "おそれがある",
+      "恐れがある",
+      "可能性",
+      "风险",
+      "危险",
+      "担忧",
+      "恐惧"
+    ],
+    "meaning": "有可能发生不好的事情。（更正式的表达）",
+    "semantic_function": "表达对潜在负面事件或情况的担忧或警告，常用于正式场合",
+    "usage_context": ["正式", "新闻", "说明"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "今夜から明日にかけて東日本で大雨のおそれがあります。",
+        "zh": "从今晚到明天，日本东部地区有大雨的可能。",
+        "en": "There is a risk of heavy rain in Eastern Japan from tonight to tomorrow.",
+        "notes": "天气预报警告",
+        "context": "报道天气"
+      },
+      {
+        "ja": "「レッドデータブック」には、絶滅のおそれがある動植物について書かれている。",
+        "zh": "《红色数据手册》中记载了有灭绝危险的动植物。",
+        "en": "The \"Red Data Book\" contains information about animals and plants that are at risk of extinction.",
+        "notes": "讨论濒危物种",
+        "context": "环境讨论"
+      },
+      {
+        "ja": "機械で読み取れないおそれがあるので、郵便番号ははっきり書いてください。",
+        "zh": "因为有机器无法读取的可能，请清晰地写下邮政编码。",
+        "en": "There's a risk that the machine won't be able to read it, so please write the postal code clearly.",
+        "notes": "关于潜在机器错误的警告",
+        "context": "给出书写指导"
+      },
+      {
+        "ja": "今後インフルエンザが広い範囲に広がるおそれはないだろう。",
+        "zh": "今后流感应该不会大范围扩散了吧。",
+        "en": "There probably isn't a risk of influenza spreading widely in the future.",
+        "notes": "表达减少的风险",
+        "context": "讨论疾病传播"
+      }
+    ],
+    "related_grammar": ["〜かねない"]
+  },
+  {
+    "id": "mai-daro",
+    "main_form": "〜まい / 〜ではあるまいか",
+    "variants": ["〜ないだろう", "〜ではないだろうか", "〜ではあるまいか"],
+    "search_keywords": [
+      "まい",
+      "ではあるまいか",
+      "ないだろう",
+      "ではないだろうか",
+      "怀疑",
+      "推测",
+      "否定推测"
+    ],
+    "meaning": "大概不会；表达否定推测或怀疑。（书面语）",
+    "semantic_function": "表达强烈的否定推测或怀疑，'ではあるまいか'形式常带有疑问语气",
+    "usage_context": ["书面语", "正式"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "何度も計算し直したのだから、間違いはあるまい。",
+        "zh": "因为已经重新计算了好几次，所以应该没有错误了。",
+        "en": "Since I've recalculated it many times, there should be no mistake.",
+        "notes": "强烈的否定推测",
+        "context": "确认准确性"
+      },
+      {
+        "ja": "だれも信じてくれまいが、これは本当の話だ。",
+        "zh": "虽然没有人会相信，但这是真的。",
+        "en": "No one will believe me, but this is a true story.",
+        "notes": "表达没有人会相信的信念",
+        "context": "讲述难以置信的故事"
+      },
+      {
+        "ja": "あの子はまだ小さいから、一人で行かせては迷子になるではあるまいかと心配だ。",
+        "zh": "那个孩子还小，让他一个人去，我担心他会不会迷路。",
+        "en": "That child is still small, so if I let him go alone, I'm worried he might get lost.",
+        "notes": "用反问句表达担忧",
+        "context": "担心孩子"
+      },
+      {
+        "ja": "田んぼに住む生物が減ったのは、農業の使いすぎが原因ではあるまいか。",
+        "zh": "稻田里生物减少的原因，难道不是农业过度使用吗？",
+        "en": "Isn't the decrease in creatures living in the rice fields due to overuse in agriculture?",
+        "notes": "用反问句暗示原因",
+        "context": "讨论环境问题"
+      },
+      {
+        "ja": "こんなやり方では大勢の協力を得るのは無理なのではあるまいか。",
+        "zh": "用这种方法，恐怕很难获得大家的合作吧？",
+        "en": "With this approach, isn't it impossible to get cooperation from many people?",
+        "notes": "质疑方法的有效性",
+        "context": "评估计划"
+      },
+      {
+        "ja": "このまま何もしていないでいたら、いつまでも問題は解決しないのではあるまいか。",
+        "zh": "如果就这么什么都不做，问题会不会永远也解决不了呢？",
+        "en": "If we continue to do nothing like this, won't the problem never be solved?",
+        "notes": "对不作为的担忧",
+        "context": "讨论停滞情况"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "ni-chigai-nai",
+    "main_form": "〜に違いない ・ 〜に相違ない",
+    "variants": ["〜に違いない", "〜に相違ない"],
+    "search_keywords": [
+      "に違いない",
+      "に相違ない",
+      "違いない",
+      "相違ない",
+      "一定",
+      "肯定",
+      "无疑"
+    ],
+    "meaning": "有一定根据，坚信必定如此。'〜に相違ない'是更正式的表达。",
+    "semantic_function": "基于证据表达强烈的信念或确信",
+    "usage_context": ["General", "正式（〜に相違ない）"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "彼女はおしゃれだから、パーティーにはきっとすてきな服を着てくるに違いない。",
+        "zh": "她很时尚，所以派对上一定会穿漂亮的衣服来。",
+        "en": "She's fashionable, so she's sure to wear a wonderful dress to the party.",
+        "notes": "基于个性/习惯的确信",
+        "context": "推测某人的着装"
+      },
+      {
+        "ja": "日本に１年住んでいるのだから、彼も少しは生活に慣れたに違いない。",
+        "zh": "在日本住了一年，他肯定也多少习惯了生活。",
+        "en": "Since he's lived in Japan for a year, he must have gotten somewhat used to the life.",
+        "notes": "基于时长/经验的确信",
+        "context": "评论某人的适应"
+      },
+      {
+        "ja": "そんな山の中に住んでいて車もなかったら、生活が不便に違いない。",
+        "zh": "住在那样深山里，如果没有车的话，生活一定会很不方便。",
+        "en": "If you live deep in the mountains like that and don't have a car, life must be inconvenient.",
+        "notes": "基于逻辑结果的确信",
+        "context": "讨论生活条件"
+      },
+      {
+        "ja": "彼があれだけ強く主張するのは、何かはっきりした証拠があるからに相違ない。",
+        "zh": "他那么强烈地主张，一定是因为有什么明确的证据。",
+        "en": "The reason he asserts it so strongly must be because there is some clear evidence.",
+        "notes": "基于主张强度的确信",
+        "context": "分析某人的论点"
+      }
+    ],
+    "related_grammar": ["〜にきまっている"]
+  },
+  {
+    "id": "ni-kimatte-iru",
+    "main_form": "〜にきまっている",
+    "variants": [],
+    "search_keywords": [
+      "にきまっている",
+      "に決まっている",
+      "一定",
+      "肯定",
+      "绝对",
+      "无疑"
+    ],
+    "meaning": "绝对认为必定如此。（口语）",
+    "semantic_function": "表达强烈的、主观的、直觉性的确信",
+    "usage_context": ["口语", "非正式"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "あの子の言うことなんかうそにきまっているよ。",
+        "zh": "那孩子说的话肯定是谎言。",
+        "en": "What that kid says is definitely a lie.",
+        "notes": "关于谎言的主观确信",
+        "context": "否定某人的陈述"
+      },
+      {
+        "ja": "勝手にお父さんの車を使ったりしたら、しかられるにきまっている。",
+        "zh": "要是擅自使用爸爸的车，肯定会被骂。",
+        "en": "If you use your dad's car without permission, you're definitely going to get scolded.",
+        "notes": "关于后果的确信",
+        "context": "预测责骂"
+      },
+      {
+        "ja": "こんな派手な色のお菓子、体に悪いにきまっています。",
+        "zh": "这种颜色鲜艳的零食，肯定对身体不好。",
+        "en": "These brightly colored sweets are definitely bad for your health.",
+        "notes": "关于健康影响的直觉确信",
+        "context": "讨论不健康食品"
+      }
+    ],
+    "related_grammar": ["〜に違いない"]
+  },
+  {
+    "id": "gurai-kurai",
+    "main_form": "〜ぐらい・〜くらい",
+    "variants": [],
+    "search_keywords": ["ぐらい", "くらい", "程度", "最低程度", "至少"],
+    "meaning": "表示轻微的程度或最低程度。",
+    "semantic_function": "表达某事物的最低限度或轻微程度。",
+    "usage_context": ["通用"],
+    "proficiency_level": "N3",
+    "examples": [
+      {
+        "ja": "うちに帰ってきたら、自分の靴ぐらいちゃんと並べなさい。",
+        "zh": "回家后，至少要把自己的鞋子好好地摆放整齐。",
+        "en": "When you come home, at least line up your own shoes properly.",
+        "notes": "",
+        "context": "Instructing someone to do a basic task"
+      },
+      {
+        "ja": "この携帯電話は、ちょっとぐらいならぬれても大丈夫です。",
+        "zh": "这部手机，就算稍微弄湿也没关系。",
+        "en": "This mobile phone is fine even if it gets a little wet.",
+        "notes": "",
+        "context": "Describing the durability of an object"
+      },
+      {
+        "ja": "少し話したぐらいで、その人がどんな人かはわからないだろう。",
+        "zh": "只是稍微聊了一下，是不会知道那个人是怎样的人的吧。",
+        "en": "Just by talking a little, you probably won't know what kind of person they are.",
+        "notes": "",
+        "context": "Commenting on superficial knowledge of someone"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "nado-nanka-nante",
+    "main_form": "〜など・〜なんか・〜なんて",
+    "variants": [],
+    "search_keywords": ["など", "なんか", "なんて", "价值低", "不重要", "口语"],
+    "meaning": "表示某事物价值低或不重要。\"なんか・なんて\"用于口语。",
+    "semantic_function": "表达轻视态度、贬低或自谦。",
+    "usage_context": ["口语"],
+    "proficiency_level": "N3",
+    "examples": [
+      {
+        "ja": "あの人の言ったことなど気にする必要はありません。",
+        "zh": "没必要在意那个人说的话。",
+        "en": "You don't need to worry about what that person said.",
+        "notes": "",
+        "context": "Dismissing someone's words"
+      },
+      {
+        "ja": "新聞記者になんかにならなければよかった。仕事がきつすぎる。",
+        "zh": "要是没当上新闻记者就好了。工作太辛苦了。",
+        "en": "I wish I hadn't become a newspaper reporter. The work is too tough.",
+        "notes": "",
+        "context": "Expressing regret about a career choice"
+      },
+      {
+        "ja": "桜井さんは文章がとてもうまい。わたしなんて簡単な文もちゃんと書けないのに。",
+        "zh": "樱井先生文章写得很好。像我这样的人连简单的句子都写不好。",
+        "en": "Mr. Sakurai is very good at writing. Someone like me can't even write simple sentences properly.",
+        "notes": "",
+        "context": "Self-deprecating comparison with someone's skill"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "made-made-shite-made",
+    "main_form": "〜まで・〜までして・〜てまで",
+    "variants": ["〜まで", "〜までして", "〜てまで"],
+    "search_keywords": ["まで", "までして", "てまで", "极端程度", "意外"],
+    "meaning": "表示某事物的极端程度，甚至达到某种状态或行动。",
+    "semantic_function": "对极端或意外的行动/情况表达惊讶、不信或强烈情感。",
+    "usage_context": ["通用"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "一番に賛成してくれると思っていた母までわたしの結婚に反対した。",
+        "zh": "连我以为会最先赞成我的母亲都反对我的婚事。",
+        "en": "Even my mother, who I thought would be the first to agree, opposed my marriage.",
+        "notes": "",
+        "context": "Expressing surprise at someone's opposition"
+      },
+      {
+        "ja": "カンニングをしてまでいい点を取りたかったのですか。",
+        "zh": "你竟然想通过作弊来取得好成绩吗？",
+        "en": "Did you really want to get good grades to the extent of cheating?",
+        "notes": "",
+        "context": "Questioning an extreme action to achieve a goal"
+      },
+      {
+        "ja": "遊園地では、みんな長い時間並んでまでジェットコースターに乗りたがる。",
+        "zh": "在游乐园里，大家都愿意排很长时间的队去坐过山车。",
+        "en": "At the amusement park, everyone is eager to ride the roller coaster, even waiting in a long line.",
+        "notes": "",
+        "context": "Describing people's willingness to endure for enjoyment"
+      },
+      {
+        "ja": "家族や友人を悲しませるようなことをしてまで成功したいとは思わない。",
+        "zh": "我不想为了成功而做出让家人和朋友伤心的事。",
+        "en": "I don't want to succeed to the extent of making my family and friends sad.",
+        "notes": "",
+        "context": "Stating a personal boundary for achieving success"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "toshite-nai",
+    "main_form": "〜として〜ない",
+    "variants": [],
+    "search_keywords": [
+      "として〜ない",
+      "最低限度",
+      "否定",
+      "连一个都没有",
+      "一个也没有"
+    ],
+    "meaning": "否定某事物的最低程度。",
+    "semantic_function": "强调某事物的完全缺乏或不存在，常带有否定语感。",
+    "usage_context": ["通用"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "彼の提案にだれ一人として反対できなかった。",
+        "zh": "对他的提案，没有一个人反对。",
+        "en": "Not a single person could oppose his proposal.",
+        "notes": "",
+        "context": "Describing unanimous agreement"
+      },
+      {
+        "ja": "人生に無駄なものは何一つとしてない。失敗も必ず何かの役に立つはずだ。",
+        "zh": "人生中没有一件是无用的。失败也一定会有所帮助。",
+        "en": "There is not a single useless thing in life. Failures are sure to be of some use.",
+        "notes": "",
+        "context": "Philosophical statement about life's experiences"
+      },
+      {
+        "ja": "彼女はこれまで一度として練習を休んだことはない。",
+        "zh": "她到目前为止一次也没有休息过练习。",
+        "en": "She has never once skipped practice.",
+        "notes": "",
+        "context": "Emphasizing someone's consistent effort"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "sae",
+    "main_form": "〜さえ",
+    "variants": [],
+    "search_keywords": ["さえ", "连", "只要", "极端例子", "最低条件"],
+    "meaning": "A) 提供极端例子，暗示其他事物是理所当然的。B) 表示如果满足某种条件，其他事物就不是问题。",
+    "semantic_function": "A) 强调极端情况或令人惊讶的事实。B) 设定最低必要条件。",
+    "usage_context": ["通用"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "日本に来たばかりのときは、ひらがなさえ読めなかった。",
+        "zh": "刚来日本的时候，连平假名都读不了。",
+        "en": "When I first came to Japan, I couldn't even read hiragana.",
+        "notes": "A) 强调基本的无能。",
+        "context": "Describing initial struggles with Japanese"
+      },
+      {
+        "ja": "仕事がとても忙しいときは、会社に泊まることさえある。",
+        "zh": "工作非常忙的时候，甚至会在公司过夜。",
+        "en": "When work is very busy, I sometimes even stay overnight at the office.",
+        "notes": "A) 给出忙碌的极端例子。",
+        "context": "Describing severe work conditions"
+      },
+      {
+        "ja": "この料理は簡単だ。料理の苦手なわたしでさえ失敗しなかった。",
+        "zh": "这道菜很简单。连不擅长做饭的我都没有失败。",
+        "en": "This dish is easy. Even I, who am bad at cooking, didn't fail.",
+        "notes": "A) 用自谦的极端例子来显示容易程度。",
+        "context": "Commenting on the simplicity of a dish"
+      },
+      {
+        "ja": "自分さえ良ければ、他の人のことはどうでもいいのか。",
+        "zh": "只要自己好就行，别人的事情就无所谓了吗？",
+        "en": "Is it okay if only you are fine, and you don't care about others?",
+        "notes": "B) 质疑自私的态度。",
+        "context": "Challenging someone's self-centeredness"
+      },
+      {
+        "ja": "雨さえ降らなければ、ハイキングに出かけられますね。",
+        "zh": "只要不下雨，就能去徒步旅行了呢。",
+        "en": "As long as it doesn't rain, we can go hiking.",
+        "notes": "B) 说明活动的最低条件。",
+        "context": "Planning an outdoor activity"
+      },
+      {
+        "ja": "年をとっても体さえ丈夫なら、ほかに望むことはない。",
+        "zh": "即使上了年纪，只要身体健康，就没有其他奢求了。",
+        "en": "Even if I get old, as long as my body is healthy, I have nothing else to wish for.",
+        "notes": "B) 表达对健康的最低愿望。",
+        "context": "Reflecting on priorities in old age"
+      }
+    ],
+    "related_grammar": ["〜でさえ"]
+  },
+  {
+    "id": "te-demo",
+    "main_form": "〜てでも",
+    "variants": [],
+    "search_keywords": ["てでも", "即使", "极端手段", "决心", "决心"],
+    "meaning": "表示强烈的决心要做某事，即使意味着使用非常规或极端的方法。",
+    "semantic_function": "表达强烈决心、愿意采取极端措施或绝望的愿望。",
+    "usage_context": ["通用"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "娘が家に帰りたくないと言ったら、引っ張ってでも連れて帰ろう。",
+        "zh": "如果女儿说不想回家，就算强行也要把她带回去。",
+        "en": "If my daughter says she doesn't want to go home, I'll drag her back, even if I have to.",
+        "notes": "",
+        "context": "Expressing a parent's determination to bring their child home"
+      },
+      {
+        "ja": "熱があるが、大切な約束があるので、どんなことをしてでも行かなければならない。",
+        "zh": "虽然发烧了，但有重要的约定，无论如何也必须去。",
+        "en": "I have a fever, but I have an important appointment, so I must go no matter what.",
+        "notes": "",
+        "context": "Expressing determination despite illness"
+      },
+      {
+        "ja": "2倍の金額を払ってでもそのコンサートのチケットが欲しい。",
+        "zh": "就算付双倍的价钱，我也想要那场演唱会的票。",
+        "en": "I want that concert ticket, even if I have to pay double the price.",
+        "notes": "",
+        "context": "Expressing a strong desire for something at any cost"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "wari-ni-wa",
+    "main_form": "〜わりに（は）",
+    "variants": [],
+    "search_keywords": [
+      "わりに",
+      "わりに は",
+      "wari ni wa",
+      "compared to",
+      "considering"
+    ],
+    "meaning": "表示与基于某个标准或基准的预期不同",
+    "semantic_function": "表达意外性、对比或与标准的偏离",
+    "usage_context": ["一般用法", "当根据标准评价某物时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "このお菓子は値段のわりに量は少ない。",
+        "zh": "这个点心和价格相比量很少。",
+        "en": "This snack is small in quantity compared to its price.",
+        "notes": "相对于价格来说量比预期的少。",
+        "context": "评价产品的数量相对于成本。"
+      },
+      {
+        "ja": "この料理は安い材料で簡単にできるわりには豪華に見える。",
+        "zh": "这道菜尽管用便宜材料就能简单做出来，却看起来很豪华。",
+        "en": "This dish looks luxurious despite being easily made with cheap ingredients.",
+        "notes": "外观比预期的更豪华。",
+        "context": "评论菜肴的外观与其制作过程。"
+      },
+      {
+        "ja": "ゆき子さんは若いわりにしっかりしている。",
+        "zh": "雪子小姐虽然年轻，但很稳重。",
+        "en": "Yukiko is quite dependable despite her young age.",
+        "notes": "成熟度比预期的更高。",
+        "context": "描述某人的性格相对于其年龄。"
+      }
+    ],
+    "related_grammar": ["〜にしては"]
+  },
+  {
+    "id": "ni-shite-wa",
+    "main_form": "〜にしては",
+    "variants": [],
+    "search_keywords": ["にしては", "ni shite wa", "considering", "for a"],
+    "meaning": "表示基于某个事实或标准，某事是意外或令人惊讶的",
+    "semantic_function": "表达惊讶、意外或与预期的偏差",
+    "usage_context": ["一般用法", "当陈述某事与基于特定事实的预期相反时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "今日は2月にしては暖かかった。",
+        "zh": "今天对于二月来说很暖和。",
+        "en": "Today was warm for February.",
+        "notes": "对于二月份来说暖和是意外的。",
+        "context": "评论天气。"
+      },
+      {
+        "ja": "このかばんは、1,000円にしては丈夫で、デザインもいい。",
+        "zh": "这个包包对于1000日元来说很结实，设计也很好。",
+        "en": "This bag is durable and well-designed for 1,000 yen.",
+        "notes": "对于这个价格来说结实性和设计都很好。",
+        "context": "评价产品的质量相对于价格。"
+      },
+      {
+        "ja": "このケーキ、子供が作ったにしてはおいしくできていますね。",
+        "zh": "这个蛋糕，对于孩子做的来说，做得很好吃呢。",
+        "en": "This cake is delicious, considering a child made it.",
+        "notes": "味道比预期的孩子做的更好。",
+        "context": "赞扬孩子的烘焙。"
+      }
+    ],
+    "related_grammar": ["〜わりに（は）"]
+  },
+  {
+    "id": "dake-no-koto-wa-aru",
+    "main_form": "〜だけのことはある",
+    "variants": ["〜だけあって"],
+    "search_keywords": [
+      "だけのことはある",
+      "だけあって",
+      "dake no koto wa aru",
+      "dake atte",
+      "as expected",
+      "no wonder"
+    ],
+    "meaning": "表示在特定条件或努力下，某事如预期那样；结果是合理的",
+    "semantic_function": "表达合理性、预期结果或高度评价",
+    "usage_context": ["一般用法", "当确认预期的积极结果时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "素晴らしいマンションだ。家賃が高いだけのことはある。",
+        "zh": "真是个很棒的公寓。房租贵也是情有可原的。",
+        "en": "It's a wonderful apartment. The high rent is justified.",
+        "notes": "公寓的质量证明了高房租的合理性。",
+        "context": "评论高价物品的价值。"
+      },
+      {
+        "ja": "彼は10年も日本に住んでいるだけあって、日本のことをよく知っている。",
+        "zh": "他毕竟在日本住了十年，对日本的事情很了解。",
+        "en": "As expected of someone who has lived in Japan for 10 years, he knows a lot about Japan.",
+        "notes": "他对日本的了解是预期的，考虑到他长期居住。",
+        "context": "描述某人的专业知识。"
+      },
+      {
+        "ja": "さすががオリンピックだけあって、見事な試合が見られた。",
+        "zh": "不愧是奥运会，看到了精彩的比赛。",
+        "en": "As expected of the Olympics, we saw a splendid match.",
+        "notes": "比赛的质量是预期的，来自奥运会。",
+        "context": "评论重大活动的质量。"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "toshite",
+    "main_form": "〜として",
+    "variants": [],
+    "search_keywords": [
+      "として",
+      "toshite",
+      "as a",
+      "in the capacity of",
+      "for"
+    ],
+    "meaning": "表示职位、资格、角色或身份；作为某物或处于某种状态",
+    "semantic_function": "指定角色、身份或视角",
+    "usage_context": ["一般用法", "当描述某人的角色或身份时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "彼は選手を引退した後、コーチとしてチームのために働いた。",
+        "zh": "他退役后，作为教练为队伍工作。",
+        "en": "After retiring as a player, he worked for the team as a coach.",
+        "notes": "表示他作为教练的角色。",
+        "context": "描述职业变化。"
+      },
+      {
+        "ja": "コーヒーはもともと薬として飲まれていた。",
+        "zh": "咖啡原本是作为药物饮用的。",
+        "en": "Coffee was originally drunk as medicine.",
+        "notes": "表示咖啡的原始目的/角色。",
+        "context": "讨论咖啡的历史。"
+      },
+      {
+        "ja": "京都は日本の歴史的な古い町として知られている。",
+        "zh": "京都作为日本历史悠久的古城而闻名。",
+        "en": "Kyoto is known as a historic old town in Japan.",
+        "notes": "表示京都的地位/声誉。",
+        "context": "描述著名城市。"
+      },
+      {
+        "ja": "子供の安全に気をつけることは親として当然だ。",
+        "zh": "作为父母，注意孩子的安全是理所当然的。",
+        "en": "It's natural for parents to care about their children's safety.",
+        "notes": "表示父母的自然责任。",
+        "context": "讨论父母职责。"
+      },
+      {
+        "ja": "写真は趣味じゃないんです。仕事としてやっているんです。",
+        "zh": "摄影不是我的爱好。我是作为工作来做的。",
+        "en": "Photography isn't a hobby for me. I do it as a job.",
+        "notes": "表示摄影是专业活动。",
+        "context": "澄清与某活动的关系。"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "ni-totte",
+    "main_form": "〜にとって",
+    "variants": [],
+    "search_keywords": ["にとって", "ni totte", "for", "to"],
+    "meaning": "表示考虑或评价某事的视角或立场",
+    "semantic_function": "指定观点或受影响方",
+    "usage_context": ["一般用法", "当从特定个人或群体的角度陈述某事时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "今のわたしにとって一番大切なのは家族です。",
+        "zh": "对我来说，现在最重要的是家人。",
+        "en": "For me now, the most important thing is my family.",
+        "notes": "从我的角度来看，家庭是最重要的。",
+        "context": "表达个人价值观。"
+      },
+      {
+        "ja": "現代人にとってパソコンはなくてはならない道具である。",
+        "zh": "对于现代人来说，电脑是不可或缺的工具。",
+        "en": "For modern people, computers are indispensable tools.",
+        "notes": "从现代人的角度来看，电脑是必不可少的。",
+        "context": "讨论现代必需品。"
+      },
+      {
+        "ja": "この小石はほかの人にとっては普通の石ですが、わたしにとっては宝物なのです。",
+        "zh": "这块小石头对其他人来说只是普通的石头，但对我来说却是宝物。",
+        "en": "This pebble is just an ordinary stone to others, but for me, it's a treasure.",
+        "notes": "对比个人价值与一般认知。",
+        "context": "描述物品的情感价值。"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "ni-shitara",
+    "main_form": "〜にしたら・〜にすれば・〜にしてみれば・〜にしても",
+    "variants": ["〜にしたら", "〜にすれば", "〜にしてみれば", "〜にしても"],
+    "search_keywords": [
+      "にしたら",
+      "にすれば",
+      "にしてみれば",
+      "にしても",
+      "ni shitara",
+      "ni sureba",
+      "ni shite mireba",
+      "ni shitemo",
+      "if one were to",
+      "from the perspective of"
+    ],
+    "meaning": "从第三方的立场或角度表达某事，常常是为了推断他们的感受或想法",
+    "semantic_function": "假设他人视角、共情或考虑特定观点",
+    "usage_context": ["一般用法", "当试图理解或解释他人的感受或情况时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "君もいろいろ言われて面倒だろうが、君のお母さんにしたら、君のことが心配なんだよ。",
+        "zh": "你被说各种事情可能觉得很麻烦，但站在你妈妈的立场，她是在担心你啊。",
+        "en": "You might find it annoying to be told various things, but from your mother's perspective, she's worried about you.",
+        "notes": "从母亲的视角解释她的担忧。",
+        "context": "回应孩子对父母建议的抱怨。"
+      },
+      {
+        "ja": "たばこを吸う人にするれば、たばこの害についての話題は避けたいだろうと思う。",
+        "zh": "对于吸烟的人来说，我想他们会想避免关于香烟危害的话题吧。",
+        "en": "For smokers, I think they would want to avoid topics about the harm of cigarettes.",
+        "notes": "从吸烟者的角度推断他们的偏好。",
+        "context": "与特定群体讨论敏感话题。"
+      },
+      {
+        "ja": "新しい高速道路ができて便利になったが、沿線の住民にしてみれば、あまりありがたくはないかもしれない。",
+        "zh": "虽然新的高速公路建成后变得便利了，但对于沿线的居民来说，可能不那么值得感谢。",
+        "en": "The new highway has made things convenient, but from the perspective of residents along the route, it might not be very welcome.",
+        "notes": "考虑尽管便利但对居民的潜在负面影响。",
+        "context": "从不同角度评估基础设施项目。"
+      },
+      {
+        "ja": "わたしは早く家を出たい。両親にしても息子には自立してほしいと思っているようだ。",
+        "zh": "我想早点离家。就连父母，似乎也希望儿子能自立。",
+        "en": "I want to leave home soon. Even my parents seem to want their son to be independent.",
+        "notes": "推断父母希望儿子独立的愿望。",
+        "context": "讨论年轻人对独立的渴望和父母的期望。"
+      }
+    ],
+    "related_grammar": ["〜にとって"]
+  },
+  {
+    "id": "koto-dashi",
+    "main_form": "〜ことだし",
+    "variants": [],
+    "search_keywords": [
+      "ことだし",
+      "〜から",
+      "理由",
+      "reason",
+      "since",
+      "because"
+    ],
+    "meaning": "表示做某事有理由，通常暗示还有其他理由，但这是陈述的主要理由。",
+    "semantic_function": "为行动或建议提供理由或依据。",
+    "usage_context": ["口语", "非正式"],
+    "proficiency_level": "N3",
+    "examples": [
+      {
+        "ja": "来週はお客様が来る<ruby>ことだし</ruby>、<ruby>家</ruby>の<ruby>中</ruby>の<ruby>大掃除</ruby>をしなくちゃ。",
+        "zh": "下周有客人要来，所以必须把家里大扫除一下。",
+        "en": "Since guests are coming next week, I have to do a big clean of the house.",
+        "notes": "表达行动的理由。",
+        "context": "为客人做准备"
+      },
+      {
+        "ja": "<ruby>雨</ruby>もやんだ<ruby>ことだし</ruby>、ちょっとジョギングしてこようかな。",
+        "zh": "雨也停了，要不要去慢跑一下呢？",
+        "en": "The rain has stopped, so maybe I'll go for a jog.",
+        "notes": "根据当前情况建议行动。",
+        "context": "雨后决定运动"
+      },
+      {
+        "ja": "こちらのおなべは<ruby>値段</ruby>も<ruby>安</ruby>い<ruby>ことだし</ruby>、お一ついかがでしょうか。",
+        "zh": "这个锅价格也便宜，您要不要一个？",
+        "en": "This pot is cheap, so how about one?",
+        "notes": "根据积极属性推荐购买。",
+        "context": "推荐产品"
+      },
+      {
+        "ja": "あしたはお<ruby>父</ruby>さんも<ruby>休</ruby>みの<ruby>ことだし</ruby>、みんなで<ruby>買</ruby>い<ruby>物</ruby>でも<ruby>行</ruby>かない？",
+        "zh": "明天爸爸也休息，大家一起去购物怎么样？",
+        "en": "Since Dad also has the day off tomorrow, how about we all go shopping?",
+        "notes": "基于共同情况建议集体活动。",
+        "context": "计划家庭外出"
+      }
+    ],
+    "related_grammar": ["〜から", "〜ので"]
+  },
+  {
+    "id": "no-koto-dakara",
+    "main_form": "〜のことだから",
+    "variants": [],
+    "search_keywords": [
+      "のことだから",
+      "だから",
+      "性格",
+      "態度",
+      "推量",
+      "because of",
+      "given that"
+    ],
+    "meaning": "当基于某人或群体的已知性格或通常行为来推断某事时使用。",
+    "semantic_function": "基于某人已建立的性格进行推断或预测。",
+    "usage_context": ["口语", "非正式"],
+    "proficiency_level": "N3",
+    "examples": [
+      {
+        "ja": "<ruby>頑張</ruby>り<ruby>屋</ruby>の<ruby>みち子</ruby>さんの<ruby>ことだから</ruby>、きっと<ruby>今度</ruby>のテストでもいい<ruby>点</ruby>をとりますよ。",
+        "zh": "因为是努力家美智子，所以这次考试也一定能取得好成绩。",
+        "en": "Since it's hardworking Michiko, I'm sure she'll get good grades on the next test too.",
+        "notes": "基于勤奋性格预测成功。",
+        "context": "鼓励勤奋学生"
+      },
+      {
+        "ja": "いつもみんなを<ruby>笑</ruby>わせていたカンさんの<ruby>ことだから</ruby>、<ruby>国</ruby>に<ruby>帰</ruby>ってもまた<ruby>人気者</ruby>になるでしょう。",
+        "zh": "因为是总是逗大家笑的韩先生，所以即使回国也一定会再次成为受欢迎的人。",
+        "en": "Since it's Mr. Kang, who always made everyone laugh, I'm sure he'll be popular again even after returning to his home country.",
+        "notes": "基于开朗性格预测受欢迎程度。",
+        "context": "讨论受欢迎的朋友"
+      },
+      {
+        "ja": "<ruby>太郎</ruby>の<ruby>帰</ruby>りが<ruby>遅</ruby>いね。でも、あの<ruby>子</ruby>の<ruby>ことだ</ruby>。<ruby>どこ</ruby>かの<ruby>本屋</ruby>で<ruby>立</ruby>ち<ruby>読</ruby>みでもして<ruby>時間</ruby>が<ruby>経</ruby>つのも<ruby>忘</ruby>れているんだろう。",
+        "zh": "太郎回来得真晚啊。不过，那孩子的性格就是那样。肯定是在哪家书店站着看书，忘记了时间吧。",
+        "en": "Taro is late coming home. But, knowing him, he's probably standing and reading at some bookstore and forgotten the time.",
+        "notes": "基于个人习惯推断行动原因。",
+        "context": "好奇某人迟到的原因"
+      }
+    ],
+    "related_grammar": ["〜から"]
+  },
+  {
+    "id": "dakeni",
+    "main_form": "〜だけに",
+    "variants": [],
+    "search_keywords": [
+      "だけに",
+      "〜だけあって",
+      "だから",
+      "それだけに",
+      "as expected",
+      "precisely because"
+    ],
+    "meaning": "表示因为某种状态或情况，某事比平时更甚（或更少）；符合情况的预期结果。",
+    "semantic_function": "强调由于特定条件产生的自然或强化的结果。",
+    "usage_context": ["书面语", "口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "あそこは<ruby>有名</ruby>レストラン<ruby>だけに</ruby>、<ruby>客</ruby>に<ruby>出</ruby>した<ruby>料理</ruby>に<ruby>問題</ruby>があったとわかった<ruby>時</ruby>は<ruby>大</ruby>ニュースになった。",
+        "zh": "正因为是那家有名的餐厅，所以当发现给客人提供的菜肴有问题时，就成了大新闻。",
+        "en": "Precisely because it's a famous restaurant, it became big news when it was discovered that there was a problem with the food served to customers.",
+        "notes": "由于高地位，意外的负面结果被放大。",
+        "context": "著名餐厅的丑闻"
+      },
+      {
+        "ja": "<ruby>母</ruby>は<ruby>花</ruby>が<ruby>好</ruby>きな<ruby>だけに</ruby>、<ruby>花</ruby>をもらうと<ruby>大喜</ruby>びする。",
+        "zh": "正因为妈妈喜欢花，所以收到花时非常高兴。",
+        "en": "Precisely because my mother loves flowers, she is overjoyed when she receives them.",
+        "notes": "由于强烈偏好，喜悦被强化。",
+        "context": "母亲收到花"
+      },
+      {
+        "ja": "<ruby>父</ruby>はよく<ruby>話</ruby>す<ruby>人</ruby>だった<ruby>だけに</ruby>、いなくなった<ruby>後</ruby>、いっそう<ruby>寂</ruby>しさを<ruby>感</ruby>じる。",
+        "zh": "正因为父亲是个健谈的人，所以他去世后，我感到更加寂寞。",
+        "en": "Precisely because my father was a talkative person, I feel even lonelier after he's gone.",
+        "notes": "由于之前的健谈，寂寞感被强化。",
+        "context": "哀悼已故父母"
+      },
+      {
+        "ja": "<ruby>祖父</ruby>はよく<ruby>山登</ruby>りをするが、<ruby>年</ruby>が<ruby>年</ruby><ruby>だけに</ruby>、<ruby>無事</ruby>に<ruby>帰</ruby>ってくるまで<ruby>心配</ruby>だ。",
+        "zh": "祖父经常爬山，但正因为他年纪大了，所以我很担心他能否平安回来。",
+        "en": "My grandfather often climbs mountains, but precisely because of his age, I'm worried until he returns safely.",
+        "notes": "由于高龄，担忧被强化。",
+        "context": "担心年长亲戚的爱好"
+      }
+    ],
+    "related_grammar": ["〜だけあって", "〜だけある"]
+  },
+  {
+    "id": "bakari-ni",
+    "main_form": "〜ばかりに",
+    "variants": [],
+    "search_keywords": [
+      "ばかりに",
+      "〜せいで",
+      "〜がために",
+      "原因",
+      "結果",
+      "unfortunately because",
+      "only because"
+    ],
+    "meaning": "表示某事仅仅因为特定原因而发生，通常导致意外或不良的负面结果。也可表达导致异常行动的强烈愿望。",
+    "semantic_function": "将负面或异常结果归因于单一原因或表达强烈愿望。",
+    "usage_context": ["书面语", "口语（正式到非正式）"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "ちょっと<ruby>大工</ruby>の<ruby>経験</ruby>がある<ruby>ばかりに</ruby>、いろいろな<ruby>仕事</ruby>を<ruby>頼</ruby>まれてしまう。",
+        "zh": "只因为有点木工经验，就被拜托了各种工作。",
+        "en": "Just because I have a little carpentry experience, I end up being asked to do all sorts of jobs.",
+        "notes": "次要技能导致过多请求，被视为负担。",
+        "context": "因技能被过度依赖"
+      },
+      {
+        "ja": "<ruby>鍵</ruby>を<ruby>忘</ruby>れて<ruby>出</ruby>かけた<ruby>ばかりに</ruby>、<ruby>家族</ruby>が<ruby>帰</ruby>ってくるまで<ruby>家</ruby>に<ruby>入</ruby>れなかった。",
+        "zh": "只因为出门忘记带钥匙，直到家人回来都没能进家门。",
+        "en": "Just because I went out having forgotten my keys, I couldn't get into the house until my family came back.",
+        "notes": "简单错误导致麻烦情况。",
+        "context": "被锁在门外"
+      },
+      {
+        "ja": "<ruby>遅刻</ruby>の<ruby>回数</ruby>がちょっと<ruby>多</ruby>かった<ruby>ばかりに</ruby>、<ruby>推薦状</ruby>をもらえなかった。",
+        "zh": "只因为迟到的次数有点多，就没能拿到推荐信。",
+        "en": "Just because I was late a few too many times, I couldn't get a letter of recommendation.",
+        "notes": "相对次要问题（频繁迟到）导致重大负面后果。",
+        "context": "错失推荐信"
+      },
+      {
+        "ja": "<ruby>山頂</ruby>から<ruby>一日</ruby>の<ruby>出</ruby>を<ruby>見</ruby>たい<ruby>ばかりに</ruby>、<ruby>暗</ruby>い<ruby>内</ruby>に<ruby>小屋</ruby>を<ruby>出</ruby>て2<ruby>時間</ruby>も<ruby>歩</ruby>いたのだ。",
+        "zh": "只因为想在山顶看日出，就在天还没亮的时候从小屋出发走了2个小时。",
+        "en": "Only because I wanted to see the sunrise from the mountaintop, I left the hut in the dark and walked for two hours.",
+        "notes": "强烈愿望导致非凡努力。",
+        "context": "为看日出徒步"
+      },
+      {
+        "ja": "テレビで<ruby>見</ruby>たこの<ruby>村</ruby>の<ruby>人</ruby>たちに<ruby>会</ruby>いたい<ruby>ばかりに</ruby>、はるばる<ruby>日本</ruby>からやって<ruby>来</ruby>た。",
+        "zh": "只因为想见电视上看到的这个村子里的人们，就特意从日本远道而来。",
+        "en": "Only because I wanted to meet the people of this village I saw on TV, I came all the way from Japan.",
+        "notes": "强烈愿望导致重要旅程。",
+        "context": "长途旅行见人"
+      }
+    ],
+    "related_grammar": ["〜せいで", "〜がために"]
+  },
+  {
+    "id": "kara-niwa-ijou-wa-ue-wa",
+    "main_form": "〜からには ・ 〜以上は ・ 〜上は",
+    "variants": ["〜からには", "〜以上は", "〜上は"],
+    "search_keywords": [
+      "からには",
+      "以上は",
+      "上は",
+      "once",
+      "now that",
+      "since"
+    ],
+    "meaning": "表示一旦建立某种条件或行动，某个结果、义务或强烈意图自然随之而来。'からには'和'以上は'更常用，而'上は'更正式。",
+    "semantic_function": "表达给定前序条件的自然结果、决心或义务。",
+    "usage_context": ["书面语", "口语（〜上は较正式）"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "<ruby>留学</ruby>する<ruby>からには</ruby>、ちゃんと<ruby>目的</ruby>があるのでしょうね。",
+        "zh": "既然要留学，那应该有明确的目的吧。",
+        "en": "Now that you're studying abroad, I presume you have a clear objective, right?",
+        "notes": "暗示一旦决定留学就有目的的期望。",
+        "context": "讨论留学计划"
+      },
+      {
+        "ja": "<ruby>高</ruby>いお<ruby>金</ruby>を<ruby>払</ruby>って<ruby>外国</ruby><ruby>旅行</ruby>をする<ruby>からには</ruby>、<ruby>大</ruby>いに<ruby>楽</ruby>しまなければ<ruby>損</ruby>だ。",
+        "zh": "既然花了大价钱去国外旅行，就应该尽情享受，否则就亏了。",
+        "en": "Now that you've paid a lot of money to travel abroad, it would be a waste not to enjoy it to the fullest.",
+        "notes": "说明享受是花费的义务。",
+        "context": "鼓励享受昂贵旅行"
+      },
+      {
+        "ja": "<ruby>自分</ruby>一人でやると<ruby>言</ruby>った<ruby>以上</ruby>、みんなに<ruby>助</ruby>けてもらうことはできない。",
+        "zh": "既然说了要一个人做，就不能指望大家帮忙了。",
+        "en": "Once you said you'd do it by yourself, you can't expect everyone else to help you.",
+        "notes": "表示先前声明的自然结果。",
+        "context": "承担任务的个人责任"
+      },
+      {
+        "ja": "<ruby>専門職</ruby>である<ruby>以上</ruby>は、<ruby>常</ruby>に<ruby>新</ruby>しい<ruby>知識</ruby>を<ruby>身</ruby>につけなければならないと<ruby>思</ruby>う。",
+        "zh": "既然是专业人士，我认为就必须不断学习新知识。",
+        "en": "As long as you are a professional, I think you must constantly acquire new knowledge.",
+        "notes": "表达作为专业人士的固有义务。",
+        "context": "专业发展"
+      },
+      {
+        "ja": "オリンピック<ruby>出場</ruby>を<ruby>目指</ruby>す<ruby>上</ruby>は、<ruby>中途半端</ruby>な<ruby>気持</ruby>ちではだめだ。",
+        "zh": "既然以参加奥运会为目标，就不能半途而废。",
+        "en": "Now that you're aiming to participate in the Olympics, you can't have half-hearted feelings.",
+        "notes": "强调高目标所需的决心。比'からには'更正式。",
+        "context": "建议有志奥运者"
+      },
+      {
+        "ja": "<ruby>会社</ruby>を<ruby>辞</ruby>めると<ruby>決</ruby>めた<ruby>上</ruby>は、<ruby>覚悟</ruby>して<ruby>今後</ruby>のことを<ruby>考</ruby>える<ruby>必要</ruby>がある。",
+        "zh": "既然决定辞职，就必须做好心理准备，考虑今后的事情。",
+        "en": "Now that you've decided to quit the company, you need to be prepared and think about your future.",
+        "notes": "强调重大决定后的决心和规划必要性。更正式。",
+        "context": "建议决定辞职者"
+      }
+    ],
+    "related_grammar": ["〜からこそ", "〜のだから"]
+  },
+  {
+    "id": "to-shitara-to-sureba-to-suru-to-to-nattara-to-nareba-to-naru-to",
+    "main_form": "〜としたら",
+    "variants": [
+      "〜とすれば",
+      "〜とすると",
+      "〜となったら",
+      "〜となれば",
+      "〜となると"
+    ],
+    "search_keywords": [
+      "としたら",
+      "とすれば",
+      "とすると",
+      "となったら",
+      "となれば",
+      "となると",
+      "仮定",
+      "場合",
+      "if",
+      "suppose"
+    ],
+    "meaning": "假设某种情况，或者如果某种情况发生。表示假设性场景。",
+    "semantic_function": "表达假设性条件或假定",
+    "usage_context": ["书面语和口语", "在进行假设时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "無人島に何か一つだけ持っていけるとしたら、何を持っていきたいですか？",
+        "zh": "如果只能带一件东西去无人岛，你想带什么？",
+        "en": "If you could only take one thing to a deserted island, what would you want to take?",
+        "notes": "",
+        "context": "Hypothetical question"
+      },
+      {
+        "ja": "もし、あの飛行機に乗っていたとしたら、僕はもうこの世にいなかった。",
+        "zh": "如果我当时乘坐了那架飞机，我可能就不在了。",
+        "en": "If I had been on that plane, I would no longer be in this world.",
+        "notes": "",
+        "context": "Reflecting on a past hypothetical situation"
+      },
+      {
+        "ja": "彼が犯人ではないとすると、どこかに本当の犯人がいるはずだ。",
+        "zh": "如果他不是犯人，那么真正的犯人一定在某个地方。",
+        "en": "If he is not the culprit, then the real culprit must be somewhere.",
+        "notes": "",
+        "context": "Making a logical deduction based on an assumption"
+      },
+      {
+        "ja": "税金が上がるととなれば、国民の生活はますます大変になるだろう。",
+        "zh": "如果税金上涨的话，国民的生活会变得越来越艰难吧。",
+        "en": "If taxes increase, the lives of the citizens will likely become increasingly difficult.",
+        "notes": "",
+        "context": "Discussing the consequences of a future event"
+      },
+      {
+        "ja": "引っ越すとなると、かなりのお金がかかる。大丈夫かなあ。",
+        "zh": "如果搬家的话，需要相当多的钱。没问题吗？",
+        "en": "If we move, it will cost a considerable amount of money. Will it be alright?",
+        "notes": "",
+        "context": "Considering the implications of an action"
+      }
+    ],
+    "related_grammar": ["〜ば", "〜なら", "〜と"]
+  },
+  {
+    "id": "mono-nara",
+    "main_form": "〜ものなら",
+    "variants": [],
+    "search_keywords": [
+      "ものなら",
+      "もしできたら",
+      "if possible",
+      "if you can"
+    ],
+    "meaning": "如果可能的话，想要做某事或希望某人做某事。表达强烈的愿望或挑战。",
+    "semantic_function": "表达强烈愿望、挑战或难以实现的假设条件",
+    "usage_context": [
+      "常与表示可能性的动词连用",
+      "在假设不太可能或困难的事情时"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "戻れるものなら20年前のわたしに戻って人生をやり直したい。",
+        "zh": "如果能回到过去，我想回到20年前的自己，重新来过人生。",
+        "en": "If I could go back, I'd want to return to my 20-year-old self and restart my life.",
+        "notes": "",
+        "context": "Expressing a strong, perhaps impossible, wish for the past"
+      },
+      {
+        "ja": "あの日の出来事を忘れられるものなら忘れたいのに……。",
+        "zh": "如果能忘记那天发生的事情，我真想忘记……。",
+        "en": "If I could forget what happened that day, I really would want to...",
+        "notes": "",
+        "context": "Expressing a strong desire to forget something painful"
+      },
+      {
+        "ja": "やれるものならやってみろ。",
+        "zh": "如果你能做到，就试试看吧。",
+        "en": "If you can do it, try it.",
+        "notes": "A challenging or provocative statement.",
+        "context": "Challenging someone to do something"
+      }
+    ],
+    "related_grammar": ["〜たら"]
+  },
+  {
+    "id": "yō-mono-nara",
+    "main_form": "〜（よ）うものなら",
+    "variants": [],
+    "search_keywords": [
+      "ようものなら",
+      "うものなら",
+      "もし〜たら、大変なことになる",
+      "if something happens, it will be terrible"
+    ],
+    "meaning": "如果（哪怕一点点）发生了某事，就会导致糟糕的情况。",
+    "semantic_function": "表达强烈警告或预测如果采取某种行动或发生某种事件会导致负面结果",
+    "usage_context": ["警告或提醒", "预测严重后果"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "わたしはアレルギー体質なので、合わない食品を食べようものなら、体のあちこちがかゆくなる。",
+        "zh": "我是过敏体质，如果吃了不合的食物，身体各处都会发痒。",
+        "en": "Since I have an allergic constitution, if I were to eat unsuitable food, various parts of my body would become itchy.",
+        "notes": "",
+        "context": "Explaining personal consequences due to allergies"
+      },
+      {
+        "ja": "山道は危ない。ちょっと足を踏み外そうものなら、大けがをするだろう。",
+        "zh": "山路很危险。如果稍微失足的话，就会受重伤吧。",
+        "en": "Mountain roads are dangerous. If you were to slip even a little, you would probably get seriously injured.",
+        "notes": "",
+        "context": "Warning about the dangers of a mountain path"
+      },
+      {
+        "ja": "車の運転中は、一瞬でもよそ見をしようものなら、事故を起こすぞ。",
+        "zh": "开车时，如果稍微分心一下，就会发生事故。",
+        "en": "While driving, if you were to look away even for a moment, you would cause an accident.",
+        "notes": "",
+        "context": "Warning about the dangers of distracted driving"
+      }
+    ],
+    "related_grammar": ["〜たら", "〜と"]
+  },
+  {
+    "id": "nai-koto-ni-wa",
+    "main_form": "〜ないことには",
+    "variants": [],
+    "search_keywords": ["ないことには", "なければ", "unless", "if not"],
+    "meaning": "除非满足某个条件，否则某事就无法实现或不可能发生。",
+    "semantic_function": "表达某事发生或成为可能的必要条件",
+    "usage_context": ["陈述必要条件", "常后接否定性结果"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "一度会ってみないことには、仕事を任せられる人かどうかわからない。",
+        "zh": "如果不先见一次面，就不知道他是不是可以委以重任的人。",
+        "en": "Unless I meet them once, I won't know if they are someone I can entrust with the work.",
+        "notes": "",
+        "context": "Assessing a person's suitability for a job"
+      },
+      {
+        "ja": "お金がないことには、この計画は進められない。",
+        "zh": "如果没有钱，这个计划就无法推进。",
+        "en": "Unless we have money, this plan cannot proceed.",
+        "notes": "",
+        "context": "Stating a financial prerequisite for a plan"
+      },
+      {
+        "ja": "足がもっと丈夫でないことには、あの山に登るのは無理だろう。",
+        "zh": "如果腿脚不更结实的话，爬那座山是不可能的吧。",
+        "en": "Unless my legs are stronger, climbing that mountain will probably be impossible.",
+        "notes": "",
+        "context": "Discussing physical requirements for an activity"
+      }
+    ],
+    "related_grammar": ["〜なければ", "〜ないと"]
+  },
+  {
+    "id": "o-nuki-ni-shite-wa",
+    "main_form": "〜を抜きにしては",
+    "variants": [],
+    "search_keywords": ["を抜きにしては", "がなければ", "without", "excluding"],
+    "meaning": "没有某物或排除某物，某种情况就无法实现。",
+    "semantic_function": "表达某事对于某种结果是不可或缺或必要的",
+    "usage_context": ["强调不可或缺性", "常用于表达对某物的高度重视"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "インターネットとメールを抜きにしては、現代社会は成り立たないと言ってもいい。",
+        "zh": "可以说，没有互联网和电子邮件，现代社会就无法成立。",
+        "en": "It can be said that modern society cannot function without the internet and email.",
+        "notes": "",
+        "context": "Discussing the importance of technology in modern society"
+      },
+      {
+        "ja": "田中先生の好意的なご指導を抜きにしては、この勉強会は続けられないだろう。",
+        "zh": "如果没有田中老师善意的指导，这个学习会就无法继续下去吧。",
+        "en": "Without Professor Tanaka's kind guidance, this study group probably cannot continue.",
+        "notes": "",
+        "context": "Acknowledging crucial support for an activity"
+      },
+      {
+        "ja": "ボランティアの人たちの助けを抜きにしては、外国人の受け入れ計画は無理だと思う。",
+        "zh": "如果没有志愿者们的帮助，我觉得外国人接收计划是不可能的。",
+        "en": "Without the help of the volunteers, I believe the plan to accept foreigners would be impossible.",
+        "notes": "",
+        "context": "Emphasizing the necessity of volunteer assistance"
+      }
+    ],
+    "related_grammar": ["〜なしでは", "〜なしに"]
+  },
+  {
+    "id": "to-shite-mo-ni-shite-mo-ni-shiro-ni-seyo",
+    "main_form": "〜としても・〜にしても・〜にしろ・〜にせよ",
+    "variants": [],
+    "search_keywords": [
+      "としても",
+      "にしても",
+      "にしろ",
+      "にせよ",
+      "たとえ",
+      "even if",
+      "even though",
+      "regardless of"
+    ],
+    "meaning": "即使某个事实成立，说话者的感情或结论也不受影响。表示无论前提条件如何，某事都成立。",
+    "semantic_function": "表达让步或无论给定条件如何某事都成立；做出判断或评价",
+    "usage_context": [
+      "承认某点",
+      "做出判断或表达意见",
+      "常后接说话者的评价、判断或感情陈述"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "親元を離れるとしても、できるだけ親の近くに住む方がいい。",
+        "zh": "即使离开父母，最好也住在离父母近的地方。",
+        "en": "Even if you leave your parents' home, it's better to live as close to them as possible.",
+        "notes": "",
+        "context": "Giving advice about living arrangements"
+      },
+      {
+        "ja": "準備期間が短かったにしても、もう少し立派な報告書を書いてほしかった。",
+        "zh": "即使准备时间很短，也希望你能写出一份更出色的报告。",
+        "en": "Even though the preparation period was short, I wished you had written a slightly better report.",
+        "notes": "",
+        "context": "Expressing a mild complaint or disappointment"
+      },
+      {
+        "ja": "たとえ悪い結果にしろ、できることは全部やってきたのだから後悔はしない。",
+        "zh": "即使结果很糟糕，但该做的都做了，所以不后悔。",
+        "en": "Even if the result is bad, I did everything I could, so I have no regrets.",
+        "notes": "",
+        "context": "Expressing no regret despite a negative outcome"
+      },
+      {
+        "ja": "何をすることにせよ、心を込めて取り組みたい。",
+        "zh": "无论做什么事情，我都想全心投入。",
+        "en": "Whatever I do, I want to tackle it with all my heart.",
+        "notes": "",
+        "context": "Expressing dedication to any task"
+      }
+    ],
+    "related_grammar": ["〜ても", "〜とはいえ"]
+  },
+  {
+    "id": "ni-mo-kakawarazu",
+    "main_form": "〜にもかかわらず",
+    "variants": [],
+    "search_keywords": [
+      "にもかかわらず",
+      "にかかわらず",
+      "regardless of",
+      "despite",
+      "even though"
+    ],
+    "meaning": "尽管有某种情况，但仍然采取行动或存在不受其影响的状态",
+    "semantic_function": "表达对情况不影响结果感到惊讶或意外",
+    "usage_context": ["正式", "书面语", "口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "水道工事の人たちは悪天候にもかかわらず、作業を続けている。",
+        "zh": "水道工程人员不顾恶劣天气，继续工作。",
+        "en": "Despite the bad weather, the waterworks crew continued their work.",
+        "notes": "",
+        "context": "描述在困难条件下的坚持"
+      },
+      {
+        "ja": "中村先生はお忙しいにもかかわらず、快く僕のレポートをチェックしてくださった。",
+        "zh": "中村老师尽管很忙，还是愉快地帮我检查了报告。",
+        "en": "Despite being busy, Professor Nakamura kindly checked my report.",
+        "notes": "",
+        "context": "表达对他人努力的感激"
+      },
+      {
+        "ja": "足を痛めたにもかかわらず、村田選手はマラソンコースを最後まで走った。",
+        "zh": "村田选手尽管脚受伤了，还是跑完了马拉松全程。",
+        "en": "Despite hurting his leg, Murata ran the entire marathon course.",
+        "notes": "",
+        "context": "描述运动员的决心"
+      }
+    ],
+    "related_grammar": ["〜のに", "〜ても"]
+  },
+  {
+    "id": "mono-no-to-wa-iu-mono-no",
+    "main_form": "〜ものの",
+    "variants": ["〜とはいうものの"],
+    "search_keywords": [
+      "ものの",
+      "とはいうものの",
+      "although",
+      "even though",
+      "despite"
+    ],
+    "meaning": "虽然某事属实，但由此事实自然预期的结果并未发生",
+    "semantic_function": "表达期望与现实之间的矛盾或差距",
+    "usage_context": ["书面语", "口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "明日の天気です。関東地方は晴れるものの、風が強いため寒く感じられるでしょう。",
+        "zh": "这是明天的天气。关东地区虽然晴朗，但因为风大可能会感到寒冷。",
+        "en": "This is tomorrow's weather. Although the Kanto region will be sunny, it will likely feel cold due to strong winds.",
+        "notes": "",
+        "context": "带有意外细节的天气预报"
+      },
+      {
+        "ja": "高価な着物を買ったものの、着るチャンスがない。",
+        "zh": "虽然买了昂贵的和服，但没有机会穿。",
+        "en": "Although I bought an expensive kimono, I don't have a chance to wear it.",
+        "notes": "",
+        "context": "因缺乏使用而后悔购买"
+      },
+      {
+        "ja": "不景気とはいうものの、人々の表情は明るい。",
+        "zh": "虽说是经济不景气，但人们的表情却很开朗。",
+        "en": "Although it's a recession, people's expressions are bright.",
+        "notes": "",
+        "context": "在负面情况下观察积极态度"
+      },
+      {
+        "ja": "手術は成功したとはいうものの、まだ心配だ。",
+        "zh": "手术虽然成功了，但我还是很担心。",
+        "en": "Although the surgery was successful, I'm still worried.",
+        "notes": "",
+        "context": "积极结果后的持续担忧"
+      }
+    ],
+    "related_grammar": ["〜けれども", "〜が"]
+  },
+  {
+    "id": "nagara-mo",
+    "main_form": "〜ながら(も)",
+    "variants": [],
+    "search_keywords": [
+      "ながら",
+      "ながらも",
+      "while",
+      "although",
+      "despite being"
+    ],
+    "meaning": "在某种状态下，发生了与该状态预期相反的情况",
+    "semantic_function": "表达矛盾、让步或尽管处于某种状态却出现意外结果",
+    "usage_context": ["正式", "书面语", "口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "毎日この道を通っていながら、ここにこんなすてきな店があるとは気がつかなかった。",
+        "zh": "我每天都经过这条路，却没注意到这里有这么棒的店。",
+        "en": "Despite passing this road every day, I hadn't noticed there was such a wonderful shop here.",
+        "notes": "",
+        "context": "在熟悉的地方发现新事物"
+      },
+      {
+        "ja": "狭いながらも庭があるので、わたしは花を育てて楽しんでいます。",
+        "zh": "虽然院子很小，但因为有庭院，我享受着养花。",
+        "en": "Although it's a small garden, I enjoy growing flowers because I have one.",
+        "notes": "",
+        "context": "在有限空间中寻找乐趣"
+      },
+      {
+        "ja": "あの子は子供ながら、社会の動きをよく知っていますね。",
+        "zh": "那个孩子虽然是小孩，却很了解社会动态呢。",
+        "en": "Although that child is young, they are very knowledgeable about societal trends.",
+        "notes": "与负面评价词（小、轻微）一起使用",
+        "context": "评论孩子意外的成熟"
+      }
+    ],
+    "related_grammar": ["〜けれども", "〜のに"]
+  },
+  {
+    "id": "tsutsu-mo",
+    "main_form": "〜つつ(も)",
+    "variants": [],
+    "search_keywords": ["つつ", "つつも", "while", "even though", "despite"],
+    "meaning": "虽然有某种想法或意图，但行动却与之相反",
+    "semantic_function": "表达思想/意图与行动之间的矛盾",
+    "usage_context": ["正式", "书面语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "早く返事を書かなければと気にしつつ、まだ書いていない。",
+        "zh": "虽然心里想着必须尽快回复，但还没写。",
+        "en": "Although I'm concerned about having to write a reply soon, I still haven't written it.",
+        "notes": "",
+        "context": "尽管意识到紧急性却拖延"
+      },
+      {
+        "ja": "危険だと知りつつ、山道を登り続けた。",
+        "zh": "明知危险，却还是继续攀登山路。",
+        "en": "Even though I knew it was dangerous, I continued climbing the mountain path.",
+        "notes": "",
+        "context": "明知风险仍继续行动"
+      },
+      {
+        "ja": "体に良くないと思いつつも、毎日インスタント食品ばかり食べています。",
+        "zh": "虽然知道对身体不好，但每天只吃方便食品。",
+        "en": "Although I know it's not good for my body, I eat only instant food every day.",
+        "notes": "",
+        "context": "明知故犯不健康习惯"
+      }
+    ],
+    "related_grammar": ["〜ながら", "〜けれども"]
+  },
+  {
+    "id": "to-ittemo",
+    "main_form": "〜といっても",
+    "variants": [],
+    "search_keywords": [
+      "といっても",
+      "though I say",
+      "even if I say",
+      "when I say"
+    ],
+    "meaning": "实际情况与从所说内容推断出的形象或期望不同",
+    "semantic_function": "澄清或限制之前的陈述，通常表示现实不如假设的那么令人印象深刻或有所不同",
+    "usage_context": ["书面语", "口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "わたしは今おばの家に住んでいます。おばといっても母の兄弟ではなく、祖母の妹にあたる人だ。",
+        "zh": "我现在住在姑姑家。虽说是姑姑，但她不是我母亲的兄弟姐妹，而是我祖母的妹妹。",
+        "en": "I'm currently living at my aunt's house. But when I say 'aunt,' she's not my mother's sibling, but my grandmother's younger sister.",
+        "notes": "后面的句子将表达与'〜'形象不同的含义",
+        "context": "澄清家庭关系"
+      },
+      {
+        "ja": "料理ができるといっても、わたしが作れるのは簡単なものだけです。",
+        "zh": "虽说我会做饭，但我能做的只是些简单的菜。",
+        "en": "Although I can cook, what I can make are only simple dishes.",
+        "notes": "",
+        "context": "谦虚地淡化自己的烹饪技能"
+      },
+      {
+        "ja": "今もわたしの仕事はきつい。でも、きついといっても、前の会社にいたときほどではない。",
+        "zh": "现在我的工作也很辛苦。但是，虽说辛苦，也比不上在以前公司的时候。",
+        "en": "My current job is also tough. But even though I say 'tough,' it's not as tough as when I was at my previous company.",
+        "notes": "",
+        "context": "比较当前工作难度与过去经历"
+      }
+    ],
+    "related_grammar": ["〜からといって", "〜とはいえ"]
+  },
+  {
+    "id": "kara-to-itte",
+    "main_form": "〜からといって",
+    "variants": [],
+    "search_keywords": [
+      "からといって",
+      "just because",
+      "even if",
+      "doesn't mean"
+    ],
+    "meaning": "仅仅因为有某种原因，从该原因通常预期的结果不一定成立",
+    "semantic_function": "否定基于给定原因的常见假设或结果；表达原因不充分",
+    "usage_context": ["书面语", "口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "連休だからといって、デパートに勤めているわたしたちは休めるわけではない。",
+        "zh": "虽说是连休，但我们这些在百货公司工作的人也无法休息。",
+        "en": "Just because it's a long holiday, it doesn't mean we who work at department stores can take a break.",
+        "notes": "后面的句子常是否定的部分否定表达（如〜とは限らない・〜わけではない・〜とはいえない）",
+        "context": "解释假期期间的工作现实"
+      },
+      {
+        "ja": "好きじゃないからといって、食べ物をこんなにたくさん残してはいけませんよ。",
+        "zh": "不能因为不喜欢就剩下这么多食物。",
+        "en": "Just because you don't like it, you shouldn't leave so much food.",
+        "notes": "",
+        "context": "告诫他人浪费食物"
+      },
+      {
+        "ja": "忙しいからといって、睡眠をちゃんととらないと、体を壊しますよ。",
+        "zh": "不能因为忙就不好好睡觉，那样会搞垮身体的哦。",
+        "en": "Just because you're busy, if you don't get enough sleep, you'll ruin your health.",
+        "notes": "",
+        "context": "警告因忙碌忽视健康的后果"
+      }
+    ],
+    "related_grammar": ["〜だからといって", "〜という理由で"]
+  },
+  {
+    "id": "to-wa",
+    "main_form": "〜とは",
+    "variants": [],
+    "search_keywords": ["とは", "意思", "定义", "解释"],
+    "meaning": "用于解释或定义一个词语或概念，是「〜というのは」的正式说法。",
+    "semantic_function": "定义、解释、询问含义",
+    "usage_context": ["正式语言", "书面语", "口语（下定义时）"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "「校正(こうせい)」とはどういう意味ですか。",
+        "zh": "「校正」是什么意思？",
+        "en": "What does \"proofreading\" mean?",
+        "notes": "询问单词含义",
+        "context": "询问术语"
+      },
+      {
+        "ja": "「増悪(ぞうあく)」とは医学用語で、症状がもっと悪くなることである。",
+        "zh": "「增恶」在医学术语中是指症状变得更严重。",
+        "en": "\"Exacerbation\" in medical terms means that symptoms become worse.",
+        "notes": "定义医学术语",
+        "context": "提供定义"
+      },
+      {
+        "ja": "人生とは本人が主役のドラマみたいなものだ。",
+        "zh": "人生就像一部由自己主演的电视剧。",
+        "en": "Life is like a drama in which you are the main character.",
+        "notes": "提供哲学性定义/比喻",
+        "context": "比喻性解释概念"
+      }
+    ],
+    "related_grammar": ["〜というのは"]
+  },
+  {
+    "id": "to-ieba",
+    "main_form": "〜といえば",
+    "variants": [],
+    "search_keywords": ["といえば", "说到", "提起", "如果要说"],
+    "meaning": "提出对话中出现的一个词语或话题，引出另一个相关话题，或者确认某事然后说出自己真正想说的话。",
+    "semantic_function": "话题转换、联想、确认、软化否定表达",
+    "usage_context": ["口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "このコーヒー、ハワイのお土産ですか。ハワイといえば、さち子さんが来月ハワイで結婚式をするんだそうですよ。",
+        "zh": "这咖啡是夏威夷的特产吗？说到夏威夷，听说幸子下个月要在夏威夷举行婚礼。",
+        "en": "Is this coffee a souvenir from Hawaii? Speaking of Hawaii, I heard Sachiko is getting married in Hawaii next month.",
+        "notes": "根据关键词转换到相关话题",
+        "context": "日常对话，转换话题"
+      },
+      {
+        "ja": "A: 「高速道路の料金が安くなるみたいですね。」 B: 「そのようですね。安くなるといえば、飛行機のチケットが安く買えそうなので、来月旅行しようと思っているんです。」",
+        "zh": "A: \"高速公路的费用好像要便宜了呢。\" B: \"是啊。说到便宜，好像能买到便宜的机票，所以我想下个月去旅行。\"",
+        "en": "A: \"It seems the highway tolls are getting cheaper.\" B: \"Yes, it does. Speaking of getting cheaper, it seems I can buy cheap plane tickets, so I'm thinking of traveling next month.\"",
+        "notes": "用相关信息继续话题",
+        "context": "回应并添加相关信息"
+      },
+      {
+        "ja": "今のパート、駅から遠いので不便といえば不便ですが、静かでいいですよ。",
+        "zh": "现在的工作地点，如果说不方便的话确实不方便，因为它离车站很远，但安静这点很好。",
+        "en": "My current part-time job, if you say it's inconvenient, it is inconvenient because it's far from the station, but it's nice and quiet.",
+        "notes": "承认缺点但说出优点",
+        "context": "承认缺点但强调优点"
+      },
+      {
+        "ja": "松本さんのうちのお嬢さん、かわいいといえばかわいいけど、ちょっとわがままね。",
+        "zh": "松本家的小姐，要说可爱是可爱，但有点任性呢。",
+        "en": "Ms. Matsumoto's daughter, if you say she's cute, she is cute, but she's a bit selfish.",
+        "notes": "承认优点但说出缺点",
+        "context": "平衡地描述某人"
+      }
+    ],
+    "related_grammar": ["〜というと", "〜といったら"]
+  },
+  {
+    "id": "to-iu-to-to-ieba-to-ittara",
+    "main_form": "〜というと",
+    "variants": ["〜といえば", "〜といったら"],
+    "search_keywords": [
+      "というと",
+      "といえば",
+      "といったら",
+      "说到",
+      "提起",
+      "让人想到"
+    ],
+    "meaning": "一提到某个词语，立刻让人联想到相关的事物。",
+    "semantic_function": "联想、回忆信息、确认理解",
+    "usage_context": ["口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "これ、うちの畑でとれたトマト。畑というと広い土地を想像するでしょうが、うちの畑は畳2枚くらいの狭さなんです。",
+        "zh": "这是我家菜园里摘的番茄。说到菜园，大家可能会想象很大的地方，但我们家的菜园只有两张榻榻米那么大。",
+        "en": "This is a tomato from our field. When you say \"field,\" you probably imagine a large plot of land, but our field is only about two tatami mats in size.",
+        "notes": "澄清对某个词语的常见误解",
+        "context": "解释与一般术语相关的个人细节"
+      },
+      {
+        "ja": "オーストラリアといえば、すぐにコアラとかカンガルーを思い浮かべる。",
+        "zh": "一提到澳大利亚，立刻就会想到考拉和袋鼠。",
+        "en": "Speaking of Australia, koalas and kangaroos immediately come to mind.",
+        "notes": "与国家的自动联想",
+        "context": "回忆典型联想"
+      },
+      {
+        "ja": "くじらっていったら、思いつくことは何でしょうか。",
+        "zh": "说到鲸鱼，你会想到什么？",
+        "en": "Speaking of whales, what comes to mind?",
+        "notes": "询问联想",
+        "context": "提示想法/联想"
+      },
+      {
+        "ja": "A: 「今度のパーティー、トップでやろうと思っているんですが……。」 B: 「トップというと、去年オープンしたイタリアンレストランのことですよね。」",
+        "zh": "A: \"下次的派对，我打算在Top举行……\" B: \"说到Top，是去年开的那家意大利餐厅吧？\"",
+        "en": "A: \"I'm thinking of having the next party at Top...\" B: \"When you say Top, you mean the Italian restaurant that opened last year, right?\"",
+        "notes": "确认对特定名称的理解",
+        "context": "澄清特定指代"
+      },
+      {
+        "ja": "A: 「わたし、今日でこの仕事辞めるんです。」 B: 「えっ。辞めるというと、もう来ないということですか。」",
+        "zh": "A: \"我今天辞职了。\" B: \"哎？你说辞职，是说你再也不来了吗？\"",
+        "en": "A: \"I'm quitting this job today.\" B: \"Huh? When you say quitting, do you mean you won't be coming anymore?\"",
+        "notes": "确认陈述的含意",
+        "context": "寻求对决定的澄清"
+      }
+    ],
+    "related_grammar": ["〜という", "〜と言えば", "〜と言ったら"]
+  },
+  {
+    "id": "no-koto-to-naru-to",
+    "main_form": "〜（のこと）となると",
+    "variants": [],
+    "search_keywords": [
+      "のこととなると",
+      "となると",
+      "当涉及到",
+      "话题变化",
+      "态度变化"
+    ],
+    "meaning": "强调当涉及到某个特定话题时，自己的态度或行为会变得与平时不同。",
+    "semantic_function": "强调与话题相关的行为/态度的特定变化",
+    "usage_context": ["口语", "描述习惯或性格特征"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "佐藤さんは、好きな歌手のこととなると話が止まらない。",
+        "zh": "佐藤一提到自己喜欢的歌手，就滔滔不绝。",
+        "en": "When it comes to his favorite singer, Mr. Sato can't stop talking.",
+        "notes": "描述某人对话题的热情",
+        "context": "描述某人的热情"
+      },
+      {
+        "ja": "弟は、車のことにとなると急に専門家みたいになる。",
+        "zh": "弟弟一提到车，就突然变得像个专家。",
+        "en": "When it comes to cars, my younger brother suddenly becomes like an expert.",
+        "notes": "描述专业知识的突然转变",
+        "context": "突出特定知识领域"
+      },
+      {
+        "ja": "酒好きだった父は、酒となると人が変わったように元気になった。",
+        "zh": "喜欢喝酒的父亲，一提到酒就变得判若两人，精神十足。",
+        "en": "My father, who loved sake, would become energetic as if he were a different person when it came to sake.",
+        "notes": "描述某人举止的戏剧性变化",
+        "context": "描述对特定项目的强烈反应"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "to-ittara",
+    "main_form": "〜といったら",
+    "variants": [],
+    "search_keywords": [
+      "といったら",
+      "说到",
+      "当涉及到",
+      "异常程度",
+      "惊讶",
+      "感叹"
+    ],
+    "meaning": "强调某事物的程度非同寻常或异常，常表达惊讶或强烈情感。",
+    "semantic_function": "强调极端程度，表达惊讶或强烈情感",
+    "usage_context": ["口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "締め切り前の仕事の忙しさといったら、君には想像もできないと思うよ。",
+        "zh": "截止日期前工作的繁忙程度，你根本无法想象。",
+        "en": "The busyness of work before the deadline, I don't think you can even imagine it.",
+        "notes": "强调极端的繁忙程度",
+        "context": "描述压倒性的情况"
+      },
+      {
+        "ja": "そのニュースを聞いたときの驚きといったら、しばらくは声も出ないほどだった。",
+        "zh": "听到那个新闻时的震惊程度，简直让我一时说不出话来。",
+        "en": "The surprise I felt when I heard that news was so great that I couldn't speak for a while.",
+        "notes": "强调极端的惊讶程度",
+        "context": "回忆令人震惊的事件"
+      },
+      {
+        "ja": "富士山の頂上から見た景色といったら、思い出すだけで感動する。",
+        "zh": "富士山顶上看到的景色，光是回想起来就让人感动。",
+        "en": "The view from the summit of Mt. Fuji, just remembering it moves me.",
+        "notes": "强调景色的深刻美丽",
+        "context": "描述令人叹为观止的体验"
+      },
+      {
+        "ja": "暗い山道を一人で歩いたときの怖さといったら……。",
+        "zh": "一个人走在漆黑山路上的那种恐惧感……。",
+        "en": "The fear I felt when walking alone on a dark mountain path...",
+        "notes": "让听者想象情感冲击",
+        "context": "描述恐怖的经历"
+      }
+    ],
+    "related_grammar": ["〜というと", "〜といえば"]
+  },
+  {
+    "id": "wake-ga-nai",
+    "main_form": "〜わけがない",
+    "variants": [],
+    "search_keywords": [
+      "わけがない",
+      "絶対〜ない",
+      "考えられない",
+      "impossible",
+      "no way"
+    ],
+    "meaning": "绝对不可能；难以想象",
+    "semantic_function": "强烈表达某事不真实或不可能的信念",
+    "usage_context": ["断言不可能", "强烈否定"],
+    "proficiency_level": "N3",
+    "examples": [
+      {
+        "ja": "この仕事、今日中に全部ですか。わたし一人でできるわけがありませんよ。",
+        "zh": "这份工作，今天之内全部完成吗？我一个人不可能做完的。",
+        "en": "This whole job by today? There's no way I can do it by myself.",
+        "notes": "因个人能力限制表达不可能性",
+        "context": "回应不合理的要求"
+      },
+      {
+        "ja": "田中先生の試験がそんなに簡単なわけがない。厳しいことで有名な先生なのだ。",
+        "zh": "田中老师的考试不可能那么简单。他可是以严格出名的老师。",
+        "en": "There's no way Mr. Tanaka's test is that easy. He's a teacher famous for being strict.",
+        "notes": "基于对某人的已知事实表达不可能性",
+        "context": "讨论老师的声誉"
+      },
+      {
+        "ja": "この店は元一流ホテルのコックさんが開いたんだ。料理がおいしくないわけがない。",
+        "zh": "这家店是以前一流酒店的厨师开的。菜不可能不好吃。",
+        "en": "This restaurant was opened by a former top-class hotel chef. There's no way the food isn't delicious.",
+        "notes": "基于专业人士背景表达确定性",
+        "context": "推荐餐厅"
+      }
+    ],
+    "related_grammar": ["〜はずがない"]
+  },
+  {
+    "id": "dokoro-de-wa-nai-dokoro-ka",
+    "main_form": "〜どころではない・〜どころか",
+    "variants": [],
+    "search_keywords": [
+      "どころではない",
+      "どころか",
+      "not just",
+      "far from",
+      "on the contrary"
+    ],
+    "meaning": "不仅仅是那样；远不止如此；相反，甚至更糟/不同",
+    "semantic_function": "强调情况比最初想象的更极端或不同，通常以负面方式",
+    "usage_context": ["对比期望与现实", "强调更严重的情况"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "せきが出るので風邪かなと思っていたが、ただの風邪どころではなく、肺炎だった。",
+        "zh": "因为咳嗽，我以为是感冒，但远不止是感冒，而是肺炎。",
+        "en": "I was coughing, so I thought it might be a cold, but it wasn't just a cold, it was pneumonia.",
+        "notes": "显示情况比预期严重得多",
+        "context": "描述医疗诊断"
+      },
+      {
+        "ja": "休日なのでちょっとは道が込むだろうと思っていたが、ちょっとどころではなかった。",
+        "zh": "因为是休息日，我以为路会有点堵，但远不止是\"有点\"堵。",
+        "en": "Since it was a holiday, I thought the roads would be a bit crowded, but it was far from just 'a bit'.",
+        "notes": "强调情况程度超出预期",
+        "context": "描述休息日的交通状况"
+      },
+      {
+        "ja": "マナーが悪い人をちょっと注意したら、謝るどころか、逆にわたしにどなった。",
+        "zh": "我稍微提醒了一下那个没礼貌的人，他非但没有道歉，反而冲我吼叫。",
+        "en": "When I mildly warned the person with bad manners, far from apologizing, they yelled at me instead.",
+        "notes": "表示发生了相反的、更糟的反应",
+        "context": "描述不愉快的遭遇"
+      },
+      {
+        "ja": "こんな下手なチームでは、何度試合をしても一度も勝てないどころか、1点も入れられないだろう。",
+        "zh": "在这么差劲的队伍里，别说赢一场了，恐怕连一分都得不到。",
+        "en": "With such a weak team, not only can they not win a single game no matter how many times they play, but they probably can't even score a single point.",
+        "notes": "将负面情况延伸到更糟糕的极端",
+        "context": "批评运动队"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "mono-ka",
+    "main_form": "〜ものか",
+    "variants": ["〜もんか", "〜ものですか", "〜もんですか"],
+    "search_keywords": [
+      "ものか",
+      "もんか",
+      "ものですか",
+      "もんですか",
+      "絶対〜ない",
+      "never",
+      "no way",
+      "rhetorical question"
+    ],
+    "meaning": "绝对不可能；绝不。带有强烈感情色彩的否定，通常为反问形式",
+    "semantic_function": "带有感情色彩地强烈否定或拒绝某事；反问式否定",
+    "usage_context": ["口语", "表达强烈个人感情", "反问句"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "山田が時間通りに来るものか。あいつはいつも遅刻なんだから。",
+        "zh": "山田怎么可能准时来？他总是迟到。",
+        "en": "Yamada come on time? No way. He's always late.",
+        "notes": "基于过去行为表达强烈怀疑",
+        "context": "讨论某人的守时性"
+      },
+      {
+        "ja": "駅から歩いて40分。バスもない。こんな不便な所に住めるものか。",
+        "zh": "从车站走40分钟。也没有公交车。我怎么可能住在这么不方便的地方？",
+        "en": "It's a 40-minute walk from the station, and there are no buses. How could I possibly live in such an inconvenient place?",
+        "notes": "强烈拒绝住在不方便地方的想法",
+        "context": "抱怨不方便的地点"
+      },
+      {
+        "ja": "あの人が正直なもんか。うそばかり言う人だ。",
+        "zh": "那个人怎么可能诚实？他是个只会说谎的人。",
+        "en": "That person honest? No way. He's always telling lies.",
+        "notes": "强烈否定某人的诚实性",
+        "context": "批评某人的品格"
+      },
+      {
+        "ja": "わたしが努力家なもんもんか。こつこつ努力するのは苦手なんですよ。",
+        "zh": "我怎么可能是个努力家？我可不擅长脚踏实地的努力。",
+        "en": "Me, a hard worker? No way. I'm bad at steadily putting in effort.",
+        "notes": "自嘲式地否认自己是努力家",
+        "context": "回应赞美或指责"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "wake-de-wa-nai-to-iu-wake-de-wa-nai",
+    "main_form": "〜わけではない・〜というわけではない",
+    "variants": [],
+    "search_keywords": [
+      "わけではない",
+      "というわけではない",
+      "not entirely",
+      "not necessarily",
+      "not always"
+    ],
+    "meaning": "并不意味着...；并非完全如此；不一定",
+    "semantic_function": "部分否定陈述；表达某事并非总是、完全或必然如此",
+    "usage_context": ["部分否定", "澄清陈述", "避免绝对断言"],
+    "proficiency_level": "N3",
+    "examples": [
+      {
+        "ja": "携帯電話を持っていても、いつでも電話に出られるわけではない。",
+        "zh": "即使带着手机，也并非总能接电话。",
+        "en": "Even if I have my mobile phone with me, it doesn't mean I can always answer calls.",
+        "notes": "澄清有手机不保证随时能接电话",
+        "context": "解释手机使用的局限性"
+      },
+      {
+        "ja": "A: 「どうしたの？怒っているの？」 B: 「怒っているわけじゃないけど······あなたの気持ち、このごろよくわからない。」",
+        "zh": "A: \"怎么了？生气了吗？\" B: \"倒也不是生气……只是最近不太懂你的心思。\"",
+        "en": "A: \"What's wrong? Are you angry?\" B: \"It's not that I'm angry... but lately, I just don't understand how you feel.\"",
+        "notes": "部分否定生气的同时表达困惑",
+        "context": "回应关于心情的问题"
+      },
+      {
+        "ja": "親の気持ちもわからないわけではないが、自分の進路は自分で決めたい。",
+        "zh": "也不是不理解父母的心情，但我的前途想自己决定。",
+        "en": "It's not that I don't understand my parents' feelings, but I want to decide my own path.",
+        "notes": "承认理解的同时坚持个人愿望",
+        "context": "与父母讨论职业选择"
+      },
+      {
+        "ja": "その日は絶対に無理というわけではありませんが、できれば別の日にしてもらえるとありがたいです。",
+        "zh": "那天倒也不是完全不行，但如果能换个日子我会很感激。",
+        "en": "It's not that that day is absolutely impossible, but I'd be grateful if we could do it on a different day.",
+        "notes": "礼貌地表示偏好而非直接拒绝",
+        "context": "重新安排约会"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "to-iu-mono-de-wa-nai-to-iu-mono-demo-nai",
+    "main_form": "〜というものではない・〜というものでもない",
+    "variants": [],
+    "search_keywords": [
+      "というものではない",
+      "というものでもない",
+      "not necessarily",
+      "not always simple",
+      "it's not that simple"
+    ],
+    "meaning": "并非仅仅是那样...；不一定A就B；并非那么简单",
+    "semantic_function": "表达某事并非总是如此，或简单条件不能保证简单结果；常用于传达细微差别或复杂性",
+    "usage_context": ["反驳过于简单的假设", "解释复杂性", "提供细致的观点"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "医師の仕事は資格をとればできるというものではない。常に最新の治療法を研究する姿勢がなければいけない。",
+        "zh": "医生这份工作，并非考取了资格就能胜任。必须时刻保持研究最新治疗方法的态度。",
+        "en": "The job of a doctor isn't something you can do just by getting a license. You need to always have an attitude of researching the latest treatments.",
+        "notes": "解释仅凭资格不够；需要持续努力",
+        "context": "讨论职业要求"
+      },
+      {
+        "ja": "自由だからといって、何をしてもいいというものではありません。",
+        "zh": "虽说自由，但也不是想做什么就能做什么。",
+        "en": "Just because you're free doesn't mean you can do anything you want.",
+        "notes": "为自由设定界限",
+        "context": "讨论个人责任"
+      },
+      {
+        "ja": "練習問題は一度やれば終わりというものではない。間違ったところをよく復習することが大切だ。",
+        "zh": "练习题并非做一次就完事。重要的是要好好复习做错的地方。",
+        "en": "Practice problems aren't something you just do once and finish. It's important to thoroughly review the parts you got wrong.",
+        "notes": "强调复习比完成任务更重要",
+        "context": "建议学习方法"
+      },
+      {
+        "ja": "努力すれば必ず成功するというものでもない。チャンスも必要だ。",
+        "zh": "努力也并非一定会成功。机会也很重要。",
+        "en": "It's not that if you try hard, you'll definitely succeed. Opportunity is also necessary.",
+        "notes": "承认努力重要但不是成功的唯一因素",
+        "context": "讨论成功因素"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "o-kawazu",
+    "main_form": "〜を問わず",
+    "variants": [],
+    "search_keywords": [
+      "を問わず",
+      "をといません",
+      "regardless of",
+      "without distinction of"
+    ],
+    "meaning": "不管是不是X，同样的事情适用于所有情况；不区分。",
+    "semantic_function": "表达某事物普遍适用，不受条件限制。",
+    "usage_context": ["正式", "一般陈述"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "このドッグショーには種類を問わず、どんな犬でも参加できます。",
+        "zh": "这个狗展不分种类，任何狗都可以参加。",
+        "en": "Any dog can participate in this dog show, regardless of breed.",
+        "notes": "",
+        "context": "Dog show participation rules"
+      },
+      {
+        "ja": "このクレジットカードは国内、国外を問わず、いろいろな場所で使える。",
+        "zh": "这张信用卡在国内国外都可以使用。",
+        "en": "This credit card can be used in various places, both domestically and internationally.",
+        "notes": "",
+        "context": "Credit card usage"
+      },
+      {
+        "ja": "このマラソン大会には、性別、年齢を問わず、だれでも参加できます。",
+        "zh": "这个马拉松比赛不分性别、年龄，谁都可以参加。",
+        "en": "Anyone can participate in this marathon, regardless of gender or age.",
+        "notes": "",
+        "context": "Marathon participation rules"
+      }
+    ],
+    "related_grammar": ["〜にかかわらず"]
+  },
+  {
+    "id": "ni-kakawarazu",
+    "main_form": "〜にかかわりなく・〜にかかわらず",
+    "variants": ["〜にかかわりなく", "〜にかかわらず"],
+    "search_keywords": [
+      "にかかわりなく",
+      "にかかわらず",
+      "regardless of",
+      "irrespective of",
+      "no matter"
+    ],
+    "meaning": "不管X是什么，结果都一样；与X无关。",
+    "semantic_function": "表达某事物独立于某个条件。",
+    "usage_context": ["正式", "一般陈述"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "この路線バスの料金は、乗った距離にかかわりなく一律200円です。",
+        "zh": "这条路线的公交车费，无论乘车距离多远，一律200日元。",
+        "en": "The fare for this bus route is a flat 200 yen, regardless of the distance traveled.",
+        "notes": "",
+        "context": "Bus fare rules"
+      },
+      {
+        "ja": "理由が何であるかにかかわりなく、一度納入した入学金はお返しできません。",
+        "zh": "无论理由是什么，一旦缴纳的入学金都不能退还。",
+        "en": "Regardless of the reason, the enrollment fee once paid cannot be refunded.",
+        "notes": "",
+        "context": "University admission policy"
+      },
+      {
+        "ja": "振り込み手数料は、送金金額にかかわらず無料です。",
+        "zh": "转账手续费，无论汇款金额多少，都是免费的。",
+        "en": "Transfer fees are free, regardless of the amount sent.",
+        "notes": "",
+        "context": "Bank transfer fees"
+      },
+      {
+        "ja": "使う、使わないにかかわらず、会場には一応マイクが準備してあります。",
+        "zh": "无论用不用，会场都准备了麦克风。",
+        "en": "Whether you use it or not, a microphone is prepared at the venue just in case.",
+        "notes": "",
+        "context": "Event preparation"
+      }
+    ],
+    "related_grammar": ["〜を問わず"]
+  },
+  {
+    "id": "mo-kamawazu",
+    "main_form": "〜もかまわず",
+    "variants": [],
+    "search_keywords": [
+      "もかまわず",
+      "without caring about",
+      "regardless of",
+      "disregarding"
+    ],
+    "meaning": "采取行动时不关心通常会在意的事情。",
+    "semantic_function": "表达不考虑正常因素或后果而采取的行动。",
+    "usage_context": ["描述意外或不寻常的行为"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "人目もかまわず、道で大泣きしている人を見かけた。",
+        "zh": "看到有人不顾旁人眼光，在路上大哭。",
+        "en": "I saw someone crying loudly on the street, completely disregarding other people's eyes.",
+        "notes": "",
+        "context": "Observing public behavior"
+      },
+      {
+        "ja": "彼は値段もかまわず、好きな料理をどんどん注文した。",
+        "zh": "他不顾价格，一个劲儿地点自己喜欢的菜。",
+        "en": "He ordered his favorite dishes one after another, without caring about the price.",
+        "notes": "",
+        "context": "Ordering food at a restaurant"
+      },
+      {
+        "ja": "母は人を待たせているのもかまわず、まだ鏡の前で化粧している。",
+        "zh": "妈妈不顾让别人等着，还在镜子前化妆。",
+        "en": "My mother is still putting on makeup in front of the mirror, even though she's making people wait.",
+        "notes": "",
+        "context": "Waiting for someone"
+      },
+      {
+        "ja": "父が病気で入院中であるのもかまわず、兄は毎日バイクで遊び回っている。",
+        "zh": "爸爸生病住院了，哥哥却不顾这些，每天骑摩托车到处玩。",
+        "en": "My brother is riding around on his motorbike every day, completely disregarding the fact that our father is sick in the hospital.",
+        "notes": "",
+        "context": "Family situation"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "wa-tomokaku",
+    "main_form": "〜はともかく（として）",
+    "variants": ["〜はともかくとして"],
+    "search_keywords": [
+      "はともかく",
+      "はともかくとして",
+      "leaving aside",
+      "setting aside",
+      "apart from"
+    ],
+    "meaning": "有更想强调的事情，所以暂时把X放在一边。",
+    "semantic_function": "表示某事是次要的，另一件事更重要。",
+    "usage_context": ["强调更重要的一点"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "この店は、店の雰囲気はともかく、料理の味は最高だ。",
+        "zh": "这家店的氛围暂且不论，菜的味道是最好的。",
+        "en": "Leaving aside the atmosphere of this restaurant, the taste of the food is superb.",
+        "notes": "",
+        "context": "Evaluating a restaurant"
+      },
+      {
+        "ja": "外ではともかく、家の中でたばこを吸うのはやめて。",
+        "zh": "在外面抽烟暂且不论，请不要在家里抽烟。",
+        "en": "Leaving aside smoking outside, please stop smoking inside the house.",
+        "notes": "",
+        "context": "Setting house rules"
+      },
+      {
+        "ja": "受験するかどうかはともかく、願書だけはもらっておこう。",
+        "zh": "考不考暂且不论，先把申请表领回来吧。",
+        "en": "Whether or not I'll take the exam is one thing, but let's at least get the application form.",
+        "notes": "",
+        "context": "Considering an exam"
+      },
+      {
+        "ja": "アラビア語を習いたい。読むのはともかくとして、簡単な会話はできるようになりたい。",
+        "zh": "想学阿拉伯语。读写暂且不论，想能进行简单的会话。",
+        "en": "I want to learn Arabic. Reading is one thing, but I want to be able to have simple conversations.",
+        "notes": "",
+        "context": "Learning a new language"
+      }
+    ],
+    "related_grammar": ["〜はさておき"]
+  },
+  {
+    "id": "wa-sateoki",
+    "main_form": "〜はさておき",
+    "variants": [],
+    "search_keywords": [
+      "はさておき",
+      "leaving aside",
+      "putting aside",
+      "let's put aside"
+    ],
+    "meaning": "有更重要的事情，所以暂时把X放在一边。",
+    "semantic_function": "表示暂时搁置某个话题，讨论更重要或更根本的事情。",
+    "usage_context": ["将焦点转移到更重要的话题上"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "飲み会をするなら、細かいことはさておき、まずは場所と時間を決めなくては。",
+        "zh": "如果开派对，细节暂且不论，首先得决定地点和时间。",
+        "en": "If we're having a drinking party, let's put aside the minor details for now and first decide on the place and time.",
+        "notes": "",
+        "context": "Planning a social gathering"
+      },
+      {
+        "ja": "どんな家がいいかはさておき、どんな地域に引っ越したいかを考えよう。",
+        "zh": "什么样的房子好暂且不论，先考虑想搬到哪个地区吧。",
+        "en": "Let's put aside what kind of house is good and think about what area we want to move to.",
+        "notes": "",
+        "context": "Planning a move"
+      },
+      {
+        "ja": "冗談はさておき、次回のミーティングのテーマを決めておきたいと思います。",
+        "zh": "玩笑话暂且不论，我想先确定下次会议的主题。",
+        "en": "Jokes aside, I'd like to decide on the topic for the next meeting.",
+        "notes": "",
+        "context": "Starting a serious discussion"
+      }
+    ],
+    "related_grammar": ["〜はともかく"]
+  },
+  {
+    "id": "yara-yara",
+    "main_form": "〜やら〜やら",
+    "variants": [],
+    "search_keywords": ["やらやら", "〜やら", "等等", "各种", "多种"],
+    "meaning": "表示多个项目或状态，通常暗示混乱或无序的情况，或多种情感/行动的混合。",
+    "semantic_function": "列举多个原因、情感或项目，强调多样性或混乱。",
+    "usage_context": ["书面语", "口语", "强调多种、通常是冲突的元素"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "勝ったチームの選手たちは、泣き出すやら飛び上がるやらさまざまに喜びを表した。",
+        "zh": "获胜队的选手们，有的哭泣，有的跳起来，以各种方式表达了喜悦。",
+        "en": "The players of the winning team expressed their joy in various ways, crying and jumping.",
+        "notes": "描述了多种情感反应的混合。",
+        "context": "描述热烈的庆祝场面。"
+      },
+      {
+        "ja": "だまされたとわかったときは腹が立つやら情けないやらで、気持ちを抑えることができなかった。",
+        "zh": "当知道自己被骗时，又生气又懊恼，无法抑制自己的情绪。",
+        "en": "When I realized I had been deceived, I was angry and pathetic, and couldn't control my emotions.",
+        "notes": "表达了负面情感的组合。",
+        "context": "对被骗的反应。"
+      },
+      {
+        "ja": "娘の結婚式の日は、うれしいやら寂しいやら複雑な気持ちだった。",
+        "zh": "女儿结婚那天，心情又高兴又寂寞，很复杂。",
+        "en": "On my daughter's wedding day, I had mixed feelings, happy and lonely.",
+        "notes": "展示了对比情感的混合。",
+        "context": "父母在孩子婚礼当天的感受。"
+      },
+      {
+        "ja": "テーブルの上には、四角いものやら丸いものやらいろいろな形の皿が置いてあった。",
+        "zh": "桌子上摆着各种形状的盘子，有方的有圆的。",
+        "en": "On the table were various shaped plates, square ones and round ones.",
+        "notes": "列出不同类型的物品。",
+        "context": "描述桌子上的物品。"
+      }
+    ],
+    "related_grammar": ["〜とか〜とか", "〜たり〜たり"]
+  },
+  {
+    "id": "to-iu-ka-to-iu-ka",
+    "main_form": "〜というか〜というか",
+    "variants": [],
+    "search_keywords": [
+      "というかというか",
+      "〜というか",
+      "或者说",
+      "也许",
+      "很难说"
+    ],
+    "meaning": "用于提出对情况的两种可能描述或解释，暗示很难确定一个明确的解释。",
+    "semantic_function": "通过提供替代视角来表达不确定性或细致的描述。",
+    "usage_context": ["口语", "试图找到合适的词语来描述某事时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "あの子は元気がいいというか落ち着きがないというか、静かにじっとしていない子です。",
+        "zh": "那个孩子与其说活泼不如说坐不住，是个安静不下来的孩子。",
+        "en": "That child is energetic, or rather, restless; they can't sit still quietly.",
+        "notes": "提供两种方式来描述孩子的性情。",
+        "context": "描述一个活泼的孩子。"
+      },
+      {
+        "ja": "この部屋は、仕事場というか物置というか、とにかく仕事に必要な物が全部置いてあるんです。",
+        "zh": "这个房间与其说是工作室不如说是储藏室，总之工作所需的东西都放在里面了。",
+        "en": "This room is a workspace, or rather, a storage room; anyway, all the necessary things for work are kept there.",
+        "notes": "建议房间的两种可能功能。",
+        "context": "描述多功能房间。"
+      },
+      {
+        "ja": "今の私の気持ちですか。そうですねえ。退職してほっとしたというか寂しいというか、複雑です。",
+        "zh": "问我现在的心情吗？嗯，与其说辞职后松了口气不如说有些寂寞，很复杂。",
+        "en": "My feelings now? Well, it's complicated, I feel relieved after retiring, or rather, lonely.",
+        "notes": "表达事件后的复杂情感。",
+        "context": "退休后的感受反思。"
+      }
+    ],
+    "related_grammar": ["〜というか"]
+  },
+  {
+    "id": "ni-shite-mo-ni-shite-mo",
+    "main_form": "〜にしても〜にしても",
+    "variants": ["〜にしろ〜にしろ", "〜にせよ〜にせよ"],
+    "search_keywords": [
+      "にしてもにしても",
+      "にしろにしろ",
+      "にせよにせよ",
+      "无论是A还是B",
+      "无论如何"
+    ],
+    "meaning": "表示无论选择列出的哪个项目或情况，相同的结论或陈述都适用。",
+    "semantic_function": "强调在多个选项中的普遍性或公正性。",
+    "usage_context": ["书面语", "口语", "比较两个对比选项或情况时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "野菜にしても魚にしても、料理の材料は新鮮が第一です。",
+        "zh": "无论是蔬菜还是鱼，烹饪的食材新鲜是第一位的。",
+        "en": "Whether it's vegetables or fish, fresh ingredients are paramount for cooking.",
+        "notes": "将新鲜规则应用于两个类别。",
+        "context": "讨论烹饪食材。"
+      },
+      {
+        "ja": "勉強をするにしても仕事をするにしても、計画を立ててからやったほうがいい。",
+        "zh": "无论是学习还是工作，最好都先制定计划再做。",
+        "en": "Whether you're studying or working, it's better to make a plan before you start.",
+        "notes": "强调两种活动计划的重要性。",
+        "context": "关于任务管理的建议。"
+      },
+      {
+        "ja": "テレビにしろ新聞にしろ、ニュースには主観が入ってはいけない。",
+        "zh": "无论是电视还是报纸，新闻报道都不应该掺杂主观意见。",
+        "en": "Whether it's TV or newspapers, news reports should not include subjective opinions.",
+        "notes": "陈述两种媒体类型的原则。",
+        "context": "讨论新闻伦理。"
+      },
+      {
+        "ja": "入院するにしろ通院するにしろ、かなりのお金がかかるかもしれない。",
+        "zh": "无论是住院还是门诊，都可能需要相当多的钱。",
+        "en": "Whether you're hospitalized or an outpatient, it might cost a considerable amount of money.",
+        "notes": "强调两种医疗情况的费用方面。",
+        "context": "讨论医疗费用。"
+      },
+      {
+        "ja": "将来家を買うにしろ買わないにしろ、貯金はしておこう。",
+        "zh": "无论将来买不买房子，都应该存钱。",
+        "en": "Whether you buy a house in the future or not, you should save money.",
+        "notes": "建议无论未来住房计划如何都要存钱。",
+        "context": "财务规划。"
+      },
+      {
+        "ja": "与党にせよ野党にせよ、リーダーは責任が重い。",
+        "zh": "无论是执政党还是在野党，领导人的责任都很重大。",
+        "en": "Whether it's the ruling party or the opposition party, the leader has heavy responsibilities.",
+        "notes": "强调两种政治角色中领导人的责任。",
+        "context": "讨论政治领导力。"
+      },
+      {
+        "ja": "論文を書くにせよ討論をするにせよ、十分にデータを集めておく必要がある。",
+        "zh": "无论是写论文还是进行讨论，都需要充分收集数据。",
+        "en": "Whether you're writing a thesis or having a discussion, you need to gather enough data.",
+        "notes": "强调两种学术活动中数据的必要性。",
+        "context": "学术研究和讨论。"
+      }
+    ],
+    "related_grammar": ["〜でも〜でも"]
+  },
+  {
+    "id": "to-itta",
+    "main_form": "〜といった",
+    "variants": [],
+    "search_keywords": ["といった", "例如", "像", "比如", "等等"],
+    "meaning": "用于列出几个例子然后总结或分类它们。",
+    "semantic_function": "提供例子来说明一般类别或概念。",
+    "usage_context": ["书面语", "口语", "提供说明性例子时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "私はケーキ、ポテトチップス、ハンバーガーといったカロリーの高いものが大好きなんです。",
+        "zh": "我非常喜欢蛋糕、薯片、汉堡包这类高热量的食物。",
+        "en": "I really love high-calorie foods such as cakes, potato chips, and hamburgers.",
+        "notes": "列出高热量食物的例子。",
+        "context": "谈论喜欢的食物。"
+      },
+      {
+        "ja": "にんじんやピーマンやかぼちゃといった色の濃い野菜は緑黄色野菜といって、体にとてもいいんですよ。",
+        "zh": "胡萝卜、青椒、南瓜这类颜色深的蔬菜被称为绿黄色蔬菜，对身体非常好。",
+        "en": "Deep-colored vegetables such as carrots, bell peppers, and pumpkins are called green-yellow vegetables and are very good for your body.",
+        "notes": "将特定蔬菜分类为'绿黄色蔬菜'。",
+        "context": "讨论健康蔬菜。"
+      },
+      {
+        "ja": "京都とか鎌倉といった古い町には寺が多い。",
+        "zh": "京都和镰仓这类古老的城市有很多寺庙。",
+        "en": "Old towns like Kyoto and Kamakura have many temples.",
+        "notes": "提供有很多寺庙的古老城镇的例子。",
+        "context": "描述历史城市。"
+      },
+      {
+        "ja": "「エコ」という言葉は、「環境にいい」といった意味で使われるようになった。",
+        "zh": "\"环保\"这个词开始以\"对环境好\"这样的意思被使用。",
+        "en": "The word 'eco' has come to be used with meanings like 'good for the environment'.",
+        "notes": "使用例子短语解释'eco'的含义。",
+        "context": "解释词语的用法。"
+      }
+    ],
+    "related_grammar": ["〜など", "〜とか"]
+  },
+  {
+    "id": "ni-tsurete-ni-shitagatte",
+    "main_form": "〜につれて・〜にしたがって",
+    "variants": ["〜につれて", "〜にしたがって"],
+    "search_keywords": [
+      "につれて",
+      "にしたがって",
+      "as",
+      "along with",
+      "proportionate to",
+      "变化"
+    ],
+    "meaning": "当一件事物发生变化时，另一件事物也随之发生变化。",
+    "semantic_function": "表达比例变化或相关性。",
+    "usage_context": [
+      "当一件事物发生变化，另一件事物随之变化时，使用'につれて'和'にしたがって'。",
+      "'につれて'仅用于单向变化。",
+      "'にしたがって'可用于非单向变化。",
+      "'につれて'后面不接自然发生的变化或有意图的行为。",
+      "'にしたがって'后面常接自然发生的变化。"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "台風の接近につれて、雨や風が強くなってきた。",
+        "zh": "随着台风的接近，雨和风都变强了。",
+        "en": "As the typhoon approached, the rain and wind became stronger.",
+        "notes": "",
+        "context": "描述天气变化"
+      },
+      {
+        "ja": "日本に来て日がたつにつれ、会話が上手になってきた。",
+        "zh": "来日本后，随着日子一天天过去，会话能力也变好了。",
+        "en": "As the days passed since coming to Japan, my conversation skills improved.",
+        "notes": "",
+        "context": "描述技能随时间的提升"
+      },
+      {
+        "ja": "車のスピードが上がるにしたがって、事故の危険性も高くなる。",
+        "zh": "随着车速的提高，事故的危险性也增高。",
+        "en": "As the car's speed increases, the risk of accidents also increases.",
+        "notes": "",
+        "context": "描述速度与风险的关系"
+      },
+      {
+        "ja": "息子は成長するにしたがって、口数が少なくなった。",
+        "zh": "儿子随着成长，话也变少了。",
+        "en": "As my son grew, he became less talkative.",
+        "notes": "",
+        "context": "描述孩子行为的变化"
+      }
+    ],
+    "related_grammar": ["〜とともに", "〜にともなって"]
+  },
+  {
+    "id": "ni-tomonatte-to-tomoni",
+    "main_form": "〜にともなって・〜とともに",
+    "variants": ["～に伴って", "〜にともなって", "〜とともに"],
+    "search_keywords": [
+      "にともなって",
+      "とともに",
+      "along with",
+      "accompanying",
+      "as",
+      "hard expression",
+      "变化"
+    ],
+    "meaning": "当一件事物发生变化时，另一件事物也随之发生变化或被改变（较正式的表达）。",
+    "semantic_function": "表达伴随变化或相关性，常带有正式语感。",
+    "usage_context": [
+      "前面接表示变化的词语。",
+      "'〜とともに'用于单向变化。",
+      "'〜にともなって'可用于非单向变化。",
+      "两者都常用于关注渐进的、一步步的变化。"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "入学する留学生数の変化にともなって、クラス数を変える必要がある。",
+        "zh": "随着入学留学生人数的变化，有必要改变班级数量。",
+        "en": "Along with the change in the number of international students enrolling, it is necessary to change the number of classes.",
+        "notes": "",
+        "context": "因学生人数而产生的行政变化"
+      },
+      {
+        "ja": "メールが普及するに伴い、コミュニケーションの方法も変わってきた。",
+        "zh": "随着电子邮件的普及，交流方式也发生了变化。",
+        "en": "As email became widespread, methods of communication also changed.",
+        "notes": "",
+        "context": "技术带来的社会变化"
+      },
+      {
+        "ja": "地球の温暖化に伴うさまざまな変化を観察したいと思っている。",
+        "zh": "我想观察伴随地球变暖的各种变化。",
+        "en": "I want to observe various changes accompanying global warming.",
+        "notes": "",
+        "context": "观察环境变化"
+      },
+      {
+        "ja": "経済の回復とともに、人々の表情も明るくなってきた。",
+        "zh": "随着经济的好转，人们的表情也变得明朗起来。",
+        "en": "Along with the economic recovery, people's expressions have also brightened.",
+        "notes": "",
+        "context": "社会情绪反映经济状况"
+      },
+      {
+        "ja": "ペットボトル飲料の売れ行きが伸びるとともに、リサイクルも真剣に考えられるようになった。",
+        "zh": "随着瓶装饮料销量的增长，回收利用也开始被认真考虑。",
+        "en": "As sales of PET bottle beverages increased, recycling also began to be seriously considered.",
+        "notes": "",
+        "context": "消费增加的后果"
+      }
+    ],
+    "related_grammar": ["〜につれて", "〜にしたがって"]
+  },
+  {
+    "id": "shidai-da",
+    "main_form": "〜次第だ",
+    "variants": [],
+    "search_keywords": [
+      "次第だ",
+      "shidai da",
+      "depends on",
+      "up to",
+      "according to",
+      "结果",
+      "决定"
+    ],
+    "meaning": "如果~发生变化，结果也会随之变化。由~决定。",
+    "semantic_function": "表达某事取决于或由某个因素决定。",
+    "usage_context": [
+      "接在名词后面。",
+      "前面常接表示各种差异或范围的词语。",
+      "后面常接表示\"被决定\"的句子（如增加或减少）。",
+      "'〜次第だ'后面常表达变化的多种可能性之一（如增加、失去）。"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "人生が楽しいかどうかは考え方次第だ。",
+        "zh": "人生是否快乐取决于想法。",
+        "en": "Whether life is enjoyable or not depends on one's way of thinking.",
+        "notes": "",
+        "context": "个人人生观"
+      },
+      {
+        "ja": "この夏のトレーニング次第で秋の試合に勝つかどうかが決まる。",
+        "zh": "能否在秋季比赛中获胜取决于今年夏天的训练。",
+        "en": "Whether we win the autumn match or not depends on this summer's training.",
+        "notes": "",
+        "context": "运动与准备"
+      },
+      {
+        "ja": "レストランは雰囲気次第でお客様が増えたり減ったりするのです。",
+        "zh": "餐厅的顾客会根据氛围而增减。",
+        "en": "Restaurants' customer numbers increase or decrease depending on the atmosphere.",
+        "notes": "",
+        "context": "商业与顾客体验"
+      },
+      {
+        "ja": "あなたの言い方次第では、この話、断られるかもしれませんよ。",
+        "zh": "根据你的说法，这件事可能会被拒绝哦。",
+        "en": "Depending on how you say it, this proposal might be rejected.",
+        "notes": "",
+        "context": "沟通与谈判"
+      }
+    ],
+    "related_grammar": ["〜によって", "〜いかんで"]
+  },
+  {
+    "id": "ni-oujite",
+    "main_form": "〜に応じて",
+    "variants": [],
+    "search_keywords": [
+      "に応じて",
+      "ni oujite",
+      "according to",
+      "in response to",
+      "in conformity with",
+      "合わせて",
+      "変える"
+    ],
+    "meaning": "为了配合~而改变或变化。",
+    "semantic_function": "表达根据某事进行调整或适应。",
+    "usage_context": [
+      "接在名词后面。",
+      "前面接预期会有一定程度变化的事物（如体力、年龄、天气）。",
+      "后面常接表示\"配合~做某事\"或\"为配合~而改变\"的句子。"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "ご予算に応じてパーティーのメニューを決めます。",
+        "zh": "我们会根据您的预算来决定派对菜单。",
+        "en": "We will decide the party menu according to your budget.",
+        "notes": "",
+        "context": "活动策划与预算"
+      },
+      {
+        "ja": "お子さんの年齢に応じて本を選んであげてください。",
+        "zh": "请根据您孩子的年龄来选择书籍。",
+        "en": "Please choose books for your child according to their age.",
+        "notes": "",
+        "context": "为孩子选择礼物或教育材料"
+      },
+      {
+        "ja": "収入に応じて収める税金の額が変わる。",
+        "zh": "缴纳的税额根据收入而变化。",
+        "en": "The amount of tax paid changes according to income.",
+        "notes": "",
+        "context": "税收与收入"
+      },
+      {
+        "ja": "無理をしないで体力に応じた運動をしましょう。",
+        "zh": "不要勉强，让我们做适合体力的运动吧。",
+        "en": "Let's exercise according to our physical strength, without overdoing it.",
+        "notes": "",
+        "context": "健康与健身建议"
+      }
+    ],
+    "related_grammar": ["〜に合わせて", "〜によって"]
+  },
+  {
+    "id": "ni-tsukete",
+    "main_form": "〜につけて",
+    "variants": [],
+    "search_keywords": [
+      "につけて",
+      "ni tsukete",
+      "whenever",
+      "every time",
+      "feelings",
+      "emotions"
+    ],
+    "meaning": "每当~发生时，总是会有那样的感觉。",
+    "semantic_function": "表达每当特定行为或事件发生时，总会产生某种感情或心态。",
+    "usage_context": [
+      "接在动词字典形后面。",
+      "后面常接表达内心活动（感情）的句子。",
+      "在例4中，'何かにつけて'是惯用语，意为\"每当发生什么事\"。这种情况下，后面的句子不一定非要表达内心活动。"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "この歌を聞くにつけて、心に希望がわいてくる。",
+        "zh": "每当听到这首歌，心中就涌起希望。",
+        "en": "Whenever I hear this song, hope springs up in my heart.",
+        "notes": "",
+        "context": "对音乐的情感反应"
+      },
+      {
+        "ja": "彼女のうわさを聞くにつけて、心配になる。",
+        "zh": "每当听到关于她的传闻，就会担心。",
+        "en": "Whenever I hear rumors about her, I get worried.",
+        "notes": "",
+        "context": "对传闻的情感反应"
+      },
+      {
+        "ja": "この作家の本を読むにつけて、今の自分を反省しています。",
+        "zh": "每当读这位作家的书，就会反省现在的自己。",
+        "en": "Whenever I read this author's books, I reflect on my current self.",
+        "notes": "",
+        "context": "文学启发下的自我反思"
+      },
+      {
+        "ja": "父は何かにつけて、若いころ外国で過ごした思い出を語る。",
+        "zh": "父亲总是借着由头，谈起年轻时在国外度过的回忆。",
+        "en": "My father talks about his memories of living abroad when he was young, whenever something comes up.",
+        "notes": "这里'何かにつけて'意为'每当发生什么事'（惯用语）。",
+        "context": "回忆往事"
+      }
+    ],
+    "related_grammar": ["〜たびに", "〜ごとに"]
+  },
+  {
+    "id": "o-moto-ni-shite",
+    "main_form": "〜をもとにして",
+    "variants": ["〜をもとにして", "〜をもとにした＋名"],
+    "search_keywords": ["もとにして", "もとにした", "基于", "基础", "来源"],
+    "meaning": "以某种材料、基础或依据为基础创造出新事物",
+    "semantic_function": "表示创造的基础或来源",
+    "usage_context": ["一般用法", "创造新事物时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "この小説は作者じしんの個人的な体験をもとに書いたものだそうだ。",
+        "zh": "据说这部小说是作者根据自己的亲身经历写成的。",
+        "en": "I heard this novel was written based on the author's personal experiences.",
+        "notes": "",
+        "context": "谈论故事的起源"
+      },
+      {
+        "ja": "このシャツのマーク、面白いでしょう。「花」という漢字をもとにして作ったんだそうですね。",
+        "zh": "这件衬衫的标志很有趣吧。听说它是以'花'这个汉字为基础制作的。",
+        "en": "This shirt's logo is interesting, isn't it? I hear it was made based on the kanji character for 'flower.'",
+        "notes": "",
+        "context": "解释物品的设计起源"
+      },
+      {
+        "ja": "あの飛行機事故をもとにした映画はこれだけじゃない。ほかにもある。",
+        "zh": "以那次飞机事故为原型的电影不止这一部。还有其他的。",
+        "en": "This isn't the only movie based on that airplane accident. There are others.",
+        "notes": "",
+        "context": "提及受某个事件启发的作品"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "ni-motozuite",
+    "main_form": "〜に基づいて",
+    "variants": ["〜に基づいて", "〜に基づき", "〜に基づいた＋名"],
+    "search_keywords": [
+      "に基づいて",
+      "に基づき",
+      "に基づいた",
+      "基于",
+      "根据",
+      "标准",
+      "准则"
+    ],
+    "meaning": "将某事物作为标准或准则来行动",
+    "semantic_function": "表示行动或陈述的基础、标准或证据",
+    "usage_context": ["当涉及规则、数据、计划、政策或调查结果时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "最新のデータに基づいて売り上げ計画を立てたいと思います。",
+        "zh": "我想根据最新的数据来制定销售计划。",
+        "en": "I would like to create a sales plan based on the latest data.",
+        "notes": "",
+        "context": "制定商业计划"
+      },
+      {
+        "ja": "国の道路計画に基づいてあちこちに新しい道路ができあがっていく。",
+        "zh": "根据国家的道路计划，各地正在修建新的道路。",
+        "en": "New roads are being built everywhere based on the national road plan.",
+        "notes": "",
+        "context": "讨论公共工程项目"
+      },
+      {
+        "ja": "このジムでは、科学的な実験結果に基づいた筋肉トレーニングを行っている。",
+        "zh": "这家健身房正在进行基于科学实验结果的肌肉训练。",
+        "en": "This gym conducts muscle training based on scientific experimental results.",
+        "notes": "",
+        "context": "解释训练方法"
+      },
+      {
+        "ja": "今日の留学説明会では、実際の経験に基づくい話を聞くことができた。",
+        "zh": "在今天的留学说明会上，能够听到基于实际经验的谈话。",
+        "en": "At today's study abroad information session, I was able to hear talks based on actual experiences.",
+        "notes": "",
+        "context": "参加说明会"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "ni-isotta",
+    "main_form": "〜に沿って",
+    "variants": ["〜に沿って", "〜に沿い", "〜に沿った＋名"],
+    "search_keywords": [
+      "に沿って",
+      "に沿い",
+      "に沿った",
+      "沿着",
+      "根据",
+      "符合",
+      "遵循"
+    ],
+    "meaning": "按照某事物行动，不偏离",
+    "semantic_function": "表示遵循标准、规则或流程",
+    "usage_context": ["当指代作为标准的规则、政策、手册或想法时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "今、政府の基本方針に沿って今年度の予算案を作っている。",
+        "zh": "现在，我们正根据政府的基本方针制定本年度的预算案。",
+        "en": "Currently, we are creating this year's budget proposal in line with the government's basic policy.",
+        "notes": "",
+        "context": "政府政策和预算制定"
+      },
+      {
+        "ja": "与えられたテーマに沿ってレポートを書き進めてください。",
+        "zh": "请按照给定的主题撰写报告。",
+        "en": "Please proceed with writing the report according to the given theme.",
+        "notes": "",
+        "context": "撰写报告"
+      },
+      {
+        "ja": "皆さんのご期待に沿った活躍ができるように頑張ります。",
+        "zh": "我会努力发挥出符合大家期待的水平。",
+        "en": "I will do my best to perform in a way that meets everyone's expectations.",
+        "notes": "",
+        "context": "满足期待"
+      },
+      {
+        "ja": "建築家は注文する人の意向に沿う住宅設計をしてほしい。",
+        "zh": "我希望建筑师能根据客户的意向进行住宅设计。",
+        "en": "I want the architect to design the house in accordance with the client's wishes.",
+        "notes": "",
+        "context": "建筑设计"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "no-moto-de-no-moto-ni",
+    "main_form": "〜のもとで・〜のもとに",
+    "variants": ["〜のもとで", "〜のもとに"],
+    "search_keywords": [
+      "のもとで",
+      "のもとに",
+      "在...影响下",
+      "在...情况下",
+      "在...领导下"
+    ],
+    "meaning": "在某人的影响下或在某种情况下做某事",
+    "semantic_function": "表示行动发生的条件、影响或领导",
+    "usage_context": [
+      "〜のもとで: 常与表示人物的词（如老师、父母）连用，意为'在该人的影响下'",
+      "〜のもとに: 常与表示条件/情况的名词（如管理、理解）连用，意为'在该条件/情况下'"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "チームは今、新しい監督のもとで練習に励んでいる。",
+        "zh": "团队现在正在新教练的指导下努力训练。",
+        "en": "The team is currently working hard in practice under the new coach.",
+        "notes": "在某人的领导/指导下",
+        "context": "运动队训练"
+      },
+      {
+        "ja": "わたしは生まれてからずっと、優しい祖母のもとで幸せに暮らしてきました。",
+        "zh": "我从出生起就一直在慈祥的祖母身边幸福地生活着。",
+        "en": "I have lived happily under my kind grandmother's care since I was born.",
+        "notes": "在某人的照顾/影响下",
+        "context": "个人成长"
+      },
+      {
+        "ja": "この研究所では、一定の温度と湿度の下で育てられた植物から新しい薬品を作り出した。",
+        "zh": "在这家研究所，他们从在一定温度和湿度下培养的植物中制造出了新药。",
+        "en": "In this research institute, new medicines were created from plants grown under constant temperature and humidity.",
+        "notes": "在特定条件/情况下",
+        "context": "科学研究"
+      },
+      {
+        "ja": "校庭でのキャンプファイヤーは夏の最大イベントで、周辺住民の理解のもとに10年も続いている。",
+        "zh": "校园里的篝火晚会是夏季最大的活动，在周边居民的理解下已经持续了10年。",
+        "en": "The campfire event in the schoolyard is the biggest event of the summer, and it has continued for 10 years with the understanding of the local residents.",
+        "notes": "在某人的理解/合作下",
+        "context": "社区活动"
+      },
+      {
+        "ja": "「開発」という名のもとに自然が失われていくのは残念だ。",
+        "zh": "以'开发'之名，自然环境被破坏，这令人遗憾。",
+        "en": "It's regrettable that nature is being lost under the name of 'development.'",
+        "notes": "以...的名义/幌子",
+        "context": "环境问题"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "muke-da",
+    "main_form": "〜向けだ",
+    "variants": ["〜向けだ", "〜向けの＋名"],
+    "search_keywords": ["向けだ", "向けの", "面向", "针对", "专为", "目标受众"],
+    "meaning": "为适合特定目标而设计或意图",
+    "semantic_function": "表示某事物的目标受众或目的",
+    "usage_context": [
+      "主要与指代人的名词连用",
+      "常后接'制作'、'设计'或'计划'等动词"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "このマンションは一人暮らしの高齢者向けに設計されています。",
+        "zh": "这栋公寓是为独居老人设计的。",
+        "en": "This apartment building is designed for elderly people living alone.",
+        "notes": "",
+        "context": "住房设计"
+      },
+      {
+        "ja": "これは理科が好きな子供向けに編集された雑誌です。",
+        "zh": "这是一本为喜欢科学的孩子们编辑的杂志。",
+        "en": "This is a magazine edited for children who like science.",
+        "notes": "",
+        "context": "针对特定人群"
+      },
+      {
+        "ja": "独身男性向けの料理教室が開かれることになった。",
+        "zh": "决定开设面向单身男性的烹饪班。",
+        "en": "It has been decided that cooking classes for single men will be held.",
+        "notes": "",
+        "context": "针对性课程"
+      },
+      {
+        "ja": "この工場で生産されている発電機は個人向けだ。",
+        "zh": "这家工厂生产的发电机是面向个人用户的。",
+        "en": "The generators produced at this factory are for individual use.",
+        "notes": "",
+        "context": "产品定位"
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "ni-kanshite",
+    "main_form": "〜に関して",
+    "variants": ["〜に関して", "〜に関する＋名"],
+    "search_keywords": [
+      "に関して",
+      "関して",
+      "関する",
+      "about",
+      "regarding",
+      "concerning"
+    ],
+    "meaning": "为了获得关于某个主题的详细信息或进行陈述。",
+    "semantic_function": "引入讨论、调查或信息收集的主题或话题。",
+    "usage_context": ["正式语言", "书面语", "口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "今回の事件に関して何か詳しい情報がわかりましたか。",
+        "zh": "关于这次的事件，查明了什么详细信息吗？",
+        "en": "Did you find out any detailed information regarding this incident?",
+        "notes": "",
+        "context": "Asking for information about an incident"
+      },
+      {
+        "ja": "ごみ処理の問題に関しましては、環境課の課長がご説明いたします。",
+        "zh": "关于垃圾处理的问题，环境科的科长会进行说明。",
+        "en": "Regarding the issue of waste disposal, the head of the environmental section will explain.",
+        "notes": "More polite form: 〜に関しましては",
+        "context": "Introducing a topic for an explanation"
+      },
+      {
+        "ja": "警察は、犯罪の動機に関し、詳しい調査を開始した。",
+        "zh": "警方已就犯罪动机展开了详细调查。",
+        "en": "The police have started a detailed investigation concerning the motive of the crime.",
+        "notes": "〜に関し is a slightly more formal variant.",
+        "context": "Reporting on an investigation"
+      },
+      {
+        "ja": "高齢者の生活に関するアンケートにご協力ください。",
+        "zh": "请协助关于老年人生活的问卷调查。",
+        "en": "Please cooperate with the survey regarding the lives of the elderly.",
+        "notes": "〜に関する is used to modify a noun.",
+        "context": "Requesting cooperation for a survey"
+      }
+    ],
+    "related_grammar": ["〜について"]
+  },
+  {
+    "id": "o-megutte",
+    "main_form": "〜をめぐって",
+    "variants": ["〜をめぐって", "〜をめぐる＋名"],
+    "search_keywords": [
+      "めぐって",
+      "めぐる",
+      "over",
+      "around",
+      "concerning",
+      "dispute"
+    ],
+    "meaning": "围绕某事进行讨论、争论或传播谣言。",
+    "semantic_function": "表示讨论、冲突或谣言围绕的主题或对象。",
+    "usage_context": ["正式语言", "书面语", "口语", "当存在讨论、冲突或谣言时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "親が残した土地をめぐって親族が争っている。",
+        "zh": "亲戚们正在争夺父母留下的土地。",
+        "en": "Relatives are disputing over the land left by their parents.",
+        "notes": "Indicating the object of a dispute.",
+        "context": "Family dispute over inheritance"
+      },
+      {
+        "ja": "消費税の問題をめぐり、国会は大きく揺れた。",
+        "zh": "围绕消费税问题，国会发生了巨大动摇。",
+        "en": "The Diet was greatly shaken over the issue of the consumption tax.",
+        "notes": "〜をめぐり is a slightly more formal variant.",
+        "context": "Political debate or turmoil"
+      },
+      {
+        "ja": "彼女の行動をめぐるうわさはたちまち社内に広がった。",
+        "zh": "关于她的行为的谣言立刻在公司内部传开了。",
+        "en": "Rumors about her actions quickly spread throughout the company.",
+        "notes": "〜をめぐる is used to modify a noun.",
+        "context": "Rumors spreading in a workplace"
+      }
+    ],
+    "related_grammar": ["〜について"]
+  },
+  {
+    "id": "ni-kaketewa",
+    "main_form": "〜にかけては",
+    "variants": [],
+    "search_keywords": [
+      "にかけては",
+      "に関して",
+      "skill",
+      "ability",
+      "best at"
+    ],
+    "meaning": "在（特定的技能或能力）方面，某人比其他人更优秀。",
+    "semantic_function": "突出某人擅长的特定领域或优势。",
+    "usage_context": ["口语", "书面语", "当称赞某人技能时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "あの政治家は演説にかけては最高のレベルだ。",
+        "zh": "那位政治家在演讲方面是最高水平。",
+        "en": "That politician is at the highest level when it comes to speeches.",
+        "notes": "Emphasizing superior skill in speeches.",
+        "context": "Praising a politician's public speaking"
+      },
+      {
+        "ja": "わたしは安い材料でおいしい料理を作るにかけてはだれにも負けませんよ。",
+        "zh": "我做饭，用便宜的食材做出美味的菜肴，这方面谁也比不过我。",
+        "en": "When it comes to making delicious food with cheap ingredients, I won't lose to anyone.",
+        "notes": "Expressing confidence in one's cooking ability.",
+        "context": "Boasting about cooking skills"
+      },
+      {
+        "ja": "ボール運びのうまさににかけては中井選手の右に出るものはいない。",
+        "zh": "在运球技巧方面，没有人能比中井选手更出色。",
+        "en": "When it comes to ball handling skills, no one can surpass player Nakai.",
+        "notes": "Literally 'no one comes out to the right of' meaning no one is better.",
+        "context": "Praising a sports player's skill"
+      }
+    ],
+    "related_grammar": ["〜に関しては"]
+  },
+  {
+    "id": "ni-taishite",
+    "main_form": "〜に対して",
+    "variants": ["〜に対して", "〜に対する＋名"],
+    "search_keywords": [
+      "に対して",
+      "対して",
+      "に対し",
+      "たいして",
+      "towards",
+      "against",
+      "in contrast to"
+    ],
+    "meaning": "A：表达对某人或某物的感情或行动。B：与某物形成对比，陈述明确的差异。",
+    "semantic_function": "表示行动/感情的方向或表达对比。",
+    "usage_context": ["书面语", "口语", "正式"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "①目上の人に対してそんな乱暴な言い方をしてはいけません。",
+        "zh": "不能对上级说那种粗鲁的话。",
+        "en": "You must not speak so rudely to your superiors.",
+        "notes": "Expressing an action towards a person.",
+        "context": "Admonishing about disrespectful speech"
+      },
+      {
+        "ja": "②桜井氏の発言は県民に対して失礼だと思う。",
+        "zh": "我认为樱井先生的发言对县民很失礼。",
+        "en": "I think Mr. Sakurai's statement is rude to the prefectural residents.",
+        "notes": "Expressing an opinion about a statement's impact on people.",
+        "context": "Critiquing a public statement"
+      },
+      {
+        "ja": "③政府の案に対して住民は大反対した。",
+        "zh": "居民们对政府的方案表示强烈反对。",
+        "en": "The residents strongly opposed the government's plan.",
+        "notes": "Expressing opposition to a plan.",
+        "context": "Reporting public reaction to a government proposal"
+      },
+      {
+        "ja": "④このアンケートから会社に対する不満が読み取れる。",
+        "zh": "从这份问卷中可以看出对公司的不满。",
+        "en": "Dissatisfaction with the company can be read from this survey.",
+        "notes": "〜に対する is used to modify a noun.",
+        "context": "Analyzing survey results"
+      },
+      {
+        "ja": "⑤やる気がなかった前の会長に対して、新しい会長は素晴らしい行動力がある。",
+        "zh": "与之前没有干劲的会长相比，新会长有出色的行动力。",
+        "en": "In contrast to the previous chairman who lacked motivation, the new chairman has excellent initiative.",
+        "notes": "Expressing a clear difference between two individuals.",
+        "context": "Comparing two chairmen"
+      },
+      {
+        "ja": "⑥うちでは、父は感情が激しいのに対して、母は冷静で穏やかな性格です。",
+        "zh": "在我们家，父亲感情强烈，而母亲性格冷静温和。",
+        "en": "In our family, while my father is very emotional, my mother has a calm and gentle personality.",
+        "notes": "Contrasting the personalities of parents.",
+        "context": "Describing family members' personalities"
+      },
+      {
+        "ja": "⑦朝はパンを食べると答えた人が30%だったのに対して、ご飯を食べると答えた人は65%だった。",
+        "zh": "回答早上吃面包的人占30%，而回答吃米饭的人占65%。",
+        "en": "In contrast to 30% of people who answered they eat bread in the morning, 65% answered they eat rice.",
+        "notes": "Contrasting statistical data.",
+        "context": "Reporting survey statistics"
+      }
+    ],
+    "related_grammar": ["〜について", "〜に比べて"]
+  },
+  {
+    "id": "ni-kotaete",
+    "main_form": "〜にこたえて",
+    "variants": ["〜にこたえて", "〜にこたえる＋名"],
+    "search_keywords": [
+      "にこたえて",
+      "こたえて",
+      "こたえる",
+      "in response to",
+      "to meet expectations"
+    ],
+    "meaning": "为了回应期待或要求而做某事。",
+    "semantic_function": "表示为了满足或回应某人的期待、要求或愿望而采取的行动。",
+    "usage_context": ["书面语", "口语", "正式"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "①応援してくれる人の気持ちにこたえて立派な試合をしよう。",
+        "zh": "为了回应支持我的人的心情，我们要打一场精彩的比赛。",
+        "en": "Let's play a splendid game in response to the feelings of those who support us.",
+        "notes": "Responding to supporters' expectations.",
+        "context": "Motivating oneself or a team"
+      },
+      {
+        "ja": "②その歌手は、会場の人々のアンコールにこたえて再び舞台に出てきた。",
+        "zh": "那位歌手回应了现场观众的安可，再次登上了舞台。",
+        "en": "The singer came back on stage in response to the audience's encore.",
+        "notes": "Responding to an audience's request.",
+        "context": "A singer performing an encore"
+      },
+      {
+        "ja": "③国民の皆様のご要望にこたえる政治を行いたいと思います。",
+        "zh": "我想推行回应国民各位要求的政治。",
+        "en": "I want to conduct politics that responds to the demands of all citizens.",
+        "notes": "Responding to public demands.",
+        "context": "A politician making a pledge"
+      }
+    ],
+    "related_grammar": ["〜に応じる"]
+  },
+  {
+    "id": "ni-kagirasu",
+    "main_form": "〜に限らず",
+    "variants": [],
+    "search_keywords": [
+      "に限らず",
+      "にかぎらず",
+      "だけではなく",
+      "not limited to",
+      "not only"
+    ],
+    "meaning": "不仅限于某个范围，还包括更广泛的范围",
+    "semantic_function": "表达某事物不仅限于特定范围，而是扩展到更广的范围",
+    "usage_context": [
+      "一般情况",
+      "常后接表示更广范围的词语（例如：みんな、さまざまな、いつも）"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "この記念館は、休日に限らず年中入館者が多い。",
+        "zh": "这座纪念馆不限于节假日，全年参观者都很多。",
+        "en": "This memorial hall has many visitors not only on holidays but throughout the year.",
+        "notes": "",
+        "context": "描述博物馆参观人数"
+      },
+      {
+        "ja": "うちに限らず近所の住民はみんな深夜のバイクの音に悩まされている。",
+        "zh": "不限于我们家，附近的居民都被深夜摩托车的声音困扰着。",
+        "en": "Not only our house, but all residents in the neighborhood are troubled by the sound of motorcycles late at night.",
+        "notes": "",
+        "context": "讨论社区共同困扰"
+      },
+      {
+        "ja": "近年、地方の町に限らず大都会でも書店の閉店が相次いでいる。",
+        "zh": "近年来，不仅是地方城市，大都市的书店也相继关闭。",
+        "en": "In recent years, bookstores are closing one after another not only in rural towns but also in big cities.",
+        "notes": "",
+        "context": "谈论书店关闭趋势"
+      }
+    ],
+    "related_grammar": ["〜のみならず"]
+  },
+  {
+    "id": "nominarazu",
+    "main_form": "〜のみならず",
+    "variants": [],
+    "search_keywords": [
+      "のみならず",
+      "のみならず",
+      "だけではなく",
+      "not only",
+      "in addition to"
+    ],
+    "meaning": "不仅X，而且Y（比〜だけでなく更正式的表达）",
+    "semantic_function": "添加同层次的进一步信息或例子，强调某事物不仅限于前面提到的项目",
+    "usage_context": ["正式语言", "常后接表示更广范围的词语（例如：も）"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "電気代のみならず、ガス代や水道代も値上がりするようだ。",
+        "zh": "不仅是电费，煤气费和水费似乎也上涨了。",
+        "en": "Not only electricity bills, but gas and water bills also seem to be rising.",
+        "notes": "",
+        "context": "讨论公共事业费用上涨"
+      },
+      {
+        "ja": "与党のみならず、野党も党首の選出は慎重だ。",
+        "zh": "不仅是执政党，在野党在党首选举上也都很谨慎。",
+        "en": "Not only the ruling party, but also the opposition party is cautious about selecting its leader.",
+        "notes": "",
+        "context": "谈论政治谨慎态度"
+      },
+      {
+        "ja": "石井さんは、差別的な発言をしたのみならず、それについて謝ることもなかった。",
+        "zh": "石井先生不仅发表了歧视性言论，而且对此也没有道歉。",
+        "en": "Mr. Ishii not only made discriminatory remarks but also didn't apologize for them.",
+        "notes": "",
+        "context": "描述某人的不当行为"
+      }
+    ],
+    "related_grammar": ["〜に限らず", "〜だけでなく"]
+  },
+  {
+    "id": "bakari-ka",
+    "main_form": "〜ばかりか",
+    "variants": [],
+    "search_keywords": [
+      "ばかりか",
+      "ばかりか",
+      "だけでなく",
+      "not only",
+      "in addition to that"
+    ],
+    "meaning": "不仅X，而且Y（常添加意外或令人惊讶的内容）",
+    "semantic_function": "在已陈述内容的基础上添加进一步的内容，通常是意外或令人惊讶的，暗示仅前面的陈述是不够的",
+    "usage_context": [
+      "一般情况",
+      "常用于句子的后半部分表达更重要或令人惊讶的内容，通常后接も"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "発見が遅れたばかりか対策にも手間取ったので、牛の病気が広がってしまった。",
+        "zh": "不仅发现晚了，而且在采取对策上也耽误了时间，导致牛的疾病扩散了。",
+        "en": "Not only was the discovery delayed, but measures were also slow, so the cattle disease spread.",
+        "notes": "表达负面后果的累积",
+        "context": "描述疾病爆发"
+      },
+      {
+        "ja": "田島先生の説明は、子供にもわかりやすいばかりか、非常におもしろくてためになる。",
+        "zh": "田岛老师的说明不仅对孩子来说易懂，而且非常有趣且有益。",
+        "en": "Mr. Tajima's explanations are not only easy for children to understand but also very interesting and beneficial.",
+        "notes": "表达多个正面特质",
+        "context": "赞美老师的讲解"
+      },
+      {
+        "ja": "Aコースの山道は、初心者には危険なばかりか、途中の景色もあまり良くない。",
+        "zh": "A路线的山路不仅对初学者来说危险，而且沿途的景色也不是很好。",
+        "en": "The mountain path on course A is not only dangerous for beginners, but the scenery along the way isn't very good either.",
+        "notes": "表达多个负面特质",
+        "context": "描述徒步路线"
+      },
+      {
+        "ja": "友達ばかりか親兄弟も彼の居場所を知らない。",
+        "zh": "不仅是朋友，连亲兄弟也不知道他的住处。",
+        "en": "Not only his friends, but even his own siblings don't know his whereabouts.",
+        "notes": "强调行踪不明程度",
+        "context": "某人神秘失踪"
+      }
+    ],
+    "related_grammar": ["〜だけでなく", "〜のみならず"]
+  },
+  {
+    "id": "wa-motoyori",
+    "main_form": "〜はもとより",
+    "variants": [],
+    "search_keywords": [
+      "はもとより",
+      "はもちろん",
+      "はもちろん",
+      "of course",
+      "naturally",
+      "let alone"
+    ],
+    "meaning": "X是理所当然的，Y也是事实。（比〜はもちろん更正式的表达）",
+    "semantic_function": "陈述某事作为理所当然的事情，然后进一步添加作为例子",
+    "usage_context": ["正式语言", "常后接表示'也'的词语（例如：も）"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "たばこは本人もとより、周りの人にも害を及ぼす。",
+        "zh": "香烟不仅对本人，对周围的人也有害。",
+        "en": "Tobacco harms not only the smoker but also those around them.",
+        "notes": "",
+        "context": "讨论吸烟的危害"
+      },
+      {
+        "ja": "家族で外国に滞在している人は、自分の健康管理はもとより家族の心身の健康にも気を配ったほうがいい。",
+        "zh": "全家在国外居住的人，不仅要管理好自己的健康，也要注意家人的身心健康。",
+        "en": "Those staying abroad with family should pay attention to their own health management, not to mention the physical and mental health of their family.",
+        "notes": "",
+        "context": "对国外居住家庭的建议"
+      },
+      {
+        "ja": "地元の住民はもとより、周辺の地域に住む人たちも原子力発電所に不安を感じている。",
+        "zh": "当地居民自不用说，周边地区居住的人们也对核电站感到不安。",
+        "en": "Local residents, not to mention people living in surrounding areas, are feeling uneasy about the nuclear power plant.",
+        "notes": "",
+        "context": "讨论公众对核电站的不安"
+      },
+      {
+        "ja": "この学校では、教室内はもとより教室の外でも禁煙を守ってください。",
+        "zh": "在这所学校，不仅教室里，教室外面也请遵守禁烟规定。",
+        "en": "At this school, please observe the no-smoking rule not only inside classrooms but also outside.",
+        "notes": "",
+        "context": "学校禁烟规定"
+      }
+    ],
+    "related_grammar": ["〜はもちろん"]
+  },
+  {
+    "id": "ue-ni",
+    "main_form": "〜上(に)",
+    "variants": [],
+    "search_keywords": [
+      "上に",
+      "うえに",
+      "だけでなく",
+      "in addition to",
+      "furthermore",
+      "on top of that"
+    ],
+    "meaning": "不仅X，而且Y（常暗示好事或坏事的叠加）",
+    "semantic_function": "在前面项目的基础上添加另一个项目（好的或坏的），表示累积",
+    "usage_context": [
+      "一般情况",
+      "常与评价性词语一起使用，可以是正面+正面或负面+负面。不用于对比观点或请求"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "田中さんには仕事をて伝ってもらった上に、仕事の後、ごちそうになった。",
+        "zh": "田中先生不仅帮了我工作，工作结束后还请我吃了饭。",
+        "en": "Mr. Tanaka not only helped me with my work, but he also treated me to a meal after work.",
+        "notes": "好事的累积",
+        "context": "表达对帮助和款待的感谢"
+      },
+      {
+        "ja": "森田先生は、毎日医師として忙しく仕事をしている上に、週末も学会や講演で飛び回っている。",
+        "zh": "森田老师作为医生每天忙碌地工作，周末还在学会和演讲之间奔波。",
+        "en": "Dr. Morita is busy working as a doctor every day, and on top of that, he's busy flying around for conferences and lectures on weekends.",
+        "notes": "忙碌活动的累积",
+        "context": "描述忙碌医生的日程"
+      },
+      {
+        "ja": "このテキストは用語が難しい上に、内容も良くない。",
+        "zh": "这本教材不仅用词难，内容也不好。",
+        "en": "This textbook has difficult terminology, and on top of that, the content isn't good.",
+        "notes": "负面特质的累积",
+        "context": "批评教材"
+      },
+      {
+        "ja": "ここは空気がきれいな上に、近くに明るいところがないので星がよく見える。",
+        "zh": "这里空气清新，而且附近没有明亮的地方，所以星星看得特别清楚。",
+        "en": "The air here is clean, and on top of that, there are no bright places nearby, so the stars are clearly visible.",
+        "notes": "正面特质的累积导致好结果",
+        "context": "描述好的观星地点"
+      },
+      {
+        "ja": "今日は寝不足の上に、少し熱がある。早く帰りたい。",
+        "zh": "今天不仅睡眠不足，还有点发烧。想早点回家。",
+        "en": "Today, on top of lack of sleep, I also have a slight fever. I want to go home early.",
+        "notes": "负面健康状态的累积",
+        "context": "因疾病想早点回家"
+      }
+    ],
+    "related_grammar": ["〜だけでなく", "〜ばかりか"]
+  },
+  {
+    "id": "ni-kagiri",
+    "main_form": "〜に限り",
+    "variants": [],
+    "search_keywords": ["に限り", "にかぎり", "仅限", "限定", "例外"],
+    "meaning": "表示特定的例外或限制；'仅限X'、'限定于X'。这是一个正式的表达。",
+    "semantic_function": "指定条件或例外",
+    "usage_context": ["正式书面语", "正式口语", "公共公告"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "このちらしをご持参(じさん)のお客様(きゃくさま)に限り、すべての商品(しょうひん)を１割引(わりびき)でお買(か)い求(もと)めいただけます。",
+        "zh": "仅限持本传单的顾客，所有商品可享一折优惠。",
+        "en": "Only customers who bring this flyer can purchase all products at a 10% discount.",
+        "notes": "指定特价优惠的条件。",
+        "context": "客户服务/销售"
+      },
+      {
+        "ja": "欠席届(けっせきとどけ)が正当(せいとう)な場合(ばあい)に限(かぎ)り出席扱(しゅっせきあつか)いにしますが、それ以外(いがい)の欠席(けっせき)は認(みと)めません。",
+        "zh": "仅限请假理由正当的情况，才算作出席，除此之外的缺席不予承认。",
+        "en": "Only in cases where the absence notification is legitimate will it be treated as attendance; other absences will not be recognized.",
+        "notes": "设定严格的出席条件。",
+        "context": "学校/工作规定"
+      },
+      {
+        "ja": "この病院(びょういん)は午後(ごご)６時(じ)までですが、急(きゅう)を要(よう)する患者(かんじゃ)さんに限(かぎ)り、時間外(じかんがい)でも診察(しんさつ)いたします。",
+        "zh": "这家医院营业到下午6点，但仅限急诊患者，可以在营业时间外就诊。",
+        "en": "This hospital is open until 6 PM, but only for emergency patients, we will provide examinations outside of business hours.",
+        "notes": "说明急诊情况的例外。",
+        "context": "医院/医疗服务"
+      }
+    ],
+    "related_grammar": ["〜に限って", "〜に限らず"]
+  },
+  {
+    "id": "kagiri-wa",
+    "main_form": "〜限り(は)",
+    "variants": [],
+    "search_keywords": ["限りは", "かぎりは", "只要", "在...期间", "直到"],
+    "meaning": "表示只要某种状态或条件持续，另一种状态或条件就会继续。",
+    "semantic_function": "陈述持续条件或继续的前提条件",
+    "usage_context": ["书面语", "口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "この町(まち)に住(す)んでいる限(かぎ)り、いつでも新鮮(しんせん)な食(た)べ物(もの)が手(て)に入(はい)る。ここは何(なに)も野菜(やさい)も魚(さかな)も豊富(ほうふ)だ。",
+        "zh": "只要住在这个城市，随时都能获得新鲜的食物。这里蔬菜和鱼都很丰富。",
+        "en": "As long as I live in this town, I can always get fresh food. Both vegetables and fish are abundant here.",
+        "notes": "获得新鲜食物的状态只要住在这个城市就会持续。",
+        "context": "描述城市生活"
+      },
+      {
+        "ja": "社長(しゃちょう)が考(かんが)え方(かた)を変(か)えない限(かぎ)り、この会社(かいしゃ)は何も変(か)わらないのではないか。",
+        "zh": "只要社长不改变想法，这家公司就不会有任何改变吧。",
+        "en": "As long as the president doesn't change his way of thinking, this company probably won't change at all.",
+        "notes": "公司的不变化取决于社长的思维模式。",
+        "context": "讨论公司问题"
+      },
+      {
+        "ja": "足(あし)が丈夫(じょうぶ)な限(かぎ)り、まだまだ山登(やまのぼ)りが楽(たの)しめるだろう。",
+        "zh": "只要腿脚还健壮，就还能继续享受登山的乐趣吧。",
+        "en": "As long as my legs are strong, I'll still be able to enjoy mountain climbing.",
+        "notes": "享受登山取决于腿脚健壮。",
+        "context": "谈论爱好和体力"
+      },
+      {
+        "ja": "親(おや)である限(かぎ)り、子供(こども)に対(たい)する責任(せきにん)があると思(おも)う。",
+        "zh": "只要是父母，就对孩子负有责任。",
+        "en": "As long as one is a parent, I believe they have responsibilities towards their children.",
+        "notes": "父母的责任是作为父母的内在属性。",
+        "context": "讨论父母责任"
+      }
+    ],
+    "related_grammar": ["〜間(あいだ)", "〜うちは"]
+  },
+  {
+    "id": "kagiri-de-wa",
+    "main_form": "〜限りでは",
+    "variants": [],
+    "search_keywords": [
+      "限りでは",
+      "かぎりでは",
+      "就...而言",
+      "据我所知",
+      "根据信息"
+    ],
+    "meaning": "表示接下来的陈述是基于说话者拥有的有限信息或知识；'据我所知/就我看来'。",
+    "semantic_function": "基于有限范围表达判断或信息",
+    "usage_context": ["书面语", "口语", "当根据可用数据陈述结论时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "今回(こんかい)の調査(ちょうさ)の限(かぎ)りでは、書類(しょるい)にミスはなかった。",
+        "zh": "就本次调查而言，文件中没有错误。",
+        "en": "As far as this investigation goes, there were no mistakes in the documents.",
+        "notes": "关于没有错误的结论仅基于当前调查。",
+        "context": "报告调查结果"
+      },
+      {
+        "ja": "ちょっと見(み)た限(かぎ)りでは、こちらの商品(しょうひん)とあちらの商品(しょうひん)では違(ちが)いがないと思(おも)うのですが、どうして値段(ねだん)が違(ちが)うんですか。",
+        "zh": "就我粗略一看，觉得这边的商品和那边的商品没什么区别，为什么价格不同呢？",
+        "en": "As far as I can tell from a quick glance, I don't think there's a difference between this product and that one, so why is the price different?",
+        "notes": "基于表面观察表达判断。",
+        "context": "购物/比较产品"
+      },
+      {
+        "ja": "私(わたし)が知(し)っている限(かぎ)りでは、この近所(きんじょ)に花屋(はなや)はありません。",
+        "zh": "就我所知，这附近没有花店。",
+        "en": "As far as I know, there is no flower shop in this neighborhood.",
+        "notes": "基于个人知识陈述事实。",
+        "context": "指路/提供信息"
+      }
+    ],
+    "related_grammar": ["〜からすると", "〜によると"]
+  },
+  {
+    "id": "ni-kagitte",
+    "main_form": "〜に限って",
+    "variants": [],
+    "search_keywords": [
+      "に限って",
+      "にかぎって",
+      "偏偏",
+      "只有",
+      "尤其",
+      "讽刺",
+      "不幸",
+      "巧合"
+    ],
+    "meaning": "这个语法根据语境有多种细微含义：表示讽刺、不幸的巧合、强烈的信念（正面或负面）或特定时机。",
+    "semantic_function": "表达讽刺、不幸的巧合、强烈信念或特定时机",
+    "usage_context": ["口语", "当表达惊讶或不满时", "当强调特定时间或情况时"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "普段(ふだん)酒(さけ)などあまり飲(の)まない彼(かれ)が、今日(きょう)に限(かぎ)ってかなり飲(の)んだ。何(なに)かあったのだろうか。",
+        "zh": "平时不怎么喝酒的他，偏偏今天喝了很多。是发生什么事了吗？",
+        "en": "He, who usually doesn't drink much, drank quite a lot today of all days. I wonder if something happened?",
+        "notes": "表示在特定日子发生了与常规相反的异常情况（A）。",
+        "context": "观察某人异常行为"
+      },
+      {
+        "ja": "私(わたし)はいつも駅(えき)で買(か)い物(もの)をするのだが、その日(ひ)に限(かぎ)って車(くるま)で遠(とお)くのスーパーまで行(い)った。",
+        "zh": "我平时总是在车站购物，但偏偏那天开车去了很远的超市。",
+        "en": "I always shop at the station, but on that particular day, I drove all the way to a distant supermarket.",
+        "notes": "强调常规的例外（A）。",
+        "context": "回忆特定事件"
+      },
+      {
+        "ja": "庭(にわ)の手入(てい)れをしようと思(おも)っている日(ひ)に限(かぎ)って雨(あめ)が降(ふ)る。",
+        "zh": "偏偏在我想打理庭院的日子下雨。",
+        "en": "It always rains specifically on the day I plan to do garden work.",
+        "notes": "表达不幸的巧合，坏事只在打算做某事时发生（B）。",
+        "context": "抱怨运气不好"
+      },
+      {
+        "ja": "今日(きょう)は大切(たいせつ)な用事(ようじ)があったのに、こんな時(とき)に限(かぎ)って子供(こども)が熱(ねつ)を出(だ)してしまった。",
+        "zh": "明明今天有重要的事，偏偏在这种时候孩子发烧了。",
+        "en": "Even though I had an important errand today, my child got a fever specifically at this inconvenient time.",
+        "notes": "强调在最糟糕的时候发生不幸事件（B）。",
+        "context": "表达对意外问题的沮丧"
+      },
+      {
+        "ja": "うちの子(こ)に限(かぎ)って友達(ともだち)をいじめることはないと思(おも)いますが……。とても優(やさ)しい子(こ)なんですよ。",
+        "zh": "我家孩子才不会欺负朋友呢……他是个非常温柔的孩子。",
+        "en": "I don't think my child, of all people, would bully his friends... He's a very kind child.",
+        "notes": "表达强烈的信念，认为坏事不会发生在特定人身上，常与否定连用（C）。",
+        "context": "为自己的孩子辩护"
+      }
+    ],
+    "related_grammar": ["〜に限らず", "〜ばかり"]
+  },
+  {
+    "id": "o-hajime-to-shite",
+    "main_form": "〜をはじめ（として）",
+    "variants": ["〜をはじめとして", "〜をはじめとする＋名"],
+    "search_keywords": [
+      "をはじめとして",
+      "をはじめ",
+      "hajime to shite",
+      "including",
+      "starting with",
+      "representative",
+      "以...为首",
+      "包括"
+    ],
+    "meaning": "表示前面的名词是代表性例子，除此之外还有其他例子。",
+    "semantic_function": "在更大的群体中突出一个代表性例子。",
+    "usage_context": ["较正式的表达", "书面语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "この体育館では水泳をはじめ、いろいろなスポーツが楽しめる。",
+        "zh": "在这个体育馆里，以游泳为首，可以享受各种运动。",
+        "en": "At this gymnasium, you can enjoy various sports, including swimming.",
+        "notes": "",
+        "context": ""
+      },
+      {
+        "ja": "日本には「桃太郎」をはじめとして、おじいさん、おばあさんが出てくる昔話が多い。",
+        "zh": "在日本，以《桃太郎》为代表，有很多出现爷爷奶奶的民间故事。",
+        "en": "In Japan, there are many folk tales featuring grandfathers and grandmothers, such as \"Momotaro.\"",
+        "notes": "",
+        "context": ""
+      },
+      {
+        "ja": "このあたりには、市役所をはじめとする市の公共の建物が多い。",
+        "zh": "这一带有很多以市政府为代表的市公共建筑。",
+        "en": "In this area, there are many public buildings of the city, including the city hall.",
+        "notes": "",
+        "context": ""
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "kara-shite",
+    "main_form": "〜からして",
+    "variants": [],
+    "search_keywords": [
+      "からして",
+      "karashite",
+      "judging from",
+      "even from",
+      "从...来看",
+      "光是...就"
+    ],
+    "meaning": "表示单从这一个例子来看就能得出结论，整体情况更是如此。常用于引入负面评价。",
+    "semantic_function": "根据单个例子推断整体情况，常带有负面含义。",
+    "usage_context": ["口语", "书面语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "この旅行の計画には無理がある。出発時間からして早すぎる。",
+        "zh": "这个旅行计划有问题。光是出发时间就太早了。",
+        "en": "This travel plan is unreasonable. The departure time itself is too early.",
+        "notes": "",
+        "context": ""
+      },
+      {
+        "ja": "わたしはどうも猫が苦手だ。あの光る目からして何となく怖い感じがする。",
+        "zh": "我总觉得猫很可怕。光是那发光的眼睛就让我感到害怕。",
+        "en": "I'm really not good with cats. Even just their glowing eyes give me a somewhat scary feeling.",
+        "notes": "",
+        "context": ""
+      },
+      {
+        "ja": "わたしと夫とは似ているところが少ない。第一、食べ物の好みからして正反対だ。",
+        "zh": "我和丈夫相似的地方很少。首先，光从食物喜好来看就完全相反。",
+        "en": "My husband and I have little in common. First of all, our food preferences are completely opposite.",
+        "notes": "",
+        "context": ""
+      },
+      {
+        "ja": "さすがプロの選手は走り方からしてわたしたちとは違う。",
+        "zh": "不愧是专业选手，光是跑步方式就和我们不一样。",
+        "en": "As expected of a professional athlete, even their running style is different from ours.",
+        "notes": "",
+        "context": ""
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "ni-watatte",
+    "main_form": "〜にわたって",
+    "variants": ["〜にわたる＋名"],
+    "search_keywords": [
+      "にわたって",
+      "ni watatte",
+      "over a period",
+      "throughout",
+      "across",
+      "持续",
+      "遍及",
+      "横跨"
+    ],
+    "meaning": "表示某个状态或动作延伸到整个范围。",
+    "semantic_function": "表达某事物的范围或程度（时间、地点、数量）。",
+    "usage_context": ["书面语", "正式表达"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "連休の最終日、高速道路は20キロにわたって渋滞が続いた。",
+        "zh": "连休的最后一天，高速公路持续拥堵了20公里。",
+        "en": "On the last day of the long holiday, the highway was congested for 20 kilometers.",
+        "notes": "",
+        "context": ""
+      },
+      {
+        "ja": "彼は色々なジャンルにわたり、たくさんの本を読んでいる。",
+        "zh": "他遍及各种类型，读了很多书。",
+        "en": "He reads many books across various genres.",
+        "notes": "",
+        "context": ""
+      },
+      {
+        "ja": "3日間にわたる研究発表大会が、無事終了しました。",
+        "zh": "持续3天的研究发表大会顺利结束了。",
+        "en": "The research presentation conference, which lasted for three days, successfully concluded.",
+        "notes": "",
+        "context": ""
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "o-tsujite",
+    "main_form": "〜を通じて・〜を通して",
+    "variants": [],
+    "search_keywords": [
+      "を通じて",
+      "を通して",
+      "o tsujite",
+      "o tooshite",
+      "throughout",
+      "via",
+      "through",
+      "通过",
+      "贯穿",
+      "媒介"
+    ],
+    "meaning": "A: 表示状态在整个期间持续。B: 表示通过某种手段或媒介做某事。",
+    "semantic_function": "A: 表达时间上的持续性。B: 表达手段或媒介。",
+    "usage_context": ["书面语", "口语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "この町には四季を通じて観光客が訪れる。",
+        "zh": "这个小镇一年四季都有游客来访。",
+        "en": "Tourists visit this town throughout the four seasons.",
+        "notes": "含义A：时间上的持续性。",
+        "context": ""
+      },
+      {
+        "ja": "在職期間を通じて皆様には大変お世話になりました。",
+        "zh": "在职期间承蒙各位关照。",
+        "en": "I have been greatly indebted to all of you throughout my tenure.",
+        "notes": "含义A：时间上的持续性。",
+        "context": ""
+      },
+      {
+        "ja": "この10年間を通し、彼はいつも新しいことに挑戦していた。",
+        "zh": "在这10年里，他一直在挑战新事物。",
+        "en": "Throughout these 10 years, he was always challenging new things.",
+        "notes": "含义A：时间上的持续性。",
+        "context": ""
+      },
+      {
+        "ja": "今日では、インターネットを通じて世界中の情報が手に入る。",
+        "zh": "现在，可以通过互联网获得世界各地的信息。",
+        "en": "Nowadays, information from all over the world can be obtained through the internet.",
+        "notes": "含义B：作为手段。",
+        "context": ""
+      },
+      {
+        "ja": "わたしたちは、ボランティア活動をしていろいろな国の人たちと交流を深めている。",
+        "zh": "我们通过志愿者活动与各国人民加深交流。",
+        "en": "We are deepening our exchanges with people from various countries through volunteer activities.",
+        "notes": "含义B：作为手段。",
+        "context": ""
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "kagiri",
+    "main_form": "〜限り",
+    "variants": [],
+    "search_keywords": [
+      "限り",
+      "kagiri",
+      "as long as",
+      "to the extent that",
+      "只要",
+      "尽",
+      "在...范围内"
+    ],
+    "meaning": "表示在某个界限或范围内做所有能做的事情。",
+    "semantic_function": "表达动作或状态的界限或程度。",
+    "usage_context": ["口语", "书面语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "環境を守るためにわたしもできる限りのことをしたい。",
+        "zh": "为了保护环境，我也想尽我所能。",
+        "en": "In order to protect the environment, I want to do everything I can.",
+        "notes": "",
+        "context": ""
+      },
+      {
+        "ja": "君が知っている限りのことを全部わたしに話してほしい。",
+        "zh": "希望你把你所知道的一切都告诉我。",
+        "en": "Please tell me everything you know.",
+        "notes": "",
+        "context": ""
+      },
+      {
+        "ja": "明日は良い試験だ。力の限り頑張ろう。",
+        "zh": "明天是重要的考试。让我们尽全力努力吧。",
+        "en": "Tomorrow is an important exam. Let's do our best with all our might.",
+        "notes": "",
+        "context": ""
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "dake",
+    "main_form": "〜だけ",
+    "variants": [],
+    "search_keywords": ["だけ", "dake", "only", "as much as", "只", "仅", "尽"],
+    "meaning": "表示在某个范围内的界限。",
+    "semantic_function": "表达某事物的最大限度或界限。",
+    "usage_context": ["口语", "书面语"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "ここにあるダンボールを、車に積めるだけ積んで持って帰ってください。",
+        "zh": "请把这里能装进车的纸箱都装上带回去。",
+        "en": "Please load all the cardboard boxes here that you can into the car and take them home.",
+        "notes": "",
+        "context": ""
+      },
+      {
+        "ja": "父は働くだけ働いて、定年前に退職してしまった。",
+        "zh": "父亲拼命工作，在退休前就离职了。",
+        "en": "My father worked as much as he could and then retired before reaching retirement age.",
+        "notes": "",
+        "context": ""
+      },
+      {
+        "ja": "今日は部長に言いたいだけの不満を全部言って、すっきりした。",
+        "zh": "今天把想对部长说的不满全说了，感觉很舒畅。",
+        "en": "Today, I expressed all the complaints I wanted to tell the manager, and I feel refreshed.",
+        "notes": "",
+        "context": ""
+      },
+      {
+        "ja": "バイキング形式の食事ですから、好きなものを好きなだけ取ってお召し上がりください。",
+        "zh": "因为是自助餐形式，请取您喜欢的食物，想吃多少取多少。",
+        "en": "Since it's a buffet-style meal, please take as much as you like and enjoy.",
+        "notes": "",
+        "context": ""
+      }
+    ],
+    "related_grammar": []
+  },
+  {
+    "id": "te-hajimete",
+    "main_form": "〜てはじめて",
+    "variants": [],
+    "search_keywords": [
+      "てはじめて",
+      "はじめて",
+      "只有...才",
+      "经历",
+      "意识到"
+    ],
+    "meaning": "只有在经历或达到某种状态后，才会发生新的事情或之前未知的情况。",
+    "semantic_function": "表达作为先前行动或经历的结果，发生新的事情或认识。",
+    "usage_context": ["一般"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "実際に現地の様子を見てはじめて、今回の地震のひどさを知った。",
+        "zh": "亲眼看到当地的情况后，我才知道了这次地震的严重性。",
+        "en": "Only after actually seeing the local situation did I realize how severe this earthquake was.",
+        "notes": "",
+        "context": "通过直接体验认识到某事的严重性"
+      },
+      {
+        "ja": "相手の話の途中で話始めるくせがあると、人に言われてはじめて気がついた。",
+        "zh": "有人告诉我我有打断别人说话的习惯，我才第一次注意到。",
+        "en": "Only when someone told me that I have a habit of interrupting people, did I realize it for the first time.",
+        "notes": "",
+        "context": "经他人提醒后意识到自己的习惯"
+      },
+      {
+        "ja": "山田先生の指導を受けてはじめて、生物の観察が面白いと思うようになった。",
+        "zh": "在接受山田老师的指导后，我才觉得生物观察很有趣。",
+        "en": "Only after receiving guidance from Professor Yamada did I start to find biological observation interesting.",
+        "notes": "",
+        "context": "接受指导后产生新的兴趣"
+      },
+      {
+        "ja": "チャンスがあってはじめて、才能が生きてくるのではないだろうか。",
+        "zh": "是不是只有有了机会，才能发挥才能呢？",
+        "en": "Isn't it only when there's an opportunity that one's talent comes alive?",
+        "notes": "",
+        "context": "思考机会对于才能发挥的必要性"
+      }
+    ],
+    "related_grammar": ["〜てからでないと"]
+  },
+  {
+    "id": "ue-de",
+    "main_form": "〜上（で）",
+    "variants": ["〜上で"],
+    "search_keywords": ["上で", "うえで", "在...之后", "基于", "经过考虑"],
+    "meaning": "在做好准备或确认某事后，采取后续行动。常表示\"基于\"或\"经过慎重考虑后\"。",
+    "semantic_function": "表示后续行动的前提或基础。",
+    "usage_context": ["正式", "书面语", "说明", "做决定"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "文書が保存されていることを確かめた上で、パソコンをシャットダウンしてください。",
+        "zh": "请确认文件已保存后，再关闭电脑。",
+        "en": "Please confirm that the document has been saved before shutting down your computer.",
+        "notes": "确认后采取的行动",
+        "context": "电脑使用说明"
+      },
+      {
+        "ja": "経済的なことをよく考えた上で、進路を決める必要がある。",
+        "zh": "有必要在充分考虑经济因素后，决定未来的道路。",
+        "en": "It is necessary to decide on a career path after carefully considering economic factors.",
+        "notes": "经过慎重考虑后采取的行动",
+        "context": "决定职业或人生道路"
+      },
+      {
+        "ja": "自分一人では決められませんので、家族と相談した上で、お返事をいたします。",
+        "zh": "因为我一个人无法决定，所以会和家人商量后再给您答复。",
+        "en": "Since I cannot decide by myself, I will give you my reply after consulting with my family.",
+        "notes": "商量后采取的行动",
+        "context": "需要家庭意见的回应"
+      },
+      {
+        "ja": "この列車には特急券が必要です。あらかじめ特急券をお買い求めの上、ご乗車ください。",
+        "zh": "乘坐此列车需要特快车票。请提前购买特快车票后乘车。",
+        "en": "An express ticket is required for this train. Please purchase an express ticket in advance before boarding.",
+        "notes": "必要购买后采取的行动",
+        "context": "列车乘坐说明"
+      }
+    ],
+    "related_grammar": ["〜てから", "〜にあたって"]
+  },
+  {
+    "id": "shidai",
+    "main_form": "〜次第",
+    "variants": [],
+    "search_keywords": ["次第", "しだい", "一...就", "立即", "马上"],
+    "meaning": "某事实现或完成后，立即跟随行动。这是正式的表达方式。",
+    "semantic_function": "表达在先前事件完成后立即采取后续行动。",
+    "usage_context": ["正式", "书面语", "商务沟通", "通知"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "詳しいことが分かり次第、ご連絡いたします。",
+        "zh": "一得知详细情况，我就会联系您。",
+        "en": "As soon as I know the details, I will contact you.",
+        "notes": "获得信息后立即联系",
+        "context": "承诺提供更新"
+      },
+      {
+        "ja": "定員になり次第、締め切らせていただきます。",
+        "zh": "一旦达到规定人数，我们将截止报名。",
+        "en": "As soon as the capacity is reached, we will close applications.",
+        "notes": "达到人数后立即截止",
+        "context": "活动或报名通知"
+      },
+      {
+        "ja": "会場の準備ができ次第、ご案内いたします。もうしばらくお待ちください。",
+        "zh": "会场准备好后，我将引导您。请再稍等片刻。",
+        "en": "As soon as the venue preparations are complete, I will guide you. Please wait a little longer.",
+        "notes": "准备完成后立即引导",
+        "context": "引导客人到会场"
+      }
+    ],
+    "related_grammar": ["〜たらすぐ", "〜とすぐに"]
+  },
+  {
+    "id": "iraki-kono-kata",
+    "main_form": "〜て以来",
+    "variants": ["〜て以来", "〜てこのかた"],
+    "search_keywords": ["以来", "このかた", "いらい", "自从", "从那时起"],
+    "meaning": "从过去的某个时间点开始，某种状态或情况一直持续不断。",
+    "semantic_function": "表示从特定过去时间点开始的状态或动作的持续期间。",
+    "usage_context": ["一般"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "1年前にけがをして以来、体の調子がどうも良くない。",
+        "zh": "自从一年前受伤以来，身体状况一直不太好。",
+        "en": "Ever since I got injured a year ago, my physical condition hasn't been very good.",
+        "notes": "受伤后持续的健康不佳",
+        "context": "描述持续的健康问题"
+      },
+      {
+        "ja": "あの山の写真を見て以来、いつかは登ってみたいとずっと思い続けてきた。",
+        "zh": "自从看了那座山的照片以来，我一直想着总有一天要去爬。",
+        "en": "Ever since I saw the photo of that mountain, I've continuously thought that I want to climb it someday.",
+        "notes": "看到照片后持续的愿望",
+        "context": "表达长期以来的抱负"
+      },
+      {
+        "ja": "子供が生まれて以来、外で酒を飲んでいない。",
+        "zh": "自从孩子出生以来，我就没有在外面喝过酒。",
+        "en": "Ever since my child was born, I haven't drunk alcohol outside.",
+        "notes": "生育后持续的戒酒",
+        "context": "有了孩子后的生活方式改变"
+      },
+      {
+        "ja": "日本から帰国してこのかた、毎日日本のことを思い出している。",
+        "zh": "自从从日本回国以来，我每天都在回忆日本的事情。",
+        "en": "Ever since returning from Japan, I've been thinking about Japan every day.",
+        "notes": "回国后持续的回忆",
+        "context": "旅行后的怀念"
+      },
+      {
+        "ja": "母がいなくなってこのかた、母のことを考えない日はない。",
+        "zh": "自从母亲去世以来，没有一天不想她。",
+        "en": "Ever since my mother passed away, there hasn't been a day I haven't thought of her.",
+        "notes": "失去后持续的思念",
+        "context": "悲伤和怀念"
+      }
+    ],
+    "related_grammar": ["〜てからずっと"]
+  },
+  {
+    "id": "te-kara-denai-to",
+    "main_form": "〜てからでないと",
+    "variants": ["〜てからでないと", "〜てからでなければ"],
+    "search_keywords": [
+      "てからでないと",
+      "てからでなければ",
+      "不...就不",
+      "除非",
+      "只有...才"
+    ],
+    "meaning": "除非先执行某个行动，否则另一个行动无法实现。",
+    "semantic_function": "表达行动或状态发生的必要前提条件，如果不满足条件通常带有否定含义。",
+    "usage_context": ["一般"],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "この果物は赤くなってからでないと、酸っぱくて食べられません。",
+        "zh": "这种水果不等到变红，会很酸不能吃。",
+        "en": "Unless this fruit turns red, it will be too sour to eat.",
+        "notes": "水果必须变红才能食用",
+        "context": "吃水果"
+      },
+      {
+        "ja": "もっと情報を集めてからでないと、その話が本当かどうか判断できない。",
+        "zh": "不收集更多信息，就无法判断那件事是否真实。",
+        "en": "Unless I gather more information, I can't judge if that story is true or not.",
+        "notes": "需要更多信息才能判断",
+        "context": "评估信息"
+      },
+      {
+        "ja": "この電車は車内の清掃が済んでからでないと、ご乗車になれません。",
+        "zh": "这趟列车不等到车厢清扫完毕，不能乘车。",
+        "en": "You cannot board this train until the interior cleaning is finished.",
+        "notes": "清扫完成前禁止乘车",
+        "context": "乘坐列车"
+      },
+      {
+        "ja": "退院したばかりなんですから、十分に体力がついてからでなければ、運動は無理ですよ。",
+        "zh": "你才刚出院，不等到体力完全恢复，运动是不行的。",
+        "en": "You've just been discharged from the hospital, so unless your physical strength is fully recovered, exercise is impossible.",
+        "notes": "没有完全恢复前运动不可能",
+        "context": "对康复患者的建议"
+      }
+    ],
+    "related_grammar": ["〜てはじめて"]
+  }
+]
