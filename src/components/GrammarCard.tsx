@@ -3,9 +3,9 @@ import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 import { Button } from './ui/button';
 import { Badge } from './ui/badge';
 import { Progress } from './ui/progress';
-import { ChevronLeft, ChevronRight, Volume2, BookOpen } from 'lucide-react';
-import { GrammarCard as GrammarCardType } from '../lib/db';
-import { reviewAlgorithm } from '@/lib/algorithm';
+import { ChevronLeft, ChevronRight, Volume2, BookOpen, Camera, CameraOff } from 'lucide-react';
+import { GrammarCard as GrammarCardType } from '../lib/db.ts';
+import { useGestureRecognition } from '../hooks/useGestureRecognition';
 
 interface GrammarCardProps {
   card: GrammarCardType;
@@ -20,18 +20,43 @@ interface GrammarCardProps {
 
 export function GrammarCardComponent({ card, stats, onKnown, onUnknown }: GrammarCardProps) {
   const [currentExampleIndex, setCurrentExampleIndex] = useState(0);
-  const [showTranslation, setShowTranslation] = useState(false);
+  const [showGestureControls, setShowGestureControls] = useState(false);
+
+  const {
+    isInitialized,
+    isDetecting,
+    error,
+    lastGesture,
+    videoRef,
+    startDetection,
+    stopDetection
+  } = useGestureRecognition({
+    onThumbUp: onKnown,
+    onThumbDown: onUnknown,
+    enabled: showGestureControls
+  });
+
+  useEffect(() => {
+    const handleKeyPress = (event: KeyboardEvent) => {
+      if (event.key === '1') {
+        onUnknown();
+      } else if (event.key === '2') {
+        onKnown();
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyPress);
+    return () => window.removeEventListener('keydown', handleKeyPress);
+  }, [onKnown, onUnknown]);
 
   const currentExample = card.examples[currentExampleIndex];
 
   const handleNextExample = () => {
     setCurrentExampleIndex((prev) => (prev + 1) % card.examples.length);
-    setShowTranslation(false);
   };
 
   const handlePrevExample = () => {
     setCurrentExampleIndex((prev) => (prev - 1 + card.examples.length) % card.examples.length);
-    setShowTranslation(false);
   };
 
   const speakJapanese = (text: string) => {
@@ -74,6 +99,62 @@ export function GrammarCardComponent({ card, stats, onKnown, onUnknown }: Gramma
             <span>认识: {stats.knownCount}次</span>
           </div>
         </div>
+
+        <div className="flex gap-4 pt-2">
+          <Button
+            onClick={onUnknown}
+            variant="outline"
+            size="lg"
+            className="flex-1"
+          >
+            不认识 (1)
+          </Button>
+          <Button
+            onClick={onKnown}
+            variant="default"
+            size="lg"
+            className="flex-1"
+          >
+            认识 (2)
+          </Button>
+          <Button
+            onClick={() => {
+              if (showGestureControls) {
+                stopDetection();
+                setShowGestureControls(false);
+              } else {
+                startDetection();
+                setShowGestureControls(true);
+              }
+            }}
+            variant={showGestureControls ? "destructive" : "secondary"}
+            size="lg"
+            className="flex-1"
+          >
+            {showGestureControls ? <CameraOff className="w-4 h-4" /> : <Camera className="w-4 h-4" />}
+            {showGestureControls ? '关闭手势' : '手势控制'}
+          </Button>
+        </div>
+
+        {showGestureControls && (
+          <div className="flex items-center justify-between pt-2">
+            <div className="text-sm text-muted-foreground">
+              {isDetecting ? (
+                <span className="flex items-center gap-2">
+                  <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
+                  手势检测中...
+                </span>
+              ) : (
+                <span>点击"手势控制"开始</span>
+              )}
+            </div>
+            {lastGesture && (
+              <Badge variant="outline" className="text-xs">
+                检测到手势: {lastGesture === 'Thumb_Up' ? '👍 认识' : lastGesture === 'Thumb_Down' ? '👎 不认识' : lastGesture}
+              </Badge>
+            )}
+          </div>
+        )}
       </CardHeader>
 
       <CardContent className="space-y-6">
@@ -165,26 +246,19 @@ export function GrammarCardComponent({ card, stats, onKnown, onUnknown }: Gramma
             </div>
           </div>
         )}
-
-        <div className="flex gap-4 pt-6">
-          <Button
-            onClick={onUnknown}
-            variant="outline"
-            size="lg"
-            className="flex-1"
-          >
-            不认识
-          </Button>
-          <Button
-            onClick={onKnown}
-            variant="default"
-            size="lg"
-            className="flex-1"
-          >
-            认识
-          </Button>
-        </div>
       </CardContent>
+
+      {isDetecting && (
+        <div className="absolute top-4 right-4 w-32 h-24 bg-black rounded-lg overflow-hidden shadow-lg">
+          <video
+            ref={videoRef}
+            autoPlay
+            muted
+            playsInline
+            className="w-full h-full object-cover transform scale-x-[-1]"
+          />
+        </div>
+      )}
     </Card>
   );
 }

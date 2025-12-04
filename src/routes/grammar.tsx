@@ -1,7 +1,7 @@
 import { createFileRoute } from '@tanstack/react-router';
 import { useState, useEffect } from 'react';
 import { GrammarCardComponent } from '../components/GrammarCard';
-import { db } from '../lib/db';
+import { db } from '../lib/db.ts';
 import { reviewAlgorithm } from '../lib/algorithm';
 import { WeightedCard } from '../lib/algorithm';
 import { Button } from '../components/ui/button';

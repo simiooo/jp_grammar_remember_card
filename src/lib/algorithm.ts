@@ -1,4 +1,4 @@
-import { GrammarCard, GrammarStats } from './db';
+import { GrammarCard, GrammarStats } from './db.ts';
 
 export interface WeightedCard {
   card: GrammarCard;
@@ -11,7 +11,6 @@ export class SmartReviewAlgorithm {
   private readonly recencyWeight = 0.1; // 最近复习时间权重
   
   private readonly masteryPenalty = 0.8; // 高掌握率的惩罚系数
-  private readonly recencyDecay = 0.95; // 时间衰减系数
   
   // 计算卡片的权重
   private calculateWeight(stats: GrammarStats): number {
