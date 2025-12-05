@@ -33,19 +33,22 @@ function GrammarReviewApp() {
   >([])
   const [cardAnimation, setCardAnimation] = useState<'idle' | 'exiting' | 'entering'>('idle')
 
-  // 生成模拟掌握程度数据（基于语法知识点）
-  function generateMockContributionData() {
-    // 使用 grammarData 中的知识点
-    const items = grammarData.map((grammar: any) => {
-      // 模拟掌握程度 0-100
-      const value = Math.floor(Math.random() * 101);
+  // 获取真实贡献数据（基于数据库掌握程度）
+  async function fetchContributionData() {
+    const [cards, statsMap] = await Promise.all([
+      db.getAllCards(),
+      db.getAllStats(),
+    ]);
+    return cards.map(card => {
+      const stats = statsMap.get(card.id);
+      const masteryRate = stats?.masteryRate ?? 0;
+      const value = Math.round(masteryRate * 100); // 转换为百分比 0-100
       return {
-        id: grammar.id,
+        id: card.id,
         value,
-        label: grammar.main_form,
+        label: card.main_form,
       };
     });
-    return items;
   }
 
   // 初始化数据
@@ -75,9 +78,18 @@ function GrammarReviewApp() {
           todayReviewed: todayStats.reviewedCount,
         })
 
-        // 生成模拟贡献数据
-        const mockContributionData = generateMockContributionData();
-        setContributionData(mockContributionData);
+        // 生成真实贡献数据（基于掌握程度）
+        const contributionData = cards.map(card => {
+          const stats = statsMap.get(card.id);
+          const masteryRate = stats?.masteryRate ?? 0;
+          const value = Math.round(masteryRate * 100); // 转换为百分比 0-100
+          return {
+            id: card.id,
+            value,
+            label: card.main_form,
+          };
+        });
+        setContributionData(contributionData);
 
         // 选择第一张卡片
         if (filtered.length > 0) {
@@ -136,6 +148,10 @@ function GrammarReviewApp() {
         overallMastery: overallMastery,
         todayReviewed: todayStats.reviewedCount,
       }))
+
+      // 更新贡献数据
+      const contributionData = await fetchContributionData();
+      setContributionData(contributionData);
 
       // 选择下一张卡片
       setTimeout(async () => {

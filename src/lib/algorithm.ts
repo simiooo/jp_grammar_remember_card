@@ -66,7 +66,8 @@ export class SmartReviewAlgorithm {
         totalAttempts: 0,
         knownCount: 0,
         lastReviewed: new Date(0),
-        masteryRate: 0
+        masteryRate: 0,
+        consecutiveKnown: 0
       };
       
       return {
@@ -94,7 +95,8 @@ export class SmartReviewAlgorithm {
         totalAttempts: 0,
         knownCount: 0,
         lastReviewed: new Date(0),
-        masteryRate: 0
+        masteryRate: 0,
+        consecutiveKnown: 0
       };
       
       // 保留尝试次数少于3的卡片（数据不足）

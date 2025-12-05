@@ -25,6 +25,7 @@ export interface GrammarStats {
   knownCount: number;
   lastReviewed: Date;
   masteryRate: number;
+  consecutiveKnown: number;
 }
 
 export class GrammarDatabase extends Dexie {
@@ -63,6 +64,12 @@ export class GrammarDatabase extends Dexie {
     const existing = await this.grammarStats.get(grammarId);
     
     if (existing) {
+      // 确保旧数据有 consecutiveKnown 字段
+      if (existing.consecutiveKnown === undefined) {
+        existing.consecutiveKnown = 0;
+        // 更新数据库
+        await this.grammarStats.put(existing);
+      }
       return existing;
     }
     
@@ -71,7 +78,8 @@ export class GrammarDatabase extends Dexie {
       totalAttempts: 0,
       knownCount: 0,
       lastReviewed: new Date(0),
-      masteryRate: 0
+      masteryRate: 0,
+      consecutiveKnown: 0
     };
     
     await this.grammarStats.add(newStats);
@@ -85,11 +93,21 @@ export class GrammarDatabase extends Dexie {
     stats.totalAttempts += 1;
     if (isKnown) {
       stats.knownCount += 1;
+      stats.consecutiveKnown += 1;
+    } else {
+      // 不认识：抵消一个认识标记，最小为0
+      stats.knownCount = Math.max(0, stats.knownCount - 1);
+      // 重置连续认识计数
+      stats.consecutiveKnown = 0;
     }
     stats.lastReviewed = new Date();
     
-    // 计算掌握率
-    stats.masteryRate = stats.totalAttempts > 0 ? stats.knownCount / stats.totalAttempts : 0;
+    // 计算掌握率：如果连续认识达到5次，掌握率为100%
+    if (stats.consecutiveKnown >= 5) {
+      stats.masteryRate = 1;
+    } else {
+      stats.masteryRate = stats.totalAttempts > 0 ? stats.knownCount / stats.totalAttempts : 0;
+    }
     
     await this.grammarStats.put(stats);
   }

@@ -24,6 +24,7 @@ describe('SmartReviewAlgorithm', () => {
     knownCount,
     lastReviewed,
     masteryRate: totalAttempts > 0 ? knownCount / totalAttempts : 0,
+    consecutiveKnown: 0,
   });
 
   const now = new Date();
