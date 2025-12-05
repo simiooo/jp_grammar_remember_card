@@ -136,3 +136,40 @@ code {
     @apply bg-background text-foreground;
   }
 }
+
+/* 卡片动画 */
+@keyframes card-enter {
+  0% {
+    opacity: 0;
+    transform: translateX(30px) scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+@keyframes card-exit {
+  0% {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(-30px) scale(0.95);
+  }
+}
+
+.animate-card-enter {
+  animation: card-enter 0.35s ease forwards;
+}
+
+.animate-card-exit {
+  animation: card-exit 0.35s ease forwards;
+}
+
+/* 确保卡片在动画期间有定位 */
+.card-animation-wrapper {
+  position: relative;
+  overflow: hidden;
+}

@@ -31,6 +31,7 @@ function GrammarReviewApp() {
   const [contributionData, setContributionData] = useState<
     Array<{ id: string; value: number; label?: string }>
   >([])
+  const [cardAnimation, setCardAnimation] = useState<'idle' | 'exiting' | 'entering'>('idle')
 
   // 生成模拟掌握程度数据（基于语法知识点）
   function generateMockContributionData() {
@@ -110,6 +111,9 @@ function GrammarReviewApp() {
     if (!currentCard) return
 
     try {
+      // 触发退出动画
+      setCardAnimation('exiting')
+      
       // 更新统计
       await db.updateStats(currentCard.id, isKnown)
       
@@ -143,18 +147,34 @@ function GrammarReviewApp() {
         if (filtered.length > 0) {
           const nextCard = reviewAlgorithm.selectNextCard(filtered)
           await loadCard(nextCard)
+          // 触发进入动画
+          setCardAnimation('entering')
+          // 350ms后动画结束，恢复空闲状态
+          setTimeout(() => {
+            setCardAnimation('idle')
+          }, 350)
         }
-      }, 300)
+      }, 350)
     } catch (error) {
       console.error('处理响应失败:', error)
+      setCardAnimation('idle')
     }
   }
 
   // 手动切换卡片
   const handleNextCard = async () => {
     if (weightedCards.length === 0) return
-    const nextCard = reviewAlgorithm.selectNextCard(weightedCards)
-    await loadCard(nextCard)
+    // 触发退出动画
+    setCardAnimation('exiting')
+    setTimeout(async () => {
+      const nextCard = reviewAlgorithm.selectNextCard(weightedCards)
+      await loadCard(nextCard)
+      // 触发进入动画
+      setCardAnimation('entering')
+      setTimeout(() => {
+        setCardAnimation('idle')
+      }, 350)
+    }, 350)
   }
 
   if (isLoading) {
@@ -211,12 +231,14 @@ function GrammarReviewApp() {
             </div>
 
             {/* 语法卡片 */}
-            <GrammarCardComponent
-              card={currentCard}
-              stats={stats}
-              onKnown={() => handleResponse(true)}
-              onUnknown={() => handleResponse(false)}
-            />
+            <div className={`card-animation-wrapper ${cardAnimation === 'exiting' ? 'animate-card-exit' : cardAnimation === 'entering' ? 'animate-card-enter' : ''}`}>
+              <GrammarCardComponent
+                card={currentCard}
+                stats={stats}
+                onKnown={() => handleResponse(true)}
+                onUnknown={() => handleResponse(false)}
+              />
+            </div>
 
             {/* 控制按钮 */}
             <div className="flex items-center justify-center gap-4">
