@@ -13,7 +13,7 @@ export class SmartReviewAlgorithm {
   private readonly masteryPenalty = 0.8; // 高掌握率的惩罚系数
   
   // 计算卡片的权重
-  private calculateWeight(stats: GrammarStats): number {
+  public calculateWeight(stats: GrammarStats): number {
     // 1. 掌握率权重：掌握率越低，权重越高
     const masteryComponent = (1 - stats.masteryRate) * this.masteryWeight;
     
@@ -25,13 +25,13 @@ export class SmartReviewAlgorithm {
     const daysSinceReview = (now.getTime() - stats.lastReviewed.getTime()) / (1000 * 60 * 60 * 24);
     const recencyComponent = Math.min(daysSinceReview / 30, 1) * this.recencyWeight;
     
-    // 4. 新卡片加成：从未复习过的卡片获得额外权重
-    const newCardBonus = stats.totalAttempts === 0 ? 0.5 : 0;
+    // 4. 低尝试次数加成：尝试次数少于3次获得额外权重，避免巧合误判
+    const lowAttemptBonus = stats.totalAttempts < 3 ? (3 - stats.totalAttempts) * 0.2 : 0;
     
-    // 5. 高掌握率惩罚：如果掌握率很高，降低权重
-    const masteryPenalty = stats.masteryRate > 0.8 ? (1 - this.masteryPenalty) : 0;
+    // 5. 高掌握率惩罚：仅当尝试次数>=3且掌握率很高时降低权重
+    const masteryPenalty = stats.totalAttempts >= 3 && stats.masteryRate > 0.8 ? (1 - this.masteryPenalty) : 0;
     
-    return masteryComponent + randomComponent + recencyComponent + newCardBonus - masteryPenalty;
+    return masteryComponent + randomComponent + recencyComponent + lowAttemptBonus - masteryPenalty;
   }
   
   // 选择下一个要复习的卡片
@@ -87,7 +87,7 @@ export class SmartReviewAlgorithm {
   
   // 过滤需要复习的卡片
   filterCardsForReview(weightedCards: WeightedCard[], statsMap: Map<string, GrammarStats>): WeightedCard[] {
-    // 移除掌握率过高的卡片（>95%且复习次数>5次）
+    // 移除掌握率过高的卡片（>95%且复习次数>5次），但保留尝试次数少于3的卡片（数据不足）
     return weightedCards.filter(wc => {
       const stats = statsMap.get(wc.card.id) || {
         grammarId: wc.card.id,
@@ -97,6 +97,9 @@ export class SmartReviewAlgorithm {
         masteryRate: 0
       };
       
+      // 保留尝试次数少于3的卡片（数据不足）
+      if (stats.totalAttempts < 3) return true;
+      // 否则应用原有过滤条件
       return !(stats.masteryRate > 0.95 && stats.totalAttempts > 5);
     });
   }

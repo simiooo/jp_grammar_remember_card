@@ -23,13 +23,12 @@ export function GrammarCardComponent({ card, stats, onKnown, onUnknown }: Gramma
   const [showGestureControls, setShowGestureControls] = useState(false);
 
   const {
-    isInitialized,
     isDetecting,
-    error,
     lastGesture,
     videoRef,
     startDetection,
-    stopDetection
+    stopDetection,
+    error
   } = useGestureRecognition({
     onThumbUp: onKnown,
     onThumbDown: onUnknown,
@@ -137,21 +136,28 @@ export function GrammarCardComponent({ card, stats, onKnown, onUnknown }: Gramma
         </div>
 
         {showGestureControls && (
-          <div className="flex items-center justify-between pt-2">
-            <div className="text-sm text-muted-foreground">
-              {isDetecting ? (
-                <span className="flex items-center gap-2">
-                  <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
-                  手势检测中...
-                </span>
-              ) : (
-                <span>点击"手势控制"开始</span>
+          <div className="space-y-2 pt-2">
+            <div className="flex items-center justify-between">
+              <div className="text-sm text-muted-foreground">
+                {isDetecting ? (
+                  <span className="flex items-center gap-2">
+                    <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
+                    手势检测中...
+                  </span>
+                ) : (
+                  <span>点击"手势控制"开始</span>
+                )}
+              </div>
+              {lastGesture && (
+                <Badge variant="outline" className="text-xs">
+                  检测到手势: {lastGesture === 'Thumb_Up' ? '👍 认识' : lastGesture === 'Thumb_Down' ? '👎 不认识' : lastGesture}
+                </Badge>
               )}
             </div>
-            {lastGesture && (
-              <Badge variant="outline" className="text-xs">
-                检测到手势: {lastGesture === 'Thumb_Up' ? '👍 认识' : lastGesture === 'Thumb_Down' ? '👎 不认识' : lastGesture}
-              </Badge>
+            {error && (
+              <div className="text-sm text-red-500 bg-red-50 p-2 rounded-md">
+                ❌ {error}
+              </div>
             )}
           </div>
         )}

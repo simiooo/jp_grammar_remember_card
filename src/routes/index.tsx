@@ -1,11 +1,12 @@
 import { createFileRoute } from '@tanstack/react-router'
 import { useState, useEffect } from 'react'
 import { GrammarCardComponent } from '../components/GrammarCard'
+import { StatsSidebar } from '../components/StatsSidebar'
 import { db } from '../lib/db'
 import { reviewAlgorithm } from '../lib/algorithm'
 import { WeightedCard } from '../lib/algorithm'
 import { Button } from '../components/ui/button'
-import { RefreshCw, Trophy, Target, BookOpen } from 'lucide-react'
+import { RefreshCw, Trophy, Target } from 'lucide-react'
 import { Badge } from '../components/ui/badge'
 import grammarData from '../grammar_data.json'
 
@@ -27,6 +28,24 @@ function GrammarReviewApp() {
     overallMastery: 0,
     todayReviewed: 0,
   })
+  const [contributionData, setContributionData] = useState<
+    Array<{ id: string; value: number; label?: string }>
+  >([])
+
+  // 生成模拟掌握程度数据（基于语法知识点）
+  function generateMockContributionData() {
+    // 使用 grammarData 中的知识点
+    const items = grammarData.map((grammar: any) => {
+      // 模拟掌握程度 0-100
+      const value = Math.floor(Math.random() * 101);
+      return {
+        id: grammar.id,
+        value,
+        label: grammar.main_form,
+      };
+    });
+    return items;
+  }
 
   // 初始化数据
   useEffect(() => {
@@ -54,6 +73,10 @@ function GrammarReviewApp() {
           overallMastery: overallMastery,
           todayReviewed: todayStats.reviewedCount,
         })
+
+        // 生成模拟贡献数据
+        const mockContributionData = generateMockContributionData();
+        setContributionData(mockContributionData);
 
         // 选择第一张卡片
         if (filtered.length > 0) {
@@ -164,80 +187,55 @@ function GrammarReviewApp() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-slate-50 to-slate-100">
-      {/* 头部统计 */}
-      <header className="bg-white shadow-sm border-b">
-        <div className="max-w-7xl mx-auto px-4 py-4">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <BookOpen className="w-6 h-6 text-primary" />
-              <h1 className="text-xl font-bold">日语语法背诵卡片</h1>
+    <div className="min-h-screen bg-gradient-to-b from-slate-50 to-slate-100 flex justify-center items-start">
+      <div className="max-w-7xl w-full flex">
+       
+
+        {/* 主要内容 */}
+        <main className="flex-1 overflow-auto px-4 py-8">
+          <div className="max-w-4xl mx-auto space-y-6">
+            {/* 进度指示器 */}
+            <div className="flex items-center justify-center gap-2">
+              <Target className="w-5 h-5 text-primary" />
+              <Badge variant="outline" className="text-sm">
+                第 {stats.totalAttempts + 1} 轮复习
+              </Badge>
             </div>
-            
-            <div className="flex items-center gap-6">
-              <div className="text-center">
-                <p className="text-2xl font-bold text-primary">
-                  {Math.round(overallStats.overallMastery * 100)}%
-                </p>
-                <p className="text-xs text-muted-foreground">整体掌握率</p>
-              </div>
-              
-              <div className="text-center">
-                <p className="text-2xl font-bold text-primary">
-                  {overallStats.totalCards}
-                </p>
-                <p className="text-xs text-muted-foreground">总卡片数</p>
-              </div>
-              
-              <div className="text-center">
-                <p className="text-2xl font-bold text-primary">
-                  {overallStats.todayReviewed}
-                </p>
-                <p className="text-xs text-muted-foreground">今日复习</p>
-              </div>
+
+            {/* 语法卡片 */}
+            <GrammarCardComponent
+              card={currentCard}
+              stats={stats}
+              onKnown={() => handleResponse(true)}
+              onUnknown={() => handleResponse(false)}
+            />
+
+            {/* 控制按钮 */}
+            <div className="flex items-center justify-center gap-4">
+              <Button
+                variant="outline"
+                onClick={handleNextCard}
+                className="gap-2"
+              >
+                <RefreshCw className="w-4 h-4" />
+                下一张卡片
+              </Button>
+            </div>
+
+            {/* 提示信息 */}
+            <div className="text-center text-sm text-muted-foreground">
+              <p>点击"认识"或"不认识"来记录你的学习进度</p>
+              <p>系统会根据你的掌握情况智能推荐复习内容</p>
             </div>
           </div>
-        </div>
-      </header>
+        </main>
 
-      {/* 主要内容 */}
-      <main className="max-w-7xl mx-auto px-4 py-8">
-        <div className="space-y-6">
-          {/* 进度指示器 */}
-          <div className="flex items-center justify-center gap-2">
-            <Target className="w-5 h-5 text-primary" />
-            <Badge variant="outline" className="text-sm">
-              第 {stats.totalAttempts + 1} 轮复习
-            </Badge>
-          </div>
-
-          {/* 语法卡片 */}
-          <GrammarCardComponent
-            card={currentCard}
-            stats={stats}
-            onKnown={() => handleResponse(true)}
-            onUnknown={() => handleResponse(false)}
-          />
-
-          {/* 控制按钮 */}
-          <div className="flex items-center justify-center gap-4">
-            <Button
-              variant="outline"
-              onClick={handleNextCard}
-              className="gap-2"
-            >
-              <RefreshCw className="w-4 h-4" />
-              下一张卡片
-            </Button>
-          </div>
-
-          {/* 提示信息 */}
-          <div className="text-center text-sm text-muted-foreground">
-            <p>点击"认识"或"不认识"来记录你的学习进度</p>
-            <p>系统会根据你的掌握情况智能推荐复习内容</p>
-          </div>
-        </div>
-      </main>
+         {/* 侧边栏 */}
+        <StatsSidebar
+          overallStats={overallStats}
+          contributionData={contributionData}
+        />
+      </div>
     </div>
   )
 }

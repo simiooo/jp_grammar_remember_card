@@ -1,16 +1,20 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
-import { GestureRecognizer, FilesetResolver, GestureRecognizerResult } from '@mediapipe/tasks-vision';
+import { GestureRecognizer, FilesetResolver } from '@mediapipe/tasks-vision';
 
 interface UseGestureRecognitionProps {
   onThumbUp?: () => void;
   onThumbDown?: () => void;
   enabled?: boolean;
+  confidenceThreshold?: number;
+  debounceMs?: number;
 }
 
 export const useGestureRecognition = ({
   onThumbUp,
   onThumbDown,
-  enabled = true
+  enabled = true,
+  confidenceThreshold = 0.5,
+  debounceMs = 1000
 }: UseGestureRecognitionProps) => {
   const [isInitialized, setIsInitialized] = useState(false);
   const [isDetecting, setIsDetecting] = useState(false);
@@ -21,6 +25,8 @@ export const useGestureRecognition = ({
   const videoRef = useRef<HTMLVideoElement | null>(null);
   const streamRef = useRef<MediaStream | null>(null);
   const lastVideoTimeRef = useRef<number>(-1);
+  const lastGestureTimeRef = useRef<number>(0);
+  const lastGestureNameRef = useRef<string>('');
 
   const initializeGestureRecognizer = useCallback(async () => {
     try {
@@ -45,6 +51,7 @@ export const useGestureRecognition = ({
       setError(null);
     } catch (err) {
       console.error('Failed to initialize gesture recognizer:', err);
+      console.log(err)
       setError('手势识别初始化失败');
       setIsInitialized(false);
     }
@@ -105,13 +112,22 @@ export const useGestureRecognition = ({
         const gestureName = gesture.categoryName;
         const confidence = gesture.score;
 
-        if (confidence > 0.7) {
-          setLastGesture(gestureName);
+        if (confidence >= confidenceThreshold) {
+          const now = Date.now();
+          const timeSinceLastGesture = now - lastGestureTimeRef.current;
+          const isSameGesture = lastGestureNameRef.current === gestureName;
           
-          if (gestureName === 'Thumb_Up' && onThumbUp) {
-            onThumbUp();
-          } else if (gestureName === 'Thumb_Down' && onThumbDown) {
-            onThumbDown();
+          // 去抖：如果相同手势在去抖时间内，则跳过
+          if (!isSameGesture || timeSinceLastGesture >= debounceMs) {
+            setLastGesture(gestureName);
+            lastGestureTimeRef.current = now;
+            lastGestureNameRef.current = gestureName;
+            
+            if (gestureName === 'Thumb_Up' && onThumbUp) {
+              onThumbUp();
+            } else if (gestureName === 'Thumb_Down' && onThumbDown) {
+              onThumbDown();
+            }
           }
         }
       }
@@ -122,7 +138,7 @@ export const useGestureRecognition = ({
     if (isDetecting) {
       requestAnimationFrame(detectGestures);
     }
-  }, [isDetecting, onThumbUp, onThumbDown]);
+  }, [isDetecting, onThumbUp, onThumbDown, confidenceThreshold, debounceMs]);
 
   const startDetection = useCallback(async () => {
     if (!isInitialized) {
