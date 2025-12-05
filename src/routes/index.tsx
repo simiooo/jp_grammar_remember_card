@@ -188,11 +188,19 @@ function GrammarReviewApp() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-50 to-slate-100 flex justify-center items-start">
-      <div className="max-w-7xl w-full flex">
+      <div className="max-w-7xl w-full flex flex-col lg:flex-row">
        
 
+        {/* 侧边栏 (在移动端显示在上方) */}
+        <div className="lg:order-2 order-1">
+          <StatsSidebar
+            overallStats={overallStats}
+            contributionData={contributionData}
+          />
+        </div>
+
         {/* 主要内容 */}
-        <main className="flex-1 overflow-auto px-4 py-8">
+        <main className="flex-1 overflow-auto px-4 py-8 lg:order-1 order-2">
           <div className="max-w-4xl mx-auto space-y-6">
             {/* 进度指示器 */}
             <div className="flex items-center justify-center gap-2">
@@ -229,12 +237,6 @@ function GrammarReviewApp() {
             </div>
           </div>
         </main>
-
-         {/* 侧边栏 */}
-        <StatsSidebar
-          overallStats={overallStats}
-          contributionData={contributionData}
-        />
       </div>
     </div>
   )
