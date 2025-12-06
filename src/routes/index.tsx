@@ -9,6 +9,7 @@ import { Button } from '../components/ui/button'
 import { RefreshCw, Trophy, Target } from 'lucide-react'
 import { Badge } from '../components/ui/badge'
 import grammarData from '../grammar_data.json'
+import grammarYuka from '../grammar_data_from_yuka.json'
 
 export const Route = createFileRoute('/')({
   component: GrammarReviewApp,
@@ -56,7 +57,7 @@ function GrammarReviewApp() {
     const initializeData = async () => {
       try {
         // 初始化语法卡片
-        await db.initializeGrammarCards(grammarData)
+        await db.initializeGrammarCards([...grammarData, ...grammarYuka])
         
         // 获取所有卡片和统计
         const [cards, statsMap, overallMastery, todayStats] = await Promise.all([

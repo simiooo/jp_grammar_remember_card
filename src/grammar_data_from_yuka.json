@@ -1,0 +1,457 @@
+[
+  {
+    "id": "you-dewa",
+    "main_form": "〜ようでは",
+    "variants": [
+      "〜ようじゃ"
+    ],
+    "search_keywords": [
+      "ようでは",
+      "ようじゃ",
+      "条件",
+      "悪い結果",
+      "仮定"
+    ],
+    "meaning": "如果保持在某种状态或继续某种行为，就会导致不好的结果。",
+    "semantic_function": "表达负面条件，指出如果某种状态或行为继续下去，必然会产生不好的结果或无法达到目标。",
+    "usage_context": [
+      "口语"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "そんなことも知らないようじゃ、ここで働けないよ。",
+        "zh": "如果连那种事情都不知道的话，就没办法在这里工作哦。",
+        "en": "If you don't even know something like that, you can't work here.",
+        "notes": "表示由于某种不足，无法达到要求。",
+        "context": "工作能力"
+      },
+      {
+        "ja": "そんなことをこわがっているようでは、何もできないです。",
+        "zh": "如果害怕那种事情的话，就什么都做不了。",
+        "en": "If you're afraid of such things, you won't be able to do anything.",
+        "notes": "表示由于某种状态，导致行动受限。",
+        "context": "恐惧与限制"
+      },
+      {
+        "ja": "デートで仕事の話ばかりしているようでは、モテないよ。",
+        "zh": "如果在约会时只顾着聊工作的话，是不会受欢迎的哦。",
+        "en": "If you only talk about work on a date, you won't be popular.",
+        "notes": "表示某种行为会带来负面后果。",
+        "context": "人际交往"
+      }
+    ],
+    "related_grammar": [
+      "〜のでは",
+      "〜と"
+    ]
+  },
+  {
+    "id": "ta-tokoro",
+    "main_form": "〜たところ",
+    "variants": [],
+    "search_keywords": [
+      "たところ",
+      "結果",
+      "発見",
+      "試行"
+    ],
+    "meaning": "在做了某个行为或尝试之后，得到了意想不到的结果或发现。",
+    "semantic_function": "表示一个行为（通常是调查、询问、尝试等）结束后，得到了一个即时的结果或发现。",
+    "usage_context": [
+      "书面语",
+      "正式场合口语"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "調べたところ、日本語の森のチャンネルは2013年かららしい。",
+        "zh": "经过调查，听说“日语之森”的频道是从2013年开始的。",
+        "en": "After checking, it seems that Nihongo no Mori's channel has been around since 2013.",
+        "notes": "表示调查后的发现。",
+        "context": "信息查询"
+      },
+      {
+        "ja": "部長に確認したところ、会議は明日に変更するそうです。",
+        "zh": "向部长确认之后，听说会议将改到明天。",
+        "en": "After confirming with the department head, they said the meeting will be changed to tomorrow.",
+        "notes": "表示确认后的结果。",
+        "context": "公务确认"
+      },
+      {
+        "ja": "彼に聞いてみたところ、留学するといううわさは本当らしい。",
+        "zh": "试着问了他之后，听说他要留学的传闻似乎是真的。",
+        "en": "After trying to ask him, the rumor about studying abroad seems to be true.",
+        "notes": "表示尝试询问后的发现。",
+        "context": "谣言查证"
+      }
+    ],
+    "related_grammar": [
+      "〜た結果",
+      "〜てみたら"
+    ]
+  },
+  {
+    "id": "shidai-de",
+    "main_form": "〜次第で",
+    "variants": [
+      "〜次第だ"
+    ],
+    "search_keywords": [
+      "次第で",
+      "次第だ",
+      "による",
+      "決定"
+    ],
+    "meaning": "取决于前项的事物，后项的情况或结果会随之发生变化。",
+    "semantic_function": "表示某事的结果或情况由前项因素决定。",
+    "usage_context": [
+      "书面语",
+      "正式口语"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "天気次第では、明日のイベントを中止します。",
+        "zh": "根据天气情况，明天的活动将会中止。",
+        "en": "Depending on the weather, we will cancel tomorrow's event.",
+        "notes": "表示结果取决于天气。",
+        "context": "活动安排"
+      },
+      {
+        "ja": "テストの結果次第で、志望する大学を変えるつもりだ。",
+        "zh": "我打算根据考试的结果，改变志愿大学。",
+        "en": "Depending on the test results, I plan to change the university I wish to apply to.",
+        "notes": "表示计划取决于考试结果。",
+        "context": "升学计划"
+      },
+      {
+        "ja": "合格できるかどうかは、あなたの努力次第ですよ。",
+        "zh": "能否合格，就取决于你的努力了。",
+        "en": "Whether you can pass or not depends entirely on your effort.",
+        "notes": "表示结果取决于个人的努力。",
+        "context": "激励/劝告"
+      }
+    ],
+    "related_grammar": [
+      "〜によって",
+      "〜にかかわらず"
+    ]
+  },
+  {
+    "id": "kake-no",
+    "main_form": "〜かけの",
+    "variants": [
+      "〜かける"
+    ],
+    "search_keywords": [
+      "かけの",
+      "かける",
+      "途中",
+      "未完了"
+    ],
+    "meaning": "表示动作刚刚开始或正在进行中，但尚未结束。",
+    "semantic_function": "表示动作处于**未完成**或**中途**的状态。",
+    "usage_context": [
+      "口语",
+      "书面语"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "机に食べかけのパンと飲みかけのコーヒーがある。",
+        "zh": "桌上有吃到一半的面包和喝到一半的咖啡。",
+        "en": "There is a partially eaten bread and a partially drunk coffee on the desk.",
+        "notes": "用「〜かけのN」表示未完成的物品。",
+        "context": "描述物品状态"
+      },
+      {
+        "ja": "彼女は何か言いかけたが、そのまま黙ってしまった。",
+        "zh": "她正要说什么，但就这样沉默了。",
+        "en": "She was about to say something, but then she just fell silent.",
+        "notes": "用「〜かける」表示动作中途停止。",
+        "context": "对话中途"
+      },
+      {
+        "ja": "ケガが治りかけたときに、またケガをしてしまった。",
+        "zh": "在伤快要痊愈的时候，又受伤了。",
+        "en": "Just when the injury was about to heal, I got injured again.",
+        "notes": "用「〜かける」表示状态即将达成。",
+        "context": "负面连锁"
+      }
+    ],
+    "related_grammar": [
+      "〜途中だ"
+    ]
+  },
+  {
+    "id": "ka-to-omou-to",
+    "main_form": "〜かと思うと",
+    "variants": [
+      "〜かと思ったら"
+    ],
+    "search_keywords": [
+      "かと思うと",
+      "かと思ったら",
+      "直後",
+      "間髪をいれず"
+    ],
+    "meaning": "前项动作或状态刚一发生/结束，后项动作或状态就紧接着发生，表示变化迅速或出乎意料。",
+    "semantic_function": "表示一个接一个的快速变化，有惊讶或意外的语气。",
+    "usage_context": [
+      "口语"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "帰ってきたかと思ったら、またすぐ出かけて行った。",
+        "zh": "刚以为他回来了，他马上又出门了。",
+        "en": "Just when I thought he had come home, he immediately went out again.",
+        "notes": "表示动作的快速转换。",
+        "context": "人物行为"
+      },
+      {
+        "ja": "ご飯を食べ終わったかと思うと、次はケーキを食べ始めた。",
+        "zh": "刚吃完饭，接着就又开始吃蛋糕了。",
+        "en": "As soon as they finished eating, they started eating cake next.",
+        "notes": "表示动作的连续性。",
+        "context": "饮食行为"
+      },
+      {
+        "ja": "ビールを一口飲んだかと思うと、すぐに寝てしまった。",
+        "zh": "刚喝了一口啤酒，马上就睡着了。",
+        "en": "He had just taken a sip of beer, and then immediately fell asleep.",
+        "notes": "表示状态的快速变化。",
+        "context": "状态变化"
+      }
+    ],
+    "related_grammar": [
+      "〜た途端",
+      "〜が早いか"
+    ]
+  },
+  {
+    "id": "ageku",
+    "main_form": "〜あげく",
+    "variants": [],
+    "search_keywords": [
+      "あげく",
+      "結果",
+      "悪い結果",
+      "最終的に"
+    ],
+    "meaning": "在进行了长时间的某种行为或反复做了某种行为之后，最终得到了一个不好的结果。",
+    "semantic_function": "表示在经历了漫长或多次反复的**过程**后，最终得到了一个**负面的结果**。",
+    "usage_context": [
+      "书面语",
+      "正式口语"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "さんざん試着したあげく、結局何も買わなかった。",
+        "zh": "反复试穿了很久之后，结果什么都没买。",
+        "en": "After trying on countless clothes, in the end, I didn't buy anything.",
+        "notes": "表示做了很多努力，但结果是白费。",
+        "context": "购物经验"
+      },
+      {
+        "ja": "1時間も並んだあげく、売り切れで買えなかった。",
+        "zh": "排了一个小时的队之后，结果卖完了，没买到。",
+        "en": "After lining up for an hour, they were sold out and I couldn't buy it.",
+        "notes": "表示付出时间成本，但结果失败。",
+        "context": "排队购物"
+      },
+      {
+        "ja": "道に迷って3時間歩いたあげく、同じ場所に戻った。",
+        "zh": "迷路走了3个小时之后，结果又回到了同一个地方。",
+        "en": "After getting lost and walking for 3 hours, I returned to the same place.",
+        "notes": "表示付出精力，但结果没有进展。",
+        "context": "迷路"
+      }
+    ],
+    "related_grammar": [
+      "〜た結果",
+      "〜末に"
+    ]
+  },
+  {
+    "id": "ippou-da",
+    "main_form": "〜一方だ",
+    "variants": [],
+    "search_keywords": [
+      "一方だ",
+      "変化",
+      "傾向",
+      "ますます"
+    ],
+    "meaning": "表示某种状态或情况持续朝着一个方向发展，且程度越来越深。",
+    "semantic_function": "强调一种持续的、不断加剧的**变化趋势**（通常指不好的趋势，但也可以是好的）。",
+    "usage_context": [
+      "书面语",
+      "正式口语"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "毎日お菓子を食べてしまうので、太る一方だ。",
+        "zh": "因为每天都吃零食，所以只会越来越胖。",
+        "en": "Because I eat sweets every day, I'm just getting fatter and fatter.",
+        "notes": "表示持续的负面变化。",
+        "context": "体重变化"
+      },
+      {
+        "ja": "ゆか先生の動画をみているので、日本語がうまくなる一方です。",
+        "zh": "因为在看Yuka老师的视频，所以日语正变得越来越好。",
+        "en": "Because I'm watching Yuka-sensei's videos, my Japanese is just getting better and better.",
+        "notes": "表示持续的正面变化。",
+        "context": "技能提升"
+      },
+      {
+        "ja": "遊んでばかりなので、成績は下がる一方です。",
+        "zh": "因为只顾着玩，所以成绩只会不断下降。",
+        "en": "Because I'm only playing, my grades are just steadily dropping.",
+        "notes": "表示持续的负面变化。",
+        "context": "学业表现"
+      }
+    ],
+    "related_grammar": [
+      "〜ばかりだ"
+    ]
+  },
+  {
+    "id": "wake-ni-wa-ikanai",
+    "main_form": "〜わけにはいかない",
+    "variants": [
+      "〜わけにもいかない"
+    ],
+    "search_keywords": [
+      "わけにはいかない",
+      "義務",
+      "不能",
+      "道徳的制約"
+    ],
+    "meaning": "表示在道义上、常识上或情理上不允许做某事（不能），或者表示虽然不情愿，但不得不做某事（不得不 $\\sim$）。",
+    "semantic_function": "表达由于外部的社会或道德**制约**，而“不能做”或“不得不做”某事。",
+    "usage_context": [
+      "口语"
+    ],
+    "proficiency_level": "N3",
+    "examples": [
+      {
+        "ja": "日本に行くために、この試験に落ちるわけにはいかない。",
+        "zh": "为了去日本，这个考试是不能失败的。",
+        "en": "In order to go to Japan, I cannot fail this exam.",
+        "notes": "表示有必须达成的目标，因此不能失败。",
+        "context": "目标/必要性"
+      },
+      {
+        "ja": "部長に誘われたので、飲み会に参加しないわけにはいかない。",
+        "zh": "因为部长邀请了，所以不能不参加饮酒会。（不得不参加）",
+        "en": "Since the department head invited me, I can't not attend the drinking party.",
+        "notes": "表示由于人情世故等原因，不得不做某事。",
+        "context": "社交义务"
+      },
+      {
+        "ja": "ここで負けるわけにはいかない！",
+        "zh": "在这里是不能输的！",
+        "en": "I cannot lose here!",
+        "notes": "表示出于决心或重要性而不能失败。",
+        "context": "比赛/竞争"
+      }
+    ],
+    "related_grammar": [
+      "〜ざるをえない",
+      "〜てはならない"
+    ]
+  },
+  {
+    "id": "ta-totan",
+    "main_form": "〜た途端",
+    "variants": [],
+    "search_keywords": [
+      "た途端",
+      "直後",
+      "瞬間",
+      "が早いか"
+    ],
+    "meaning": "表示前项动作或状态刚一结束，后项动作或状态就立刻发生。",
+    "semantic_function": "强调两个动作或状态发生时间间隔极短，表示“**就在...的瞬间**”。",
+    "usage_context": [
+      "口语",
+      "书面语"
+    ],
+    "proficiency_level": "N2",
+    "examples": [
+      {
+        "ja": "外に出た途端、雨が降ってきた。",
+        "zh": "刚一出门，就下雨了。",
+        "en": "The moment I stepped outside, it started raining.",
+        "notes": "表示动作后立刻发生自然现象。",
+        "context": "天气变化"
+      },
+      {
+        "ja": "先生は私と目が合った途端、こわい顔をした。",
+        "zh": "老师和我四目相对的瞬间，就露出了可怕的表情。",
+        "en": "The moment the teacher's eyes met mine, she made a scary face.",
+        "notes": "表示两件事同时且瞬间发生。",
+        "context": "人际互动"
+      },
+      {
+        "ja": "彼が帰った途端、さびしくなってきた。",
+        "zh": "他一离开，我就开始感到寂寞了。",
+        "en": "The moment he left/returned home, I started to feel lonely.",
+        "notes": "表示动作后立刻产生某种心理状态。",
+        "context": "情感变化"
+      }
+    ],
+    "related_grammar": [
+      "〜が早いか",
+      "〜かと思うと"
+    ]
+  },
+  {
+    "id": "gachi",
+    "main_form": "〜がち",
+    "variants": [],
+    "search_keywords": [
+      "がち",
+      "傾向",
+      "よく",
+      "しやすい"
+    ],
+    "meaning": "表示经常出现某种情况或状态，带有消极的倾向。",
+    "semantic_function": "表示某人或某事物**倾向于**做某事或处于某种状态，常用于表达不好的习惯或状态。",
+    "usage_context": [
+      "口语"
+    ],
+    "proficiency_level": "N3",
+    "examples": [
+      {
+        "ja": "彼女は最近学校を休みがちだ。",
+        "zh": "她最近经常请假/倾向于休息。",
+        "en": "She tends to be absent from school lately.",
+        "notes": "表示动作「休む」的倾向性。",
+        "context": "学校生活"
+      },
+      {
+        "ja": "こわい人だと思われがちだけど、本当は優しい人です。",
+        "zh": "虽然容易被认为是可怕的人，但实际上是温柔的人。",
+        "en": "Although she tends to be thought of as a scary person, she is actually kind.",
+        "notes": "表示被动形式「思われる」的倾向性。",
+        "context": "个人印象"
+      },
+      {
+        "ja": "母は病気がちです。",
+        "zh": "我的母亲经常生病/体弱多病。",
+        "en": "My mother is often sick/tends to be sickly.",
+        "notes": "表示名词「病気」的状态倾向。",
+        "context": "健康状态"
+      }
+    ],
+    "related_grammar": [
+      "〜やすい",
+      "〜っぽい"
+    ]
+  }
+]
