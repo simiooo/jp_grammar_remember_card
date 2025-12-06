@@ -3,9 +3,9 @@ import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 import { Button } from './ui/button';
 import { Badge } from './ui/badge';
 import { Progress } from './ui/progress';
-import { ChevronLeft, ChevronRight, Volume2, BookOpen, Camera, CameraOff } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Volume2, BookOpen } from 'lucide-react';
 import { GrammarCard as GrammarCardType } from '../lib/db.ts';
-import { useGestureRecognition } from '../hooks/useGestureRecognition';
+// import { useGestureRecognition } from '../hooks/useGestureRecognition';
 
 interface GrammarCardProps {
   card: GrammarCardType;
@@ -20,20 +20,20 @@ interface GrammarCardProps {
 
 export function GrammarCardComponent({ card, stats, onKnown, onUnknown }: GrammarCardProps) {
   const [currentExampleIndex, setCurrentExampleIndex] = useState(0);
-  const [showGestureControls, setShowGestureControls] = useState(false);
+  // const [showGestureControls, setShowGestureControls] = useState(false);
 
-  const {
-    isDetecting,
-    lastGesture,
-    videoRef,
-    startDetection,
-    stopDetection,
-    error
-  } = useGestureRecognition({
-    onThumbUp: onKnown,
-    onThumbDown: onUnknown,
-    enabled: showGestureControls
-  });
+  // const {
+  //   isDetecting,
+  //   lastGesture,
+  //   videoRef,
+  //   startDetection,
+  //   stopDetection,
+  //   error
+  // } = useGestureRecognition({
+  //   onThumbUp: onKnown,
+  //   onThumbDown: onUnknown,
+  //   enabled: showGestureControls
+  // });
 
   useEffect(() => {
     const handleKeyPress = (event: KeyboardEvent) => {
@@ -116,7 +116,7 @@ export function GrammarCardComponent({ card, stats, onKnown, onUnknown }: Gramma
           >
             认识 (2)
           </Button>
-          <Button
+          {/* <Button
             onClick={() => {
               if (showGestureControls) {
                 stopDetection();
@@ -132,10 +132,10 @@ export function GrammarCardComponent({ card, stats, onKnown, onUnknown }: Gramma
           >
             {showGestureControls ? <CameraOff className="w-4 h-4" /> : <Camera className="w-4 h-4" />}
             {showGestureControls ? '关闭手势' : '手势控制'}
-          </Button>
+          </Button> */}
         </div>
 
-        {showGestureControls && (
+        {/* {showGestureControls && (
           <div className="space-y-2 pt-2">
             <div className="flex items-center justify-between">
               <div className="text-sm text-muted-foreground">
@@ -160,7 +160,7 @@ export function GrammarCardComponent({ card, stats, onKnown, onUnknown }: Gramma
               </div>
             )}
           </div>
-        )}
+        )} */}
       </CardHeader>
 
       <CardContent className="space-y-6">
@@ -254,7 +254,7 @@ export function GrammarCardComponent({ card, stats, onKnown, onUnknown }: Gramma
         )}
       </CardContent>
 
-      {isDetecting && (
+      {/* {isDetecting && (
         <div className="absolute top-4 right-4 w-32 h-24 bg-black rounded-lg overflow-hidden shadow-lg">
           <video
             ref={videoRef}
@@ -264,7 +264,7 @@ export function GrammarCardComponent({ card, stats, onKnown, onUnknown }: Gramma
             className="w-full h-full object-cover transform scale-x-[-1]"
           />
         </div>
-      )}
+      )} */}
     </Card>
   );
 }
